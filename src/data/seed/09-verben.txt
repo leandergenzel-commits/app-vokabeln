@@ -1,0 +1,79 @@
+// Unregelmäßige Verben mit conj=… (Präsens io, tu, lui/lei, noi, voi, loro)
+# Verben
+essere | sein | v;conj=sono,sei,è,siamo,siete,sono | 🌟 | ESSERE – Essenz: das Sein. „Sono“ = ich bin – wie ein Sonar, das sagt: Ich BIN hier! | lat. esse | Io *sono* tedesco. | Ich bin Deutscher.
+avere | haben | v;conj=ho,hai,ha,abbiamo,avete,hanno | 🤲 | AVERE – „Haben“ mit A-V: „Ho“ – das h ist stumm: Oh, ich hab's! | lat. habere | *Ho* due fratelli. | Ich habe zwei Brüder.
+fare | machen; tun | v;conj=faccio,fai,fa,facciamo,fate,fanno | 🛠️ | FARE – Fabrik (fabbrica), Fakt (das Gemachte). | lat. facere | Cosa *fai* stasera? | Was machst du heute Abend?
+andare | gehen; fahren | v;conj=vado,vai,va,andiamo,andate,vanno | 🚶 | ANDARE – Andante (gehend) in der Musik. Achtung: VADO, vai, va – „Vado-mecum“! | Musik: andante | *Vado* al mare. | Ich fahre ans Meer.
+venire | kommen | v;conj=vengo,vieni,viene,veniamo,venite,vengono | 🏃 | VENIRE – „Veni, vidi, vici“ – ich kam, sah und siegte. | lat. venire | *Vieni* con noi? | Kommst du mit uns?
+stare | sein; sich befinden; bleiben | v;conj=sto,stai,sta,stiamo,state,stanno | 🧘 | STARE – Status, stabil: wie man „steht“. Come stai? | lat. stare | *Sto* bene, grazie. | Mir geht's gut, danke.
+dare | geben | v;conj=do,dai,dà,diamo,date,danno | 🎁 | DARE – Datum = „das Gegebene“, Donation. | lat. dare | Mi *dai* il sale? | Gibst du mir das Salz?
+dire | sagen | v;conj=dico,dici,dice,diciamo,dite,dicono | 🗨️ | DIRE – Diktat, Diktator (der sagt, wo's langgeht). | lat. dicere | Cosa *dici*? | Was sagst du?
+potere | können; dürfen | v;conj=posso,puoi,può,possiamo,potete,possono | 💪 | POTERE – Potenz, potent: die Macht, etwas zu können. | engl. potential | *Posso* entrare? | Darf ich reinkommen?
+volere | wollen | v;conj=voglio,vuoi,vuole,vogliamo,volete,vogliono | 🙋 | VOLERE – Volontär (freiwillig), voluntary. | lat. velle | *Voglio* un gelato! | Ich will ein Eis!
+dovere | müssen | v;conj=devo,devi,deve,dobbiamo,dovete,devono | 📋 | DOVERE – „Devoir“ (frz. Hausaufgabe): DEVO = ich muss. | frz. devoir | *Devo* lavorare domani. | Ich muss morgen arbeiten.
+sapere | wissen; können (gelernt) | v;conj=so,sai,sa,sappiamo,sapete,sanno | 🧠 | SAPERE – Homo sapiens = der wissende Mensch. Non lo so = ich weiß es nicht. | lat. sapere | Non lo *so*. | Ich weiß es nicht.
+conoscere | kennen; kennenlernen | v | 🤝 | CONOSCERE – „Connaisseur“: ein Kenner. | frz. connaître | *Conosci* Marco? | Kennst du Marco?
+parlare | sprechen | v | 🗣️ | PARLARE – Parlament: dort wird geredet. | frz. parler | *Parli* italiano? | Sprichst du Italienisch?
+capire | verstehen | v;isc | 💡 | CAPIRE – kapieren! capisco, capisci (mit -isc-). | dt. kapieren | Non *capisco*. | Ich verstehe nicht.
+sentire | hören; fühlen | v | 👂 | SENTIRE – sentimental, Sensor. | engl. sense | *Senti* questa musica! | Hör dir diese Musik an!
+vedere | sehen | v | 👁️ | VEDERE – Video (ich sehe). | lat. videre | Ci *vediamo* domani! | Wir sehen uns morgen!
+guardare | (an)schauen | v | 👀 | GUARDARE – Guard, Garde: sie schaut aufmerksam. | engl. guard | *Guardo* la TV. | Ich schaue fern.
+ascoltare | zuhören; hören | v | 🎧 | ASCOLTARE – Auskultation (Abhorchen beim Arzt). | | *Ascolta* bene! | Hör gut zu!
+prendere | nehmen; bestellen | v | 🫴 | PRENDERE – „Prendi!“ = Nimm! Prehensile = greifend. | frz. prendre | *Prendo* un caffè. | Ich nehme einen Kaffee.
+mettere | legen; stellen; setzen | v | 📥 | METTERE – Mit-Teil hinsetzen; „mettiamo“ = nehmen wir an. | lat. mittere | *Metti* il latte in frigo. | Stell die Milch in den Kühlschrank.
+portare | bringen; tragen | v | 🛍️ | PORTARE – Porter = Gepäckträger, Portemonnaie. | engl. porter | Ti *porto* un regalo. | Ich bringe dir ein Geschenk.
+trovare | finden | v | 🔍 | TROVARE – „Troubadour“ = der (Verse) Findende. | frz. trouver | Non *trovo* le chiavi. | Ich finde die Schlüssel nicht.
+cercare | suchen | v | 🔎 | CERCARE – „Zirkel“: im Kreis suchen (search). cerco, cerchi! | engl. search | *Cerco* un albergo. | Ich suche ein Hotel.
+chiedere | fragen; bitten | v | 🙋‍♀️ | CHIEDERE – „Kiederere“ → quest → request. | engl. request | Posso *chiedere* una cosa? | Darf ich etwas fragen?
+rispondere | antworten | v | 💬 | RISPONDERE – respond. | engl. respond | Non *risponde* al telefono. | Er geht nicht ans Telefon.
+pensare | denken | v | 💭 | PENSARE – pensiv, „Pensée“. | frz. penser | Cosa ne *pensi*? | Was hältst du davon?
+credere | glauben | v | 🙏 | CREDERE – Credo, Kredit (Vertrauen). | lat. credere | Non ci *credo*! | Ich glaub's nicht!
+sperare | hoffen | v | 🤞 | SPERARE – Esperanza, Desperado (ohne Hoffnung). | span. esperar | *Spero* di sì. | Ich hoffe es.
+aspettare | warten; erwarten | v | ⏳ | ASPETTARE – Aspekt: nach etwas Ausschau halten. | engl. expect | Ti *aspetto* al bar. | Ich warte in der Bar auf dich.
+abitare | wohnen | v | 🏠 | ABITARE – Habitat. | engl. inhabit | Dove *abiti*? | Wo wohnst du?
+vivere | leben | v | 🌱 | VIVERE – vital, „Viva!“ | lat. vivere | *Vivo* a Monaco. | Ich lebe in München.
+amare | lieben | v | ❤️ | AMARE – Amor, Amateur (Liebhaber). | lat. amare | Ti *amo*. | Ich liebe dich.
+piacere (mi piace) | gefallen; mögen | v;conj=piaccio,piaci,piace,piacciamo,piacete,piacciono | 😍 | Mi PIACE = mir gefällt (wie „plaisir“). Achtung: Mi piacciono le olive (Plural)! | frz. plaire | Mi *piace* la pizza. | Ich mag Pizza.
+volere bene | gern haben; lieb haben | expr | 🫶 | „Gutes wollen“ – Ti voglio bene = Ich hab dich lieb (Familie, Freunde). | | Ti *voglio bene*, mamma. | Ich hab dich lieb, Mama.
+aiutare | helfen | v | 🆘 | AIUTARE – „Ai! Uta!“ – Uta ruft um Hilfe. | | Mi puoi *aiutare*? | Kannst du mir helfen?
+cominciare | anfangen; beginnen | v | 🏁 | COMINCIARE – commence. | engl. commence | Il film *comincia* alle nove. | Der Film fängt um neun an.
+finire | beenden; aufhören | v;isc | 🔚 | FINIRE – Finale, Finish. finisco! | engl. finish | *Finisco* alle cinque. | Ich mache um fünf Schluss.
+chiudere | schließen | v | 🔒 | CHIUDERE – „Klausur“ (lat. claudere): abgeschlossen. | lat. claudere | *Chiudi* la finestra! | Mach das Fenster zu!
+aprire | öffnen | v | 🔓 | APRIRE – April: die Natur öffnet sich. | lat. aperire | *Apri* la porta! | Mach die Tür auf!
+entrare | eintreten; hineingehen | v | 🚪 | ENTRARE – Entree, enter. | engl. enter | Posso *entrare*? | Darf ich reinkommen?
+tornare | zurückkommen | v | 🔙 | TORNARE – Tournee, Return. | engl. return | *Torno* subito! | Ich bin gleich zurück!
+restare | bleiben | v | 🪑 | RESTARE – Rest: wer bleibt, ist der Rest. | engl. rest | *Resto* a casa stasera. | Ich bleibe heute Abend zu Hause.
+rimanere | bleiben | v;conj=rimango,rimani,rimane,rimaniamo,rimanete,rimangono | 🏡 | RIMANERE – „remain“. | engl. remain | *Rimango* una settimana. | Ich bleibe eine Woche.
+scendere | aussteigen; hinuntergehen | v | ⬇️ | SCENDERE – descend. | engl. descend | *Scendo* alla prossima. | Ich steige an der nächsten aus.
+salire | einsteigen; hinaufgehen | v;conj=salgo,sali,sale,saliamo,salite,salgono | ⬆️ | SALIRE – „Salto“ nach oben. | | *Salgo* sull'autobus. | Ich steige in den Bus.
+dormire | schlafen | v | 😴 | DORMIRE – Dormitorium (Schlafsaal). | engl. dormitory | Hai *dormito* bene? | Hast du gut geschlafen?
+svegliarsi | aufwachen | v | ⏰ | SVEGLIARSI – „Weck-li-arsi“: Sveglia = Wecker. | | *Mi sveglio* alle sette. | Ich wache um sieben auf.
+alzarsi | aufstehen | v | 🛏️ | ALZARSI – „Alzheimer“? Nein: „altus“ = hoch → sich erheben. | lat. altus | *Mi alzo* presto. | Ich stehe früh auf.
+chiamarsi | heißen | v | 📛 | CHIAMARSI – „Man ruft sich“: Mi chiamo … | | Come *ti chiami*? | Wie heißt du?
+lavarsi | sich waschen | v | 🧼 | LAVARSI – Lavendel, Lavabo (Waschbecken). | | *Mi lavo* le mani. | Ich wasche mir die Hände.
+vestirsi | sich anziehen | v | 👔 | VESTIRSI – Weste (vestito). | | *Mi vesto* e arrivo. | Ich ziehe mich an und komme.
+sedersi | sich setzen | v;conj=mi siedo,ti siedi,si siede,ci sediamo,vi sedete,si siedono | 🪑 | SEDERSI – Sediment setzt sich, Sessel. | lat. sedere | Prego, *si sieda*! | Bitte, setzen Sie sich!
+sentirsi | sich fühlen | v | 🫀 | SENTIRSI – Sentiment. | | Come *ti senti*? | Wie fühlst du dich?
+mangiare fuori | auswärts essen | expr | 🍽️ | FUORI = draußen. | | Stasera *mangiamo fuori*. | Heute Abend essen wir auswärts.
+fare colazione | frühstücken | expr | 🥐 | „Frühstück machen“. | | *Facciamo colazione* insieme? | Frühstücken wir zusammen?
+fare la doccia | duschen | expr | 🚿 | „Die Dusche machen“. | | *Faccio la doccia* e arrivo. | Ich dusche und komme.
+fare una foto | ein Foto machen | expr | 📷 | Wie im Deutschen. | | Mi puoi *fare una foto*? | Kannst du ein Foto von mir machen?
+dimenticare | vergessen | v | 🫥 | DIMENTICARE – „di-mente“: aus dem Kopf (mente) raus. dimentico, dimentichi! | | Ho *dimenticato* il passaporto! | Ich habe den Pass vergessen!
+ricordare | sich erinnern | v | 💭 | RICORDARE – Rekord: aus dem Herzen (cor) wiederholen. | engl. record | Non mi *ricordo*. | Ich erinnere mich nicht.
+scegliere | (aus)wählen | v;conj=scelgo,scegli,sceglie,scegliamo,scegliete,scelgono | ☝️ | SCEGLIERE – „Schälen“: das Beste herausschälen. | | *Scegli* tu il vino! | Such du den Wein aus!
+decidere | entscheiden | v | ⚖️ | DECIDERE – decide. | engl. decide | Non so *decidere*. | Ich kann mich nicht entscheiden.
+cambiare | wechseln; ändern | v | 🔄 | CAMBIARE – Cambio = Wechselstube. | engl. change | Devo *cambiare* treno? | Muss ich umsteigen?
+usare | benutzen | v | 🧰 | USARE – use. | engl. use | Posso *usare* il bagno? | Darf ich die Toilette benutzen?
+lasciare | lassen; verlassen | v | 👋 | LASCIARE – „lass-iare“: lassen! | | *Lascia* stare! | Lass es gut sein!
+perdere | verlieren; verpassen | v | 😩 | PERDERE – perdu (frz.), „Verderb“. | frz. perdre | Ho *perso* il treno. | Ich habe den Zug verpasst.
+vincere | gewinnen | v | 🏆 | VINCERE – Vinci, „vici“ = ich siegte. | lat. vincere | Chi *vince*? | Wer gewinnt?
+spendere | ausgeben (Geld) | v | 💸 | SPENDERE – spenden, spend. | engl. spend | *Spendo* troppo. | Ich gebe zu viel aus.
+mandare | schicken | v | 📤 | MANDARE – Mandat, Auftrag erteilen. | | Ti *mando* un messaggio. | Ich schicke dir eine Nachricht.
+spedire | versenden (Post) | v;isc | 📮 | SPEDIRE – Spedition! spedisco. | dt. Spedition | *Spedisco* una cartolina. | Ich verschicke eine Postkarte.
+telefonare | anrufen | v | 📞 | Wie telefonieren. | | Ti *telefono* stasera. | Ich ruf dich heute Abend an.
+chiamare | rufen; anrufen | v | 📲 | CHIAMARE – Claim, „Ruf!“. | | *Chiamo* un taxi. | Ich rufe ein Taxi.
+incontrare | treffen; begegnen | v | 👫 | INCONTRARE – encounter. | engl. encounter | *Incontro* gli amici in piazza. | Ich treffe die Freunde auf dem Platz.
+conoscersi | sich kennenlernen; sich kennen | v | 🤝 | CONOSCERSI – Connaisseur: sich gegenseitig kennen. | | Ci *conosciamo*? | Kennen wir uns?
+sposarsi | heiraten | v | 💒 | SPOSARSI – spouse. | engl. spouse | Ci *sposiamo* a maggio. | Wir heiraten im Mai.
+nascere | geboren werden | v | 👶 | NASCERE – naiv, Natal, Renaissance (Wiedergeburt). | lat. nasci | Sono *nato* a Colonia. | Ich bin in Köln geboren.
+morire | sterben | v;conj=muoio,muori,muore,moriamo,morite,muoiono | ⚰️ | MORIRE – Memento mori, mortal. | lat. mori | *Muoio* di fame! | Ich sterbe vor Hunger!

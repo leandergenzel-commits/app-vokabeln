@@ -1,0 +1,81 @@
+# Körper & Gesundheit
+il corpo | der Körper | m | 🧍 | CORPO – Korpus, Corpus delicti. | lat. corpus | Il *corpo* umano. | Der menschliche Körper.
+la testa | der Kopf | f | 🗣️ | TESTA – „Test-a“: den Kopf testen. | frz. tête | Mi fa male la *testa*. | Mir tut der Kopf weh.
+i capelli | die Haare (Kopf) | m;pl | 💇 | CAPELLI – Capellini = haarfeine Nudeln! | | Hai dei bei *capelli*. | Du hast schöne Haare.
+la faccia | das Gesicht | f | 🙂 | FACCIA – Face, Fassade. | engl. face | Lavati la *faccia*! | Wasch dir das Gesicht!
+gli occhi | die Augen | m;pl | 👀 | OCCHI – okular, Okular. Sing.: l'occhio. | lat. oculus | Hai gli *occhi* azzurri. | Du hast blaue Augen.
+l'orecchio | das Ohr | m;pl=le orecchie | 👂 | ORECCHIO – „Ohr-ecchio“, Ohrring = orecchino. | lat. auris | Mi fa male l'*orecchio*. | Mir tut das Ohr weh.
+il naso | die Nase | m | 👃 | NASO – Nase, nasal. | | Ha un *naso* lungo come Pinocchio. | Er hat eine lange Nase wie Pinocchio.
+la bocca | der Mund | f | 👄 | BOCCA – „In bocca al lupo“ = ins Maul des Wolfes. | | Apri la *bocca*! | Mach den Mund auf!
+il dente | der Zahn | m | 🦷 | DENTE – Dentist; al dente = „für den Zahn“ (bissfest). | engl. dentist | Mi fa male un *dente*. | Mir tut ein Zahn weh.
+la lingua | die Zunge; die Sprache | f | 👅 | LINGUA – Linguistik. Zunge und Sprache! | engl. language | Parli quante *lingue*? | Wie viele Sprachen sprichst du?
+il collo | der Hals | m | 🦒 | COLLO – Collier am Hals, Kollar. | | Ho mal di *collo*. | Ich habe Nackenschmerzen.
+la gola | der Hals (innen); die Kehle | f | 🗣️ | GOLA – Gurgel → Gola. Mal di gola = Halsweh. | | Ho mal di *gola*. | Ich habe Halsschmerzen.
+la spalla | die Schulter | f | 💪 | SPALLA – „Spalier“ an der Schulter. | | Mi fa male la *spalla*. | Mir tut die Schulter weh.
+il braccio | der Arm | m;pl=le braccia | 💪 | BRACCIO – Brachial (mit Armgewalt), Bracelet. Plural: le braccia! | engl. bracelet | Mi sono rotto il *braccio*. | Ich habe mir den Arm gebrochen.
+la mano | die Hand | f;pl=le mani | ✋ | MANO – manuell, Manikür. Achtung: LA mano (feminin trotz -o)! | lat. manus | Lavati le *mani*! | Wasch dir die Hände!
+il dito | der Finger | m;pl=le dita | ☝️ | DITO – digital (lat. digitus = Finger). Plural: le dita! | lat. digitus | Mi sono tagliato un *dito*. | Ich habe mich in den Finger geschnitten.
+la schiena | der Rücken | f | 🔙 | SCHIENA – „Schiene“: die Wirbelsäule ist die Schiene des Körpers. | | Ho mal di *schiena*. | Ich habe Rückenschmerzen.
+la pancia | der Bauch | f | 🫃 | PANCIA – Pansen, Panzer → Bauch. | | Mi fa male la *pancia*. | Ich habe Bauchweh.
+lo stomaco | der Magen | m | 🫄 | STOMACO – Stomach. | engl. stomach | Ho lo *stomaco* vuoto. | Ich habe einen leeren Magen.
+il cuore | das Herz | m | ❤️ | CUORE – Courage (Mut kommt vom Herzen), Core. | lat. cor | Ti amo con tutto il *cuore*. | Ich liebe dich von ganzem Herzen.
+la gamba | das Bein | f | 🦵 | GAMBA – Gambe = Beine; Viola da gamba (zwischen den Beinen gespielt). | | Mi fa male la *gamba*. | Mir tut das Bein weh.
+il ginocchio | das Knie | m;pl=le ginocchia | 🦵 | GINOCCHIO – „Gin-Knochen“: Knie beugen. | | Sono caduto sul *ginocchio*. | Ich bin aufs Knie gefallen.
+il piede | der Fuß | m | 🦶 | PIEDE – Pedal, Pediküre. A piedi = zu Fuß. | lat. pes | Vado *a piedi*. | Ich gehe zu Fuß.
+la pelle | die Haut | f | 🧴 | PELLE – Pelle (Wursthaut), Pelz. | | Ho la *pelle* sensibile. | Ich habe empfindliche Haut.
+il sangue | das Blut | m | 🩸 | SANGUE – Sanguiniker, Sangria (rot wie Blut). | | Gli esce il *sangue* dal naso. | Er hat Nasenbluten.
+la salute | die Gesundheit | f | 💚 | SALUTE – „Salut!“ beim Anstoßen: auf die Gesundheit. | | La *salute* è importante. | Gesundheit ist wichtig.
+malato/malata | krank | adj | 🤒 | MALATO – Malaria, Malheur: es geht schlecht. | | Oggi sono *malata*. | Heute bin ich krank.
+il dolore | der Schmerz | m | 🤕 | DOLORE – Dolorosa, „Doloran“ (Schmerzmittel). | | Ho un forte *dolore*. | Ich habe starke Schmerzen.
+fare male | wehtun | expr | 🤕 | „Macht schlecht“ – Mi fa male la testa = mein Kopf tut weh. | | Dove ti *fa male*? | Wo tut es dir weh?
+la febbre | das Fieber | f | 🌡️ | FEBBRE – Fieber (lat. febris). | engl. fever | Ho la *febbre* a 38. | Ich habe 38 Fieber.
+il raffreddore | die Erkältung; der Schnupfen | m | 🤧 | RAFFREDDORE – freddo (kalt) → erkältet. | | Ho preso il *raffreddore*. | Ich habe mich erkältet.
+la tosse | der Husten | f | 😷 | TOSSE – „Toss“: Husten wirft dich hin und her. | | Ho una brutta *tosse*. | Ich habe einen üblen Husten.
+il medico | der Arzt | m | 👨‍⚕️ | MEDICO – Medizin, Medikus. | | Devo andare dal *medico*. | Ich muss zum Arzt.
+il dottore | der Doktor; der Arzt | m | 🩺 | Wie Doktor. Weiblich: la dottoressa. | | Il *dottore* arriva subito. | Der Doktor kommt gleich.
+la medicina | das Medikament; die Medizin | f | 💊 | Wie Medizin. | | Prendi la *medicina* tre volte al giorno. | Nimm das Medikament dreimal täglich.
+la pastiglia | die Tablette | f | 💊 | PASTIGLIA – Pastille. | | Una *pastiglia* per il mal di testa. | Eine Tablette gegen Kopfschmerzen.
+il cerotto | das Pflaster | m | 🩹 | CEROTTO – „Cera“ = Wachs: früher wachsgetränkt. | | Hai un *cerotto*? | Hast du ein Pflaster?
+l'ambulanza | der Krankenwagen | f | 🚑 | AMBULANZA – Ambulanz. | | Chiamate un'*ambulanza*! | Ruft einen Krankenwagen!
+il pronto soccorso | die Notaufnahme | m | 🏥 | PRONTO (bereit) SOCCORSO (Hilfe) – sofortige Hilfe. | | Andiamo al *pronto soccorso*. | Wir fahren in die Notaufnahme.
+l'allergia | die Allergie | f | 🤧 | Wie Allergie. | | Ho un'*allergia* alle noci. | Ich habe eine Nussallergie.
+incinta | schwanger | adj | 🤰 | INCINTA – „In-Zinta“: ohne Gürtel (cinta), weil der Bauch wächst. | | Mia moglie è *incinta*. | Meine Frau ist schwanger.
+riposarsi | sich ausruhen | v | 🛌 | RIPOSARSI – „Re-Pause“: Ruhe! | engl. repose | Devi *riposarti*. | Du musst dich ausruhen.
+guarire | gesund werden; heilen | v;isc | 🩹 | GUARIRE – „Garantiert wieder gesund“. guarisco! | | Spero di *guarire* presto. | Ich hoffe, bald gesund zu werden.
+
+# Kleidung & Farben
+i vestiti | die Kleidung; die Kleider | m;pl | 👕 | VESTITI – Weste, Investitur (einkleiden). | engl. vest | Metto i *vestiti* in valigia. | Ich packe die Kleider in den Koffer.
+il vestito | das Kleid; der Anzug | m | 👗 | Ein vestito kann Kleid oder Anzug sein. | | Un *vestito* da sera. | Ein Abendkleid.
+la maglietta | das T-Shirt | f | 👕 | MAGLIETTA – Masche (maglia) → kleines Strickteil. | | Una *maglietta* bianca. | Ein weißes T-Shirt.
+la camicia | das Hemd; die Bluse | f | 👔 | CAMICIA – Kamisol → Hemd. | | Stiro la *camicia*. | Ich bügle das Hemd.
+il maglione | der Pullover | m | 🧶 | MAGLIONE – große Masche (maglia + -one). | | Metti il *maglione*, fa freddo! | Zieh den Pulli an, es ist kalt!
+i pantaloni | die Hose | m;pl | 👖 | PANTALONI – Pantalons, Pants. Plural! | engl. pants | I *pantaloni* sono troppo lunghi. | Die Hose ist zu lang.
+i jeans | die Jeans | m;pl | 👖 | Wie Jeans. | | Porto sempre i *jeans*. | Ich trage immer Jeans.
+la gonna | der Rock | f | 👗 | GONNA – „Gown“: der Rock. | engl. gown | Una *gonna* lunga. | Ein langer Rock.
+la giacca | die Jacke; das Sakko | f | 🧥 | GIACCA – „Jacke“ mit italienischem Dsch. | engl. jacket | Prendi la *giacca*! | Nimm die Jacke!
+il cappotto | der Mantel | m | 🧥 | CAPPOTTO – Cape → großer Mantel. | | Il *cappotto* invernale. | Der Wintermantel.
+le scarpe | die Schuhe | f;pl | 👞 | SCARPE – „Scharfe Schuhe“. Sing.: la scarpa. | | Queste *scarpe* sono comode. | Diese Schuhe sind bequem.
+gli stivali | die Stiefel | m;pl | 👢 | STIVALI – Stiefel. Italien ist „lo stivale“! | | Gli *stivali* di pelle. | Die Lederstiefel.
+i calzini | die Socken | m;pl | 🧦 | CALZINI – „Kalzium-Socken“: Calze = Strümpfe. | | Un paio di *calzini*. | Ein Paar Socken.
+il cappello | der Hut | m | 👒 | CAPPELLO – Cap, Kappe. Nicht verwechseln mit capelli (Haare)! | engl. cap | Un *cappello* di paglia. | Ein Strohhut.
+la sciarpa | der Schal | f | 🧣 | SCIARPA – Schärpe → Schal. | | Metti la *sciarpa*. | Zieh den Schal an.
+il costume da bagno | der Badeanzug; die Badehose | m | 🩱 | Kostüm zum Baden. | | Ho dimenticato il *costume da bagno*! | Ich habe die Badesachen vergessen!
+gli occhiali da sole | die Sonnenbrille | m;pl | 🕶️ | OCCHIALI (Brille) DA SOLE (für Sonne). | | Dove sono i miei *occhiali da sole*? | Wo ist meine Sonnenbrille?
+la cintura | der Gürtel | f | 🪢 | CINTURA – Gürtel (Cingulum). | | Una *cintura* di pelle. | Ein Ledergürtel.
+indossare | tragen (Kleidung); anziehen | v | 👗 | IN-DOSSARE: auf den Rücken (dosso) nehmen. | | Cosa *indossi* stasera? | Was ziehst du heute Abend an?
+mettersi | (sich etwas) anziehen | v;conj=mi metto,ti metti,si mette,ci mettiamo,vi mettete,si mettono | 🧥 | METTERSI – sich etwas „mitten“ an den Körper setzen. | | *Mi metto* la giacca. | Ich ziehe mir die Jacke an.
+il colore | die Farbe | m | 🎨 | COLORE – Color. Achtung: maskulin! | engl. color | Che *colore* preferisci? | Welche Farbe magst du am liebsten?
+rosso/rossa | rot | adj | 🔴 | ROSSO – Rosé, Rubin, Ferrari rosso! | | Un vino *rosso*. | Ein Rotwein.
+verde | grün | adj | 🟢 | VERDE – „Werde grün“ (Verdure = Grünzeug). | | Il semaforo è *verde*. | Die Ampel ist grün.
+bianco/bianca | weiß | adj | ⚪ | BIANCO – blank, Mont Blanc. | frz. blanc | Vino *bianco*. | Weißwein.
+nero/nera | schwarz | adj | ⚫ | NERO – Kaiser Nero mit schwarzer Seele. | | Un caffè *nero*. | Ein schwarzer Kaffee.
+blu | blau (dunkel) | adj | 🔵 | BLU – Blue; unveränderlich. | engl. blue | Il mare è *blu*. | Das Meer ist blau.
+azzurro/azzurra | hellblau; himmelblau | adj | 🩵 | AZZURRO – Azur; die italienische Nationalmannschaft: gli Azzurri! | | Il cielo è *azzurro*. | Der Himmel ist hellblau.
+giallo/gialla | gelb | adj | 🟡 | GIALLO – „Gelb-lo“. Un giallo = ein Krimi (gelbe Buchcover)! | | Un taxi *giallo*. | Ein gelbes Taxi.
+arancione | orange | adj | 🟠 | ARANCIONE – Arancia (Orange). | | Una maglietta *arancione*. | Ein orangefarbenes T-Shirt.
+rosa | rosa | adj | 🌸 | Wie Rosa, unveränderlich. | | Una camicia *rosa*. | Ein rosa Hemd.
+viola | lila | adj | 🟣 | VIOLA – Veilchen (Violett). Unveränderlich. | engl. violet | Un fiore *viola*. | Eine lila Blume.
+marrone | braun | adj | 🟤 | MARRONE – Marone (Esskastanie) ist braun! | | Scarpe *marroni*. | Braune Schuhe.
+grigio/grigia | grau | adj | 🩶 | GRIGIO – „Gris“, Greis mit grauen Haaren. | frz. gris | Il cielo è *grigio*. | Der Himmel ist grau.
+chiaro/chiara | hell; klar | adj | 🌤️ | CHIARO – klar. Chiaro! = Klar! | engl. clear | Un colore *chiaro*. | Eine helle Farbe.
+scuro/scura | dunkel | adj | 🌑 | SCURO – obskur, dunkel. | engl. obscure | Capelli *scuri*. | Dunkle Haare.

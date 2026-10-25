@@ -1,0 +1,109 @@
+# Einkaufen & Geld
+il negozio | das Geschäft; der Laden | m | 🏪 | NEGOZIO – Negotiation: im Laden wird verhandelt. | engl. negotiate | Il *negozio* chiude alle sette. | Der Laden schließt um sieben.
+il supermercato | der Supermarkt | m | 🛒 | SUPER-MERCATO = super Markt. | | Vado al *supermercato*. | Ich gehe in den Supermarkt.
+il mercato | der Markt | m | 🧺 | MERCATO – Markt, Merkur (Gott der Händler). | engl. market | Il *mercato* c'è il sabato. | Markt ist samstags.
+la spesa | der Einkauf (Lebensmittel) | f | 🛍️ | SPESA – Spesen = Ausgaben. Fare la spesa = einkaufen. | | Faccio la *spesa* dopo il lavoro. | Ich kaufe nach der Arbeit ein.
+comprare | kaufen | v | 💳 | COMPRARE – „Kompromiss beim Preis“: kaufen. | span. comprar | Devo *comprare* il pane. | Ich muss Brot kaufen.
+vendere | verkaufen | v | 🏷️ | VENDERE – Vending machine = Verkaufsautomat. | engl. vending | *Vendono* frutta fresca. | Sie verkaufen frisches Obst.
+pagare | bezahlen | v | 💶 | PAGARE – pay. Pagare → pago, paghi (h!). | engl. pay | Posso *pagare* con la carta? | Kann ich mit Karte zahlen?
+costare | kosten | v | 💲 | COSTARE – cost. | engl. cost | Quanto *costa* questo? | Wie viel kostet das?
+il prezzo | der Preis | m | 🏷️ | PREZZO – Preis, precious. | engl. price | Il *prezzo* è giusto. | Der Preis ist fair.
+i soldi | das Geld | m;pl | 💰 | SOLDI – Sold: Soldaten bekamen Geld (Sold). Immer Plural! | dt. Sold | Non ho *soldi*. | Ich habe kein Geld.
+il denaro | das Geld (formell) | m | 🪙 | DENARO – der römische Denar. | | Il *denaro* non fa la felicità. | Geld macht nicht glücklich.
+l'euro | der Euro | m | 💶 | Unveränderlich: un euro, due euro. | | Costa dieci *euro*. | Es kostet zehn Euro.
+il centesimo | der Cent | m | 🪙 | CENTESIMO – Hundertstel (cento). | | Cinquanta *centesimi*. | Fünfzig Cent.
+la carta di credito | die Kreditkarte | f | 💳 | Wörtlich: Kreditkarte. | | Accettate la *carta di credito*? | Nehmen Sie Kreditkarte?
+il bancomat | der Geldautomat; die EC-Karte | m | 🏧 | BANCOMAT – Bank-Automat. | | C'è un *bancomat* qui vicino? | Gibt es hier in der Nähe einen Geldautomaten?
+contanti | bar (Bargeld) | m;pl | 💵 | CONTANTI – „zum Zählen“ (contare): Bargeld. In contanti = bar. | | Pago in *contanti*. | Ich zahle bar.
+il resto | das Wechselgeld; der Rest | m | 🔄 | RESTO – der Rest, der zurückkommt. | | Tenga il *resto*! | Stimmt so!
+lo sconto | der Rabatt | m | 🔖 | SCONTO – Skonto! | dt. Skonto | Mi fa uno *sconto*? | Geben Sie mir Rabatt?
+i saldi | der Schlussverkauf | m;pl | 🏷️ | SALDI – „Saldo“: Lager wird saldiert, alles muss raus! | | A gennaio ci sono i *saldi*. | Im Januar ist Schlussverkauf.
+caro/cara | teuer; lieb | adj | 💎 | CARO – „Karat“: teuer wie Diamanten. Auch: Caro amico = lieber Freund. | | È troppo *caro*! | Das ist zu teuer!
+economico/economica | günstig; billig | adj | 🪙 | ECONOMICO – economy class: günstig. | | Un albergo *economico*. | Ein günstiges Hotel.
+gratis | gratis; kostenlos | adv | 🆓 | Wie im Deutschen. | | L'ingresso è *gratis*. | Der Eintritt ist kostenlos.
+la taglia | die Größe (Kleidung) | f | 📐 | TAGLIA – „Taille“: Welche Taillen-Größe? | frz. taille | Che *taglia* porta? | Welche Größe tragen Sie?
+il numero (di scarpe) | die Schuhgröße | m | 👟 | Bei Schuhen sagt man NUMERO. | | Che *numero* porta? | Welche Schuhgröße haben Sie?
+provare | anprobieren; probieren; versuchen | v | 🪞 | PROVARE – probieren, „prove it“. | engl. prove | Posso *provare* questa giacca? | Kann ich diese Jacke anprobieren?
+il camerino | die Umkleidekabine | m | 🚪 | CAMERINO – kleine Kammer (camera). | | Dov'è il *camerino*? | Wo ist die Umkleide?
+il sacchetto | die Tüte | m | 🛍️ | SACCHETTO – kleiner Sack. | | Vuole un *sacchetto*? | Möchten Sie eine Tüte?
+la farmacia | die Apotheke | f | 💊 | FARMACIA – Pharmazie. | | La *farmacia* è aperta di notte? | Hat die Apotheke nachts geöffnet?
+il panificio | die Bäckerei | m | 🥖 | PANI-FICIO = Brot-Macherei. Auch: il forno. | | Compro il pane al *panificio*. | Ich kaufe das Brot in der Bäckerei.
+la macelleria | die Metzgerei | f | 🥩 | MACELLERIA – Makel: hier wird geschlachtet (macellare). | | Il prosciutto della *macelleria*. | Der Schinken aus der Metzgerei.
+l'edicola | der Zeitungskiosk | f | 📰 | EDICOLA – kleines Gebäude (Ädikula) für Zeitungen – und Bustickets! | | I biglietti dell'autobus si comprano in *edicola*. | Bustickets kauft man am Kiosk.
+il tabaccaio | der Tabakladen | m | 🚬 | TABACCAIO – Tabak. Mit dem „T“-Schild: Briefmarken, Tickets! | | Il *tabaccaio* vende anche francobolli. | Der Tabakladen verkauft auch Briefmarken.
+aperto/aperta | geöffnet; offen | adj | 🟢 | APERTO – „aperitivo“ öffnet den Appetit. | lat. apertus | Il museo è *aperto*. | Das Museum ist geöffnet.
+chiuso/chiusa | geschlossen | adj | 🔴 | CHIUSO – „Kiuso“ – „Klappe zu“. | | Lunedì è *chiuso*. | Montags ist geschlossen.
+l'orario | die Öffnungszeiten; der Fahrplan | m | 🕘 | ORARIO – Ora = Stunde → Stundenplan. | | Qual è l'*orario* di apertura? | Wie sind die Öffnungszeiten?
+
+# Reisen & Verkehr
+il viaggio | die Reise | m | 🧳 | VIAGGIO – Voyage. | frz. voyage | Il *viaggio* è stato lungo. | Die Reise war lang.
+viaggiare | reisen | v | 🌍 | VIAGGIARE – voyager. | | Mi piace *viaggiare*. | Ich reise gern.
+la vacanza | der Urlaub | f | 🏖️ | VACANZA – vacation. Andare in vacanza = in Urlaub fahren. | engl. vacation | Siamo in *vacanza*. | Wir sind im Urlaub.
+il turista | der Tourist | mf | 📸 | il/la turista – Endung -ista für beide. | | Ci sono tanti *turisti*. | Es gibt viele Touristen.
+la valigia | der Koffer | f | 🧳 | VALIGIA – Valise (frz. Koffer). | frz. valise | Devo fare la *valigia*. | Ich muss den Koffer packen.
+lo zaino | der Rucksack | m | 🎒 | ZAINO – „Zaino“: Zelt und Rucksack. Lo vor z! | | Ho tutto nello *zaino*. | Ich habe alles im Rucksack.
+il passaporto | der Reisepass | m | 🛂 | PASSAPORTO – Passport. | | Ecco il mio *passaporto*. | Hier ist mein Pass.
+la carta d'identità | der Personalausweis | f | 🪪 | Identitätskarte. | | Un documento: la *carta d'identità*. | Ein Ausweis: der Personalausweis.
+il biglietto | die Fahrkarte; das Ticket | m | 🎫 | BIGLIETTO – Billet. | frz. billet | Un *biglietto* per Firenze. | Eine Fahrkarte nach Florenz.
+andata e ritorno | hin und zurück | expr | 🔁 | ANDATA (Hingang) E RITORNO (Retour). | | Un biglietto di *andata e ritorno*. | Eine Hin- und Rückfahrkarte.
+solo andata | einfach (nur hin) | expr | ➡️ | SOLO ANDATA = nur Hinfahrt. | | *Solo andata*, per favore. | Nur hin, bitte.
+il treno | der Zug | m | 🚆 | TRENO – Train. | engl. train | Il *treno* è in ritardo. | Der Zug hat Verspätung.
+la stazione | der Bahnhof | f | 🚉 | STAZIONE – Station. | | Dov'è la *stazione*? | Wo ist der Bahnhof?
+il binario | das Gleis | m | 🛤️ | BINARIO – binär: zwei Schienen! | | Il treno parte dal *binario* tre. | Der Zug fährt von Gleis drei.
+convalidare | entwerten (Ticket) | v | ✅ | CONVALIDARE – validieren: Ticket gültig machen. Nicht vergessen! | engl. validate | Bisogna *convalidare* il biglietto. | Man muss das Ticket entwerten.
+la coincidenza | der Anschluss (Zug) | f | 🔗 | COINCIDENZA – Koinzidenz: zwei Züge treffen zusammen. | engl. coincidence | Perdo la *coincidenza*! | Ich verpasse den Anschluss!
+l'autobus | der Bus | m | 🚌 | AUTOBUS – Bus. | | Prendo l'*autobus* numero 64. | Ich nehme den Bus Nummer 64.
+la fermata | die Haltestelle | f | 🚏 | FERMATA – fermare = anhalten (Fermate in der Musik!). | | Scendo alla prossima *fermata*. | Ich steige an der nächsten Haltestelle aus.
+la metropolitana | die U-Bahn | f | 🚇 | METRO-POLITANA, kurz: la metro. | | Prendiamo la *metropolitana*. | Nehmen wir die U-Bahn.
+la macchina | das Auto | f | 🚗 | MACCHINA – Maschine: das Auto ist DIE Maschine. | engl. machine | Andiamo in *macchina*. | Wir fahren mit dem Auto.
+la moto | das Motorrad | f | 🏍️ | MOTO – Abkürzung für motocicletta, daher feminin! | | Vado in *moto* al mare. | Ich fahre mit dem Motorrad ans Meer.
+il motorino | der Roller (Vespa) | m | 🛵 | MOTORINO – kleiner Motor. | | A Roma tutti hanno il *motorino*. | In Rom hat jeder einen Roller.
+la bicicletta | das Fahrrad | f | 🚲 | BICICLETTA – Bicycle; kurz: la bici. | | Vado al lavoro in *bicicletta*. | Ich fahre mit dem Rad zur Arbeit.
+il taxi | das Taxi | m | 🚕 | Wie Taxi. | | Chiamiamo un *taxi*. | Rufen wir ein Taxi.
+l'aereo | das Flugzeug | m | ✈️ | AEREO – Aero-, Luft. | | L'*aereo* parte alle sei. | Das Flugzeug startet um sechs.
+l'aeroporto | der Flughafen | m | 🛫 | AERO-PORTO = Luft-Hafen. | | Come arrivo all'*aeroporto*? | Wie komme ich zum Flughafen?
+il volo | der Flug | m | 🛩️ | VOLO – volare (fliegen) → „Volare, oh oh!“ | | Il *volo* è cancellato. | Der Flug ist annulliert.
+la nave | das Schiff | f | 🚢 | NAVE – Navigation, Navy. | engl. navy | La *nave* per la Sardegna. | Das Schiff nach Sardinien.
+il traghetto | die Fähre | m | ⛴️ | TRAGHETTO – „tragen“: die Fähre trägt dich übers Wasser. | | Prendiamo il *traghetto* per Capri. | Wir nehmen die Fähre nach Capri.
+il porto | der Hafen | m | ⚓ | PORTO – Port. | engl. port | Il *porto* di Genova. | Der Hafen von Genua.
+la strada | die Straße | f | 🛣️ | STRADA – Straße (lat. strata). | | Attraversa la *strada*! | Überquere die Straße!
+la via | die Straße (Adresse); der Weg | f | 🪧 | VIA – „über“; Via Roma = Romstraße. | | Abito in *via* Garibaldi. | Ich wohne in der Via Garibaldi.
+l'autostrada | die Autobahn | f | 🛣️ | AUTO-STRADA = Auto-Straße. Mautpflichtig! | | L'*autostrada* è a pagamento. | Die Autobahn ist mautpflichtig.
+il distributore | die Tankstelle | m | ⛽ | DISTRIBUTORE – verteilt Benzin. | | Dobbiamo fermarci al *distributore*. | Wir müssen an der Tankstelle halten.
+la benzina | das Benzin | f | ⛽ | Wie Benzin. | | Il pieno di *benzina*, per favore. | Volltanken mit Benzin, bitte.
+il parcheggio | der Parkplatz | m | 🅿️ | PARCHEGGIO – parken. | | Non trovo *parcheggio*. | Ich finde keinen Parkplatz.
+la mappa | die Karte (Landkarte) | f | 🗺️ | MAPPA – Map. | engl. map | Hai una *mappa* della città? | Hast du einen Stadtplan?
+la direzione | die Richtung | f | 🧭 | DIREZIONE – Direction. | | In che *direzione* è il centro? | In welcher Richtung ist das Zentrum?
+a destra | rechts | expr | ➡️ | DESTRA – Dexter (lat. rechts), geschickt mit der rechten Hand. | lat. dexter | Giri *a destra*. | Biegen Sie rechts ab.
+a sinistra | links | expr | ⬅️ | SINISTRA – sinister = links und unheimlich. | engl. sinister | La farmacia è *a sinistra*. | Die Apotheke ist links.
+dritto | geradeaus | adv | ⬆️ | DRITTO – „Direkt“: immer geradeaus. Sempre dritto! | engl. direct | Vada sempre *dritto*. | Gehen Sie immer geradeaus.
+vicino | nah; in der Nähe | adv | 📍 | VICINO – „Vicinity“: Nähe. Vicino a = neben. | engl. vicinity | La spiaggia è *vicino*. | Der Strand ist in der Nähe.
+lontano | weit weg | adv | 🔭 | LONTANO – „long“: lange Strecke. | engl. long | È *lontano* da qui? | Ist es weit von hier?
+la partenza | die Abfahrt; der Abflug | f | 🛫 | PARTENZA – partire = abreisen (Abschied: „part“). | engl. depart | La *partenza* è alle otto. | Die Abfahrt ist um acht.
+l'arrivo | die Ankunft | m | 🛬 | ARRIVO – Arrival. | engl. arrival | L'*arrivo* è previsto alle dieci. | Die Ankunft ist um zehn geplant.
+partire | abfahren; abreisen | v | 🚀 | PARTIRE – depart. | | Il treno *parte* alle nove. | Der Zug fährt um neun ab.
+arrivare | ankommen | v | 🏁 | ARRIVARE – arrive. | engl. arrive | A che ora *arriviamo*? | Um wie viel Uhr kommen wir an?
+il ritardo | die Verspätung | m | ⏰ | RITARDO – retardiert: verzögert. | | Il volo ha un'ora di *ritardo*. | Der Flug hat eine Stunde Verspätung.
+il bagaglio | das Gepäck | m | 🧳 | BAGAGLIO – Bagage, Baggage. | engl. baggage | Il mio *bagaglio* è perso. | Mein Gepäck ist verloren.
+la dogana | der Zoll | f | 🛃 | DOGANA – „Dogana“ → Douane (frz. Zoll). | frz. douane | Passiamo la *dogana*. | Wir gehen durch den Zoll.
+il pieno | das Volltanken | m | ⛽ | PIENO = voll. Fare il pieno = volltanken. | lat. plenus | Faccio il *pieno*. | Ich tanke voll.
+il casello | die Mautstelle | m | 🚧 | CASELLO – kleines Haus (casa) an der Autobahn. | | Paghiamo al *casello*. | Wir zahlen an der Mautstelle.
+la gita | der Ausflug | f | 🚌 | GITA – „Gitarre auf dem Ausflug“. | | Domani facciamo una *gita* a Siena. | Morgen machen wir einen Ausflug nach Siena.
+noleggiare | mieten (Auto, Rad) | v | 🔑 | NOLEGGIARE – „Nolo“: die Leihgebühr. | | Vorrei *noleggiare* una macchina. | Ich möchte ein Auto mieten.
+
+# Unterkunft
+l'albergo | das Hotel; die Herberge | m | 🏨 | ALBERGO – Herberge! | dt. Herberge | L'*albergo* è in centro. | Das Hotel ist im Zentrum.
+la camera | das Zimmer | f | 🛏️ | CAMERA – Kammer. | dt. Kammer | Una *camera* doppia. | Ein Doppelzimmer.
+la camera singola | das Einzelzimmer | f | 🛏️ | SINGOLA = single. | | Vorrei una *camera singola*. | Ich möchte ein Einzelzimmer.
+la camera matrimoniale | das Doppelzimmer (Ehebett) | f | 💑 | MATRIMONIALE – das Ehebett (matrimonio). | | Una *camera matrimoniale* con vista mare. | Ein Doppelzimmer mit Meerblick.
+la chiave | der Schlüssel | f | 🔑 | CHIAVE – Klavier (Tasten = Schlüssel)! Lat. clavis. | lat. clavis | Ho perso la *chiave*. | Ich habe den Schlüssel verloren.
+la reception | die Rezeption | f | 🛎️ | Wie im Englischen. | | Chiedo alla *reception*. | Ich frage an der Rezeption.
+il letto | das Bett | m | 🛏️ | LETTO – „Lattenrost“ im Bett. | | Il *letto* è comodo. | Das Bett ist bequem.
+la doccia | die Dusche | f | 🚿 | DOCCIA – „Dotscha“ – Dusche. | | La *doccia* non funziona. | Die Dusche funktioniert nicht.
+il bagno | das Bad; die Toilette | m | 🛁 | BAGNO – baden. Dov'è il bagno? = Wo ist die Toilette? | | Scusi, dov'è il *bagno*? | Entschuldigung, wo ist die Toilette?
+l'asciugamano | das Handtuch | m | 🧖 | ASCIUGA-MANO = Hand-Trockner. | | Un altro *asciugamano*, per favore. | Noch ein Handtuch, bitte.
+il campeggio | der Campingplatz | m | ⛺ | CAMPEGGIO – Camping. | | Dormiamo in *campeggio*. | Wir schlafen auf dem Campingplatz.
+colazione inclusa | Frühstück inklusive | expr | 🥐 | INCLUSA – inklusive. | | La colazione è *inclusa*? | Ist das Frühstück inklusive?
+l'aria condizionata | die Klimaanlage | f | ❄️ | Konditionierte Luft – Air Condition. | | C'è l'*aria condizionata*? | Gibt es eine Klimaanlage?
+il piano | das Stockwerk | m | 🏢 | PIANO – Plan, Ebene. Primo piano = 1. Stock. | | La camera è al secondo *piano*. | Das Zimmer ist im zweiten Stock.
+l'ascensore | der Aufzug | m | 🛗 | ASCENSORE – ascend = aufsteigen. | engl. ascend | L'*ascensore* è guasto. | Der Aufzug ist kaputt.

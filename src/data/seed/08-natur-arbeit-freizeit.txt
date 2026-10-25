@@ -1,0 +1,97 @@
+# Natur & Wetter
+il tempo (meteo) | das Wetter | m | 🌦️ | Che tempo fa? = Wie ist das Wetter? Il meteo = Wetterbericht. | | Che *tempo* fa oggi? | Wie ist das Wetter heute?
+il sole | die Sonne | m | ☀️ | SOLE – Solarium, solar. Maskulin! | lat. sol | Oggi c'è il *sole*. | Heute scheint die Sonne.
+la pioggia | der Regen | f | 🌧️ | PIOGGIA – „Pfütze“ → Regen. | lat. pluvia | Che *pioggia*! | Was für ein Regen!
+piovere | regnen | v;conj=piovo,piovi,piove,pioviamo,piovete,piovono | ☔ | PIOVE – „Pfui, Pfütze!“ – es regnet. | | Domani *piove*. | Morgen regnet es.
+la neve | der Schnee | f | ❄️ | NEVE – Nevada (verschneit), Sierra Nevada. | lat. nix | La *neve* sulle Alpi. | Der Schnee auf den Alpen.
+il vento | der Wind | m | 💨 | VENTO – Ventilator! | | C'è tanto *vento*. | Es ist sehr windig.
+la nuvola | die Wolke | f | ☁️ | NUVOLA – „Nebula“ → Nebel, Wolke. | lat. nubes | Non c'è una *nuvola* in cielo. | Keine Wolke am Himmel.
+il cielo | der Himmel | m | 🌌 | CIELO – „Tschelo“ → ciel (frz.), Zelestisch. | frz. ciel | Il *cielo* è sereno. | Der Himmel ist klar.
+il temporale | das Gewitter | m | ⛈️ | TEMPORALE – temporär: ein kurzes, heftiges Unwetter. | | Arriva un *temporale*. | Ein Gewitter zieht auf.
+caldo/calda | warm; heiß | adj | 🔥 | Achtung, falscher Freund: CALDO = HEISS, nicht kalt! Fa caldo = es ist heiß. | | Oggi fa molto *caldo*. | Heute ist es sehr heiß.
+freddo/fredda | kalt | adj | 🥶 | FREDDO – „Frieren-do“: Fred friert. Fa freddo = es ist kalt. | engl. frigid | In inverno fa *freddo*. | Im Winter ist es kalt.
+la temperatura | die Temperatur | f | 🌡️ | Wie Temperatur. | | La *temperatura* è di trenta gradi. | Die Temperatur liegt bei dreißig Grad.
+il grado | der Grad | m | 🌡️ | GRADO – Grad. | | Ci sono dieci *gradi*. | Es hat zehn Grad.
+sereno/serena | heiter; klar (Himmel); gelassen | adj | 🌤️ | SERENO – serene: ruhig und klar. | engl. serene | Il cielo è *sereno*. | Der Himmel ist wolkenlos.
+nuvoloso/nuvolosa | bewölkt | adj | 🌥️ | Von nuvola (Wolke). | | Oggi è *nuvoloso*. | Heute ist es bewölkt.
+la natura | die Natur | f | 🌿 | Wie Natur. | | Amo la *natura*. | Ich liebe die Natur.
+l'albero | der Baum | m | 🌳 | ALBERO – „Alber(n)“: ein albernes Bäumchen. Lat. arbor. | lat. arbor | Un *albero* di ulivo. | Ein Olivenbaum.
+il fiore | die Blume | m | 🌸 | FIORE – Florenz (Firenze) = die Blühende; Flora. | lat. flos | Ti ho portato dei *fiori*. | Ich habe dir Blumen mitgebracht.
+la pianta | die Pflanze | f | 🪴 | PIANTA – Plant. | engl. plant | Innaffio le *piante*. | Ich gieße die Pflanzen.
+l'erba | das Gras; das Kraut | f | 🌱 | ERBA – Herbal, Herbarium. | lat. herba | Ci sediamo sull'*erba*. | Wir setzen uns ins Gras.
+il bosco | der Wald | m | 🌲 | BOSCO – Busch → Wald. | | Una passeggiata nel *bosco*. | Ein Spaziergang im Wald.
+il fiume | der Fluss | m | 🏞️ | FIUME – „Flumen“ → fließen. | lat. flumen | Il Tevere è il *fiume* di Roma. | Der Tiber ist Roms Fluss.
+la collina | der Hügel | f | ⛰️ | COLLINA – Hill, Kolline. Toskanische Hügel! | | Le *colline* toscane. | Die toskanischen Hügel.
+l'isola | die Insel | f | 🏝️ | ISOLA – Isolation: abgeschnitten wie eine Insel. | lat. insula | La Sicilia è un'*isola*. | Sizilien ist eine Insel.
+la terra | die Erde; das Land | f | 🌍 | TERRA – Terrain, Territorium. | | Il caffè è caduto per *terra*. | Der Kaffee ist auf den Boden gefallen.
+la pietra | der Stein | f | 🪨 | PIETRA – Petrus = der Fels. | | Una casa di *pietra*. | Ein Steinhaus.
+la luna | der Mond | f | 🌕 | LUNA – Luna, lunar. | | C'è la *luna* piena. | Es ist Vollmond.
+la stella | der Stern | f | ⭐ | STELLA – Stellar, Konstellation. | lat. stella | Guarda le *stelle*! | Schau dir die Sterne an!
+l'aria | die Luft | f | 🌬️ | ARIA – Arie (gesungene Luft), Air. | | Ho bisogno di *aria* fresca. | Ich brauche frische Luft.
+il fuoco | das Feuer | m | 🔥 | FUOCO – Fokus (Brennpunkt). | lat. focus | Accendiamo il *fuoco*. | Machen wir ein Feuer an.
+l'animale | das Tier | m | 🐾 | ANIMALE – Animal. | | Ami gli *animali*? | Liebst du Tiere?
+il pesce rosso | der Goldfisch | m | 🐠 | Wörtlich: roter Fisch. | | Abbiamo un *pesce rosso*. | Wir haben einen Goldfisch.
+la mucca | die Kuh | f | 🐄 | MUCCA – „Muh-cca!“ | | La *mucca* fa muu. | Die Kuh macht muh.
+la zanzara | die Mücke | f | 🦟 | ZANZARA – „Sssanssssara“: das Summen einer Mücke! | | Mi ha punto una *zanzara*. | Mich hat eine Mücke gestochen.
+
+# Arbeit & Lernen
+il lavoro | die Arbeit; der Job | m | 💼 | LAVORO – „Labor“: Arbeit. | lat. labor | Cerco *lavoro*. | Ich suche Arbeit.
+lavorare | arbeiten | v | 🛠️ | LAVORARE – Labor, laborieren. | | *Lavoro* in un ospedale. | Ich arbeite in einem Krankenhaus.
+il mestiere | der Beruf; das Handwerk | m | 🧑‍🔧 | MESTIERE – „Meister“ seines Berufs. | frz. métier | Che *mestiere* fai? | Was machst du beruflich?
+la professione | der Beruf | f | 👩‍💼 | Profession. | | Qual è la sua *professione*? | Was ist Ihr Beruf?
+il capo | der Chef | m | 🧑‍💼 | CAPO – „Kopf“ (Capitano) → Chef. | | Il mio *capo* è in ferie. | Mein Chef ist im Urlaub.
+l'azienda | die Firma | f | 🏭 | AZIENDA – „Agenda“ der Firma. | | Lavoro in un'*azienda* tedesca. | Ich arbeite in einer deutschen Firma.
+la riunione | die Besprechung; das Meeting | f | 👥 | RIUNIONE – Reunion: Wiedervereinigung. | | Ho una *riunione* alle dieci. | Ich habe um zehn eine Besprechung.
+lo stipendio | das Gehalt | m | 💵 | STIPENDIO – Stipendium → Gehalt. | | Lo *stipendio* arriva a fine mese. | Das Gehalt kommt am Monatsende.
+le ferie | der Urlaub (vom Job) | f;pl | 🌴 | FERIE – Ferien! | | Sono in *ferie* ad agosto. | Ich habe im August Urlaub.
+l'insegnante | der Lehrer; die Lehrerin | mf | 🧑‍🏫 | IN-SEGNA-NTE: zeigt Zeichen (segni). | | La mia *insegnante* è di Firenze. | Meine Lehrerin ist aus Florenz.
+lo studente | der Student; der Schüler | m | 🧑‍🎓 | Wie Student. Feminin: la studentessa. | | Sono uno *studente* di italiano. | Ich bin Italienischschüler.
+studiare | lernen; studieren | v | 📚 | STUDIARE – studieren. | | *Studio* italiano da un anno. | Ich lerne seit einem Jahr Italienisch.
+imparare | lernen (sich aneignen) | v | 🧠 | IMPARARE – „im Paradies lernen“: etwas Neues erwerben. | | Voglio *imparare* l'italiano. | Ich will Italienisch lernen.
+insegnare | unterrichten; beibringen | v | 👩‍🏫 | INSEGNARE – zeigen (segno = Zeichen). | | Mi *insegni* a cucinare? | Bringst du mir das Kochen bei?
+il corso | der Kurs | m | 📝 | CORSO – Kurs. | | Faccio un *corso* d'italiano. | Ich mache einen Italienischkurs.
+la lezione | die Unterrichtsstunde; die Lektion | f | 📖 | Lektion. | | La *lezione* comincia alle sei. | Die Stunde beginnt um sechs.
+la parola | das Wort | f | 💬 | PAROLA – Parole! (Losung, Wort). | | Questa *parola* è difficile. | Dieses Wort ist schwierig.
+la frase | der Satz | f | ✍️ | FRASE – Phrase. | | Ripeti la *frase*! | Wiederhole den Satz!
+la domanda | die Frage | f | ❓ | DOMANDA – „Demand“: etwas fordern/fragen. | | Posso fare una *domanda*? | Darf ich eine Frage stellen?
+la risposta | die Antwort | f | 💡 | RISPOSTA – Response. | engl. response | Non so la *risposta*. | Ich weiß die Antwort nicht.
+l'esame | die Prüfung | m | 📝 | ESAME – Examen. Maskulin! | | Domani ho un *esame*. | Morgen habe ich eine Prüfung.
+l'errore | der Fehler | m | ❌ | ERRORE – Error. | | Ho fatto un *errore*. | Ich habe einen Fehler gemacht.
+il quaderno | das Heft | m | 📓 | QUADERNO – Quader-Heft: viereckig mit Kästchen. | | Scrivo nel *quaderno*. | Ich schreibe ins Heft.
+il dizionario | das Wörterbuch | m | 📘 | Dictionary. | | Cerco la parola nel *dizionario*. | Ich suche das Wort im Wörterbuch.
+il progetto | das Projekt | m | 📊 | Wie Projekt. | | Un nuovo *progetto*. | Ein neues Projekt.
+il cliente | der Kunde | m | 🧾 | Klient. | | Il *cliente* ha sempre ragione. | Der Kunde hat immer recht.
+il colloquio | das Vorstellungsgespräch | m | 🤝 | COLLOQUIO – Kolloquium. | | Domani ho un *colloquio* di lavoro. | Morgen habe ich ein Vorstellungsgespräch.
+la pausa | die Pause | f | ☕ | Wie Pause. | | Facciamo una *pausa* caffè. | Machen wir eine Kaffeepause.
+
+# Freizeit & Kultur
+il tempo libero | die Freizeit | m | 🏖️ | Freie Zeit: TEMPO LIBERO. | | Nel *tempo libero* leggo. | In meiner Freizeit lese ich.
+lo sport | der Sport | m | ⚽ | LO vor s+Konsonant. | | Fai *sport*? | Treibst du Sport?
+il calcio | der Fußball | m | ⚽ | CALCIO – „Kalk“: Fußtritt (calcio = Tritt). | | Guardiamo la partita di *calcio*. | Wir schauen das Fußballspiel.
+la partita | das Spiel (Match) | f | 🏟️ | PARTITA – Partie! | | La *partita* comincia alle nove. | Das Spiel beginnt um neun.
+la squadra | die Mannschaft | f | 👕 | SQUADRA – Squad, Schwadron. | engl. squad | La mia *squadra* preferita è la Roma. | Mein Lieblingsverein ist der AS Rom.
+giocare | spielen | v | 🎲 | GIOCARE – Joker, jonglieren. Gioco = ich spiele, giochi (h!). | engl. joke | I bambini *giocano* in piazza. | Die Kinder spielen auf dem Platz.
+il gioco | das Spiel | m | 🎮 | GIOCO – Joke, Jux. | | Un *gioco* da tavolo. | Ein Brettspiel.
+nuotare | schwimmen | v | 🏊 | NUOTARE – „Not-are“: in Not? Schwimm! | lat. natare | Mi piace *nuotare* nel mare. | Ich schwimme gern im Meer.
+correre | laufen; rennen | v | 🏃 | CORRERE – Korridor (Laufgang), Kurier. | engl. courier | *Corro* ogni mattina. | Ich laufe jeden Morgen.
+camminare | (zu Fuß) gehen; wandern | v | 🚶 | CAMMINARE – Kamin? Nein: „cammino“ = Weg (Camino de Santiago). | span. camino | Mi piace *camminare*. | Ich gehe gern spazieren.
+la passeggiata | der Spaziergang | f | 🚶‍♂️ | PASSEGGIATA – „passieren“, Passage. | | Facciamo una *passeggiata*? | Machen wir einen Spaziergang?
+la musica | die Musik | f | 🎵 | Wie Musik. | | Ascolto *musica* italiana. | Ich höre italienische Musik.
+la canzone | das Lied | f | 🎶 | CANZONE – Kanzone, Chanson. | frz. chanson | Questa *canzone* è bellissima. | Dieses Lied ist wunderschön.
+cantare | singen | v | 🎤 | CANTARE – Kantate, Kantor. | | *Canto* sotto la doccia. | Ich singe unter der Dusche.
+ballare | tanzen | v | 💃 | BALLARE – Ball, Ballett. | | Andiamo a *ballare*! | Lass uns tanzen gehen!
+il film | der Film | m | 🎬 | Wie Film. | | Un *film* di Fellini. | Ein Film von Fellini.
+la serie | die Serie | f | 📺 | Wie Serie. Unveränderlich. | | Guardo una *serie* su Netflix. | Ich schaue eine Serie auf Netflix.
+leggere | lesen | v | 📖 | LEGGERE – Legende (das zu Lesende), Lektüre. | lat. legere | Mi piace *leggere*. | Ich lese gern.
+scrivere | schreiben | v | ✍️ | SCRIVERE – Skript, Schreiber. | lat. scribere | *Scrivo* un messaggio. | Ich schreibe eine Nachricht.
+dipingere | malen | v | 🎨 | DIPINGERE – „Pinsel“ (pennello) → depict. | engl. depict | Mia sorella *dipinge*. | Meine Schwester malt.
+la mostra | die Ausstellung | f | 🖼️ | MOSTRA – zeigen (mostrare), Monstranz. | | Una *mostra* di Caravaggio. | Eine Caravaggio-Ausstellung.
+il concerto | das Konzert | m | 🎻 | Wie Konzert. | | Stasera andiamo al *concerto*. | Heute Abend gehen wir ins Konzert.
+il biglietto (d'ingresso) | die Eintrittskarte | m | 🎟️ | BIGLIETTO – Billet. | | Ho due *biglietti* per il concerto. | Ich habe zwei Karten fürs Konzert.
+la foto ricordo | das Erinnerungsfoto | f | 📸 | RICORDO – Rekord? Nein: Erinnerung (cor = Herz). | | Facciamo una *foto* ricordo! | Machen wir ein Erinnerungsfoto!
+la cultura | die Kultur | f | 🏺 | Wie Kultur. | | La *cultura* italiana. | Die italienische Kultur.
+l'arte | die Kunst | f | 🖌️ | ARTE – Art. Feminin! | | Firenze è la città dell'*arte*. | Florenz ist die Stadt der Kunst.
+la storia | die Geschichte | f | 📜 | STORIA – Story, History. | | La *storia* di Roma. | Die Geschichte Roms.
+il divertimento | der Spaß; die Unterhaltung | m | 🎡 | DIVERTIMENTO – Divertimento in der Musik. | | Buon *divertimento*! | Viel Spaß!
+divertirsi | Spaß haben; sich amüsieren | v | 🥳 | DIVERTIRSI – sich ablenken (divert). | engl. divert | Ci siamo *divertiti* tanto! | Wir hatten viel Spaß!
+uscire | ausgehen; hinausgehen | v;conj=esco,esci,esce,usciamo,uscite,escono | 🚪 | USCIRE – „Uscita“ = Ausgang (Exit). Achtung: esco, esci! | | Stasera *esco* con gli amici. | Heute Abend gehe ich mit Freunden aus.

@@ -1,0 +1,82 @@
+# Menschen & Familie
+la persona | die Person | f | 🧍 | PERSONA – Achtung: immer feminin, auch für Männer! „La persona“ = DIE Person, wie im Deutschen. | engl. person | È una *persona* simpatica. | Er/Sie ist ein netter Mensch.
+la gente | die Leute | f | 👥 | GENTE – Gentlemen sind auch Leute. Achtung: Singular! La gente è … | frz. gens | C'è molta *gente* in piazza. | Es sind viele Leute auf dem Platz.
+l'uomo | der Mann; der Mensch | m;pl=gli uomini | 👨 | UOMO – „Wo-mo“: Wohnmobil-Mann. Plural unregelmäßig: gli uomini. | lat. homo | Quell'*uomo* è mio zio. | Der Mann dort ist mein Onkel.
+la donna | die Frau | f | 👩 | DONNA – Madonna = „meine Frau“. Prima-Donna. | Madonna, Primadonna | Quella *donna* è una pittrice. | Diese Frau ist Malerin.
+il bambino | das Kind; der Junge | m | 👶 | BAMBINO – „Bambi“ ist auch noch ein Kind. | Bambi | Il *bambino* gioca in giardino. | Das Kind spielt im Garten.
+la bambina | das Mädchen (Kind) | f | 👧 | Feminin zu bambino – Bambi-na. | | La *bambina* ha cinque anni. | Das Mädchen ist fünf Jahre alt.
+il ragazzo | der Junge; der Freund (Beziehung) | m | 🧑 | RAGAZZO – „Rag-Azzo“, ein Junge in zerrissenen (ragged) Jeans. Auch: fester Freund! | | Il mio *ragazzo* si chiama Luca. | Mein Freund heißt Luca.
+la ragazza | das Mädchen; die Freundin (Beziehung) | f | 👱‍♀️ | Feminin zu ragazzo. „Ragazzi!“ = Leute! | | Hai la *ragazza*? | Hast du eine Freundin?
+i ragazzi | die Jungs; die Leute (Anrede) | m;pl | 🙌 | „Ciao RAGAZZI!“ – so begrüßt man eine Gruppe. | | *Ragazzi*, andiamo a mangiare! | Leute, lasst uns essen gehen!
+l'amico | der Freund | m;pl=gli amici | 🤜 | AMICO – amicable, Amigo. | span. amigo | Lui è il mio migliore *amico*. | Er ist mein bester Freund.
+l'amica | die Freundin | f;pl=le amiche | 🤝 | Feminin zu amico. | | Esco con un'*amica*. | Ich gehe mit einer Freundin aus.
+la famiglia | die Familie | f | 👨‍👩‍👧‍👦 | FAMIGLIA – Familie mit italienischem -glia. | | La mia *famiglia* è numerosa. | Meine Familie ist groß.
+i genitori | die Eltern | m;pl | 👫 | GENITORI – Gene! Von den Eltern hast du die Gene. | engl. genes | I miei *genitori* abitano a Roma. | Meine Eltern wohnen in Rom.
+il padre | der Vater | m | 👨‍🍼 | PADRE – Pater. | lat. pater | Mio *padre* fa il cuoco. | Mein Vater ist Koch.
+la madre | die Mutter | f | 🤱 | MADRE – Mater, Madonna. | lat. mater | Mia *madre* è di Napoli. | Meine Mutter ist aus Neapel.
+il papà | der Papa | m | 👨 | Wie Papa, Betonung hinten: papÀ. | | Il *papà* prepara la cena. | Papa macht das Abendessen.
+la mamma | die Mama | f | 👩‍👦 | „Mamma mia!“ – Meine Mama! | | Ciao *mamma*! | Hallo Mama!
+il figlio | der Sohn | m | 👦 | FIGLIO – „Fi-lio“: ein filigraner kleiner Sohn. | lat. filius | Ho un *figlio* di dieci anni. | Ich habe einen zehnjährigen Sohn.
+la figlia | die Tochter | f | 👧 | Feminin zu figlio. | lat. filia | Mia *figlia* studia medicina. | Meine Tochter studiert Medizin.
+i figli | die Kinder (Söhne und Töchter) | m;pl | 👨‍👧‍👦 | Plural von figlio = auch gemischt: Kinder. | | Avete *figli*? | Habt ihr Kinder?
+il fratello | der Bruder | m | 👬 | FRATELLO – fraternity, Fraternité, Brüderlichkeit. | frz. frère | Mio *fratello* è più grande. | Mein Bruder ist älter.
+la sorella | die Schwester | f | 👭 | SORELLA – „Soror“ → Sorority. | lat. soror | Ho una *sorella* gemella. | Ich habe eine Zwillingsschwester.
+il marito | der Ehemann | m | 🤵 | MARITO – Ma(r)rito = marry. | engl. married | Mio *marito* lavora in banca. | Mein Mann arbeitet bei der Bank.
+la moglie | die Ehefrau | f;pl=le mogli | 👰 | MOGLIE – „Mogli“ (wie Mowgli aus dem Dschungelbuch) heiratet! | | Questa è mia *moglie*. | Das ist meine Frau.
+il nonno | der Opa | m | 👴 | NONNO – „Nonno sagt: Nö-nö!“ | | Il *nonno* racconta storie. | Opa erzählt Geschichten.
+la nonna | die Oma | f | 👵 | NONNA kocht die beste Pasta – „Nonna's Rezept“. | | La *nonna* fa la pasta in casa. | Oma macht die Pasta selbst.
+lo zio | der Onkel | m | 🧔 | ZIO – „Zi-o“: Onkel mit Zigarre. Lo vor z! | | Lo *zio* vive in America. | Der Onkel lebt in Amerika.
+la zia | die Tante | f | 👩‍🦳 | Feminin zu zio. | | La *zia* arriva domani. | Die Tante kommt morgen an.
+il cugino | der Cousin | m | 🧒 | CUGINO – Cousin auf italienisch: Cu-gino. | frz. cousin | Mio *cugino* abita a Milano. | Mein Cousin wohnt in Mailand.
+la cugina | die Cousine | f | 👧 | Feminin zu cugino. | | Mia *cugina* si sposa. | Meine Cousine heiratet.
+il nipote | der Neffe; der Enkel | m | 🧒 | NIPOTE – Nepotismus: Vetternwirtschaft für Neffen! | Nepotismus | Il mio *nipote* ha due anni. | Mein Neffe ist zwei Jahre alt.
+il fidanzato | der Verlobte; fester Freund | m | 💍 | FIDANZATO – Fidelity, Treue: dem man vertraut. | lat. fides | Il mio *fidanzato* è siciliano. | Mein Verlobter ist Sizilianer.
+la fidanzata | die Verlobte; feste Freundin | f | 💍 | Feminin zu fidanzato. | | Ti presento la mia *fidanzata*. | Ich stelle dir meine Freundin vor.
+il signore | der Herr | m | 🎩 | SIGNORE – Señor. Vor Namen: il signor Rossi. | span. señor | Il *signore* aspetta fuori. | Der Herr wartet draußen.
+la signora | die Frau; die Dame | f | 👒 | SIGNORA – Señora. | | Buongiorno, *signora*! | Guten Tag, meine Dame!
+la signorina | das Fräulein | f | 🎀 | Diminutiv von signora: -ina = klein. | | La *signorina* al banco è gentile. | Die junge Frau am Tresen ist nett.
+il vicino | der Nachbar | m | 🏘️ | VICINO = nah – der Nachbar wohnt nah. | | Il mio *vicino* è molto rumoroso. | Mein Nachbar ist sehr laut.
+il collega | der Kollege | mf | 💼 | Wie Kollege – il/la collega. | | Esco con un *collega*. | Ich gehe mit einem Kollegen aus.
+il nome | der Name; der Vorname | m | 📛 | NOME – Nomen ist der Name. | lat. nomen | Qual è il tuo *nome*? | Wie ist dein Vorname?
+il cognome | der Nachname | m | 🪪 | CO-GNOME – der „Mit-Name“ der Familie. | | Il mio *cognome* è Bianchi. | Mein Nachname ist Bianchi.
+l'età | das Alter | f | 🎂 | ETÀ – „Eta“: das Alter (Ära). | | Che *età* ha tuo figlio? | Wie alt ist dein Sohn?
+il compleanno | der Geburtstag | m | 🎉 | COMPLE-ANNO = ein Jahr „komplett“ machen. | | Oggi è il mio *compleanno*. | Heute ist mein Geburtstag.
+il matrimonio | die Hochzeit; die Ehe | m | 💒 | MATRIMONIO – matrimonial. | engl. matrimony | Il *matrimonio* è a giugno. | Die Hochzeit ist im Juni.
+sposato/sposata | verheiratet | adj | 💑 | SPOSATO – der Spouse (Ehepartner). | engl. spouse | Sei *sposato*? | Bist du verheiratet?
+single | Single; ledig | adj | 🙋 | Wie im Deutschen! | | Sono *single*. | Ich bin Single.
+l'amore | die Liebe | m | ❤️ | AMORE – Amor mit dem Pfeil. Achtung: maskulin! | lat. amor | L'*amore* è cieco. | Liebe macht blind.
+il bacio | der Kuss | m | 💋 | BACIO – „Baci“-Pralinen von Perugina mit Liebesbotschaft. | | Dammi un *bacio*! | Gib mir einen Kuss!
+l'abbraccio | die Umarmung | m | 🤗 | AB-BRACCIO: in die Arme (braccia) nehmen. | | Un *abbraccio* forte! | Eine feste Umarmung!
+
+# Gefühle & Charakter
+felice | glücklich | adj | 😄 | FELICE – Felix = der Glückliche. | lat. felix | Sono *felice* di vederti. | Ich freue mich, dich zu sehen.
+contento/contenta | zufrieden; froh | adj | 😊 | CONTENTO – content, zufrieden. | engl. content | Sono molto *contento*. | Ich bin sehr froh.
+triste | traurig | adj | 😢 | TRISTE – trist, Tristesse. | dt. trist | Perché sei *triste*? | Warum bist du traurig?
+arrabbiato/arrabbiata | wütend; sauer | adj | 😠 | ARRABBIATO – wie die scharfe Pasta all'arrabbiata: rot vor Wut! | Penne all'arrabbiata | È ancora *arrabbiato* con me. | Er ist immer noch sauer auf mich.
+stanco/stanca | müde | adj | 😴 | STANCO – „Stank-o“: nach dem Marathon stinkt man und ist müde. | | Sono *stanco* morto. | Ich bin todmüde.
+nervoso/nervosa | nervös; gereizt | adj | 😬 | Wie nervös. | | Prima dell'esame sono *nervosa*. | Vor der Prüfung bin ich nervös.
+preoccupato/preoccupata | besorgt | adj | 😟 | PRE-OCCUPATO: der Kopf ist schon vorher besetzt (occupied). | engl. preoccupied | Sono *preoccupato* per te. | Ich mache mir Sorgen um dich.
+innamorato/innamorata | verliebt | adj | 😍 | IN-AMOR-ATO – in Amor verfangen. | | Sono *innamorato* di te. | Ich bin in dich verliebt.
+annoiato/annoiata | gelangweilt | adj | 🥱 | ANNOIATO – annoyed, genervt vor Langeweile. | engl. annoyed | Mi sento *annoiato*. | Ich langweile mich.
+la paura | die Angst | f | 😱 | PAURA – „Pow! Aua!“ – erschreckt sich jemand. | frz. peur | Ho *paura* dei ragni. | Ich habe Angst vor Spinnen.
+la voglia | die Lust | f | 🤤 | VOGLIA – „Voll Lust“ – ho voglia di gelato! | | Ho *voglia* di un gelato. | Ich habe Lust auf ein Eis.
+la fame | der Hunger | f | 🍽️ | FAME – Famine = Hungersnot. Ho fame = ich HABE Hunger. | engl. famine | Ho una *fame* da lupo! | Ich habe einen Bärenhunger!
+la sete | der Durst | f | 🥤 | SETE – „Sete, Sete“ – ein durstiger Hund hechelt. | | Ho *sete*, c'è dell'acqua? | Ich habe Durst, gibt es Wasser?
+il sonno | der Schlaf; die Müdigkeit | m | 💤 | SONNO – Sonnambulo (Schlafwandler). Ho sonno = ich bin müde. | | Ho *sonno*, vado a letto. | Ich bin müde, ich gehe ins Bett.
+gentile | nett; freundlich | adj | 🌸 | GENTILE – Gentleman, gentle. | engl. gentle | Grazie, sei molto *gentile*. | Danke, du bist sehr nett.
+simpatico/simpatica | sympathisch; nett | adj | 😃 | SIMPATICO – sympathisch. | | Tuo fratello è *simpatico*. | Dein Bruder ist sympathisch.
+antipatico/antipatica | unsympathisch | adj | 😒 | Gegenteil: ANTI-patico. | | Il capo è un po' *antipatico*. | Der Chef ist etwas unsympathisch.
+bravo/brava | tüchtig; gut; brav | adj | 👏 | BRAVO! – Applaus für die Tüchtigen. | | Sei stata *brava*! | Das hast du toll gemacht!
+divertente | lustig; unterhaltsam | adj | 🤣 | DIVERTENTE – Divertimento: Unterhaltung. | engl. diverting | Il film è *divertente*. | Der Film ist lustig.
+timido/timida | schüchtern | adj | 🙈 | TIMIDO – timid. | engl. timid | Da piccolo ero *timido*. | Als Kind war ich schüchtern.
+pigro/pigra | faul | adj | 🦥 | PIGRO – „Pig-ro“: das faule Schwein (pig) liegt im Schlamm. | | Oggi sono *pigro*. | Heute bin ich faul.
+curioso/curiosa | neugierig | adj | 🧐 | CURIOSO – curious. | engl. curious | Sono *curiosa* di sapere. | Ich bin neugierig, es zu erfahren.
+intelligente | intelligent | adj | 🧠 | Wie im Deutschen. | | È una ragazza *intelligente*. | Sie ist ein intelligentes Mädchen.
+sincero/sincera | ehrlich; aufrichtig | adj | 🤞 | SINCERO – sincere. | engl. sincere | Voglio essere *sincero*. | Ich will ehrlich sein.
+geloso/gelosa | eifersüchtig | adj | 😤 | GELOSO – jealous. | engl. jealous | Non essere *geloso*! | Sei nicht eifersüchtig!
+la sorpresa | die Überraschung | f | 🎁 | SORPRESA – surprise. | engl. surprise | Che bella *sorpresa*! | Was für eine schöne Überraschung!
+la speranza | die Hoffnung | f | 🍀 | SPERANZA – „Sperr' an, Za!“ – Hoffnung ist der Speer, der durchhält. | lat. sperare | Non perdere la *speranza*. | Verlier nicht die Hoffnung.
+la pazienza | die Geduld | f | ⏳ | PAZIENZA – die Patienten brauchen Geduld. | engl. patience | Ci vuole *pazienza*. | Man braucht Geduld.
+il problema | das Problem | m | 🧩 | Achtung, maskulin trotz -a: IL problema. | | Nessun *problema*! | Kein Problem!
+la gioia | die Freude | f | 🎊 | GIOIA – „Joy-a“. | engl. joy, frz. joie | Che *gioia* vederti! | Was für eine Freude, dich zu sehen!
+lo stress | der Stress | m | 😩 | Wie im Deutschen, aber LO wegen s+Konsonant. | | Al lavoro c'è tanto *stress*. | Bei der Arbeit gibt es viel Stress.
