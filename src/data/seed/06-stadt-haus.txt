@@ -1,0 +1,92 @@
+# Stadt & Orte
+la città | die Stadt | f | 🏙️ | CITTÀ – City. Unveränderlich: le città. | engl. city | Roma è una *città* bellissima. | Rom ist eine wunderschöne Stadt.
+il paese | das Land; das Dorf | m | 🏘️ | PAESE – „Pays“: Land und auch kleines Dorf. | frz. pays | Vengo da un piccolo *paese*. | Ich komme aus einem kleinen Dorf.
+il centro | das Zentrum | m | 🎯 | CENTRO – Zentrum. Centro storico = Altstadt. | | Andiamo in *centro*. | Gehen wir ins Zentrum.
+il centro storico | die Altstadt | m | 🏛️ | STORICO – historisch. | | Il *centro storico* è pedonale. | Die Altstadt ist Fußgängerzone.
+la piazza | der Platz | f | ⛲ | PIAZZA – Platz (engl. plaza). | engl. plaza | Ci vediamo in *piazza*. | Wir treffen uns auf dem Platz.
+il quartiere | das Viertel; der Stadtteil | m | 🏘️ | QUARTIERE – Quartier, Viertel (ein Viertel der Stadt). | | Abito in un *quartiere* tranquillo. | Ich wohne in einem ruhigen Viertel.
+la chiesa | die Kirche | f | ⛪ | CHIESA – „Kiesa“ → Kirche (griech. ekklesia). | | La *chiesa* è del Seicento. | Die Kirche ist aus dem 17. Jahrhundert.
+il duomo | der Dom | m | ⛪ | DUOMO – Dom. | | Il *duomo* di Milano. | Der Mailänder Dom.
+il museo | das Museum | m | 🏛️ | MUSEO – Museum. | | Il *museo* è chiuso il lunedì. | Das Museum ist montags geschlossen.
+il ponte | die Brücke | m | 🌉 | PONTE – Pontifex = Brückenbauer; Ponte Vecchio. | | Il *ponte* di Rialto. | Die Rialtobrücke.
+il castello | die Burg; das Schloss | m | 🏰 | CASTELLO – Castle, Kastell. | engl. castle | Visitiamo il *castello*. | Wir besichtigen die Burg.
+la fontana | der Brunnen | f | ⛲ | FONTANA – Fontäne. Fontana di Trevi! | | Una moneta nella *fontana*. | Eine Münze in den Brunnen.
+il parco | der Park | m | 🌳 | PARCO – Park. | | Corro nel *parco*. | Ich jogge im Park.
+il giardino | der Garten | m | 🌷 | GIARDINO – Garden, Jardin. | engl. garden | La casa ha un *giardino*. | Das Haus hat einen Garten.
+la spiaggia | der Strand | f | 🏖️ | SPIAGGIA – „Spiaggia“ → „Spiel-Acker“: Spielen im Sand. | | Andiamo in *spiaggia*! | Gehen wir an den Strand!
+il mare | das Meer | m | 🌊 | MARE – Marine, maritim. Achtung: IL mare! | lat. mare | Facciamo il bagno al *mare*. | Wir baden im Meer.
+il lago | der See | m | 🏞️ | LAGO – Lagune, Lago Maggiore. | engl. lake | Il *lago* di Garda. | Der Gardasee.
+la montagna | der Berg; das Gebirge | f | ⛰️ | MONTAGNA – Mountain. | | In estate vado in *montagna*. | Im Sommer fahre ich in die Berge.
+la banca | die Bank (Geld) | f | 🏦 | BANCA – Bank. | | La *banca* apre alle otto e mezza. | Die Bank öffnet um halb neun.
+la posta | die Post | f | 📮 | POSTA – Post. | | Devo andare alla *posta*. | Ich muss zur Post.
+l'ospedale | das Krankenhaus | m | 🏥 | OSPEDALE – Hospital. | engl. hospital | Lo portano all'*ospedale*. | Sie bringen ihn ins Krankenhaus.
+la scuola | die Schule | f | 🏫 | SCUOLA – School. | | I bambini vanno a *scuola*. | Die Kinder gehen zur Schule.
+l'università | die Universität | f | 🎓 | Unveränderlich, Betonung hinten. | | Studio all'*università* di Bologna. | Ich studiere an der Uni Bologna.
+la biblioteca | die Bibliothek | f | 📚 | BIBLIOTECA – Bibliothek. Achtung: nicht libreria! | | Studio in *biblioteca*. | Ich lerne in der Bibliothek.
+la libreria | die Buchhandlung | f | 📖 | LIBRERIA – „Libri“ (Bücher) kaufen – falscher Freund! | | Compro un libro in *libreria*. | Ich kaufe ein Buch in der Buchhandlung.
+il cinema | das Kino | m | 🎬 | CINEMA – Kino; maskulin trotz -a. | | Andiamo al *cinema* stasera? | Gehen wir heute Abend ins Kino?
+il teatro | das Theater | m | 🎭 | Wie Theater. | | Il *teatro* alla Scala. | Die Mailänder Scala.
+la polizia | die Polizei | f | 🚓 | POLIZIA – Polizei. | | Chiamate la *polizia*! | Ruft die Polizei!
+il municipio | das Rathaus | m | 🏛️ | MUNICIPIO – Municipal = städtisch. | | Ci sposiamo in *municipio*. | Wir heiraten im Rathaus.
+l'ufficio | das Büro | m | 🏢 | UFFICIO – Office. | engl. office | Lavoro in un *ufficio*. | Ich arbeite in einem Büro.
+il palazzo | das Gebäude; der Palast | m | 🏛️ | PALAZZO – Palast; in Italien heißt jedes Wohnhaus palazzo! | | Abito in un *palazzo* antico. | Ich wohne in einem alten Gebäude.
+l'angolo | die Ecke | m | 📐 | ANGOLO – Angle, Winkel. | engl. angle | Il bar è all'*angolo*. | Die Bar ist an der Ecke.
+il semaforo | die Ampel | m | 🚦 | SEMAFORO – „Sema“ = Zeichen + „foro“ = Träger → Zeichenträger. | | Al *semaforo* giri a destra. | An der Ampel rechts abbiegen.
+l'incrocio | die Kreuzung | m | ✖️ | INCROCIO – Kreuz (croce). | | Dopo l'*incrocio* c'è la chiesa. | Nach der Kreuzung ist die Kirche.
+il marciapiede | der Gehweg | m | 🚶 | MARCIA-PIEDE = Marsch zu Fuß. | | Cammina sul *marciapiede*! | Geh auf dem Gehweg!
+il vicolo | die Gasse | m | 🏚️ | VICOLO – „Viertel-Weg“: kleine enge Gasse. | lat. vicus | Un *vicolo* stretto di Napoli. | Eine enge Gasse in Neapel.
+la zona pedonale | die Fußgängerzone | f | 🚶‍♀️ | PEDONALE – Pedal, Fuß (piede). | | Qui è *zona pedonale*. | Hier ist Fußgängerzone.
+il mondo | die Welt | m | 🌍 | MONDO – mondän, weltgewandt. | frz. monde | Fare il giro del *mondo*. | Eine Weltreise machen.
+
+# Haus & Alltag
+la casa | das Haus; das Zuhause | f | 🏠 | CASA – Casa = Haus (Kasematte). A casa = zu Hause. | | Torno a *casa*. | Ich gehe nach Hause.
+l'appartamento | die Wohnung | m | 🏢 | APPARTAMENTO – Apartment. | | Cerco un *appartamento* in affitto. | Ich suche eine Mietwohnung.
+l'affitto | die Miete | m | 💸 | AFFITTO – „Aff, fit to pay?“ In affitto = zur Miete. | | L'*affitto* è troppo alto. | Die Miete ist zu hoch.
+la stanza | das Zimmer; der Raum | f | 🚪 | STANZA – Stanze in Gedichten = „Raum“ für Verse. | | La mia *stanza* è piccola. | Mein Zimmer ist klein.
+la cucina | die Küche | f | 🍳 | CUCINA – Cuisine, Küche. | | Siamo in *cucina*. | Wir sind in der Küche.
+il soggiorno | das Wohnzimmer | m | 🛋️ | SOGGIORNO – „Sojourn“ = Aufenthalt → Aufenthaltsraum. | engl. sojourn | Guardiamo la TV in *soggiorno*. | Wir schauen im Wohnzimmer fern.
+la camera da letto | das Schlafzimmer | f | 🛌 | Kammer zum Bett (letto). | | La *camera da letto* è al piano di sopra. | Das Schlafzimmer ist oben.
+il balcone | der Balkon | m | 🌇 | Wie Balkon. | | Facciamo colazione sul *balcone*. | Wir frühstücken auf dem Balkon.
+la terrazza | die Terrasse | f | 🪴 | Wie Terrasse. | | Una *terrazza* con vista. | Eine Terrasse mit Aussicht.
+la porta | die Tür | f | 🚪 | PORTA – Portal, Pforte. | | Chiudi la *porta*! | Mach die Tür zu!
+la finestra | das Fenster | f | 🪟 | FINESTRA – „Hinter dem FENSTER ist es FINSTER“. | lat. fenestra | Apri la *finestra*, per favore. | Mach bitte das Fenster auf.
+il muro | die Mauer; die Wand | m | 🧱 | MURO – Mauer. | lat. murus | Un quadro sul *muro*. | Ein Bild an der Wand.
+il pavimento | der Fußboden | m | 🟫 | PAVIMENTO – Pavement. | engl. pavement | Il *pavimento* è bagnato. | Der Boden ist nass.
+le scale | die Treppe | f;pl | 🪜 | SCALE – Skala, Stufen. Plural! | | Salgo le *scale* a piedi. | Ich gehe die Treppe zu Fuß hoch.
+il tetto | das Dach | m | 🏠 | TETTO – „Tetto“ → protect: das Dach schützt. | lat. tectum | Il gatto è sul *tetto*. | Die Katze ist auf dem Dach.
+il mobile | das Möbelstück | m | 🪑 | MOBILE – mobil: Möbel kann man bewegen. | frz. meuble | Un *mobile* antico. | Ein antikes Möbelstück.
+il divano | das Sofa | m | 🛋️ | DIVANO – Diwan. | | Dormo sul *divano*. | Ich schlafe auf dem Sofa.
+l'armadio | der Schrank | m | 🚪 | ARMADIO – „Arm-adio“: Armeegewehre im Schrank (lat. armarium). | | I vestiti sono nell'*armadio*. | Die Kleider sind im Schrank.
+la lampada | die Lampe | f | 💡 | Wie Lampe. | | Accendi la *lampada*. | Schalte die Lampe an.
+la luce | das Licht | f | 💡 | LUCE – Luzifer = Lichtträger. | lat. lux | Spegni la *luce*! | Mach das Licht aus!
+il frigorifero | der Kühlschrank | m | 🧊 | FRIGO – frigid (kalt). Kurz: il frigo. | | Il latte è nel *frigorifero*. | Die Milch ist im Kühlschrank.
+il forno | der Backofen | m | 🔥 | FORNO – Pizza dal forno a legna (Holzofen). | lat. furnus | La pizza è nel *forno*. | Die Pizza ist im Ofen.
+la pentola | der Kochtopf | f | 🍲 | PENTOLA – „Pent-ola“ → Pfanne/Topf. | | Metti l'acqua nella *pentola*. | Gib das Wasser in den Topf.
+la padella | die Pfanne | f | 🍳 | PADELLA – Paella-Pfanne! | | Friggo le uova in *padella*. | Ich brate die Eier in der Pfanne.
+il lavandino | das Waschbecken | m | 🚰 | LAVANDINO – lavare (waschen) → Lavendel-Seife. | | Lavo i piatti nel *lavandino*. | Ich spüle die Teller im Becken.
+la lavatrice | die Waschmaschine | f | 🧺 | LAVA-TRICE: die Wäscherin (lavare). | | Accendo la *lavatrice*. | Ich schalte die Waschmaschine an.
+la televisione | der Fernseher; das Fernsehen | f | 📺 | Wie Television; kurz: la tv. | | Cosa c'è in *televisione*? | Was läuft im Fernsehen?
+il telefono | das Telefon | m | ☎️ | Wie Telefon. | | Ti chiamo al *telefono*. | Ich ruf dich an.
+il cellulare | das Handy | m | 📱 | CELLULARE – Cellular phone. | | Ho dimenticato il *cellulare*! | Ich habe mein Handy vergessen!
+il computer | der Computer | m | 💻 | Wie Computer. | | Lavoro al *computer*. | Ich arbeite am Computer.
+il caricabatterie | das Ladegerät | m | 🔌 | CARICA-BATTERIE = Batterie-Lader. | | Hai un *caricabatterie*? | Hast du ein Ladegerät?
+la presa | die Steckdose | f | 🔌 | PRESA – „Prise“: wo man Strom „nimmt“ (prendere). | | Dov'è la *presa*? | Wo ist die Steckdose?
+la spazzatura | der Müll | f | 🗑️ | SPAZZATURA – spazzare = fegen → das Zusammengefegte. | | Porto fuori la *spazzatura*. | Ich bringe den Müll raus.
+il libro | das Buch | m | 📕 | LIBRO – Libretto, Library. | lat. liber | Leggo un *libro* giallo. | Ich lese einen Krimi.
+il giornale | die Zeitung | m | 📰 | GIORNALE – Journal: täglich (giorno). | | Leggo il *giornale* al bar. | Ich lese die Zeitung in der Bar.
+la lettera | der Brief; der Buchstabe | f | ✉️ | LETTERA – Letter. | engl. letter | Ti scrivo una *lettera*. | Ich schreibe dir einen Brief.
+la penna | der Kugelschreiber | f | 🖊️ | PENNA – Pen. | engl. pen | Mi presti una *penna*? | Leihst du mir einen Kuli?
+la carta | das Papier; die Karte | f | 📄 | CARTA – Karte, Karton. | | Un foglio di *carta*. | Ein Blatt Papier.
+la borsa | die Tasche; die Handtasche | f | 👜 | BORSA – Börse = Geldbeutel. | | Ho tutto nella *borsa*. | Ich habe alles in der Tasche.
+il portafoglio | der Geldbeutel | m | 👛 | PORTA-FOGLIO = trägt Blätter (Geldscheine). Portfolio! | engl. portfolio | Mi hanno rubato il *portafoglio*! | Man hat mir den Geldbeutel gestohlen!
+gli occhiali | die Brille | m;pl | 👓 | OCCHIALI – occhi (Augen): Augengläser. Plural! | | Dove sono i miei *occhiali*? | Wo ist meine Brille?
+l'ombrello | der Regenschirm | m | ☂️ | OMBRELLO – Umbra = Schatten → Umbrella. | engl. umbrella | Prendi l'*ombrello*, piove! | Nimm den Schirm, es regnet!
+l'orologio | die Uhr | m | ⌚ | OROLOGIO – „Horologium“: Stunden-Messer. | | Il mio *orologio* è fermo. | Meine Uhr ist stehengeblieben.
+la foto | das Foto | f | 📷 | Abkürzung von fotografia → feminin! | | Facciamo una *foto*! | Machen wir ein Foto!
+la cosa | die Sache; das Ding | f | 📦 | COSA – Causa, Sache. Che cosa? = Was? | | Ho tante *cose* da fare. | Ich habe viel zu tun.
+il regalo | das Geschenk | m | 🎁 | REGALO – „Regal“: königlich (regale) beschenken. | engl. regal | Un *regalo* per te! | Ein Geschenk für dich!
+la chiave di casa | der Hausschlüssel | f | 🔑 | CHIAVE = Schlüssel (Klavier). | | Hai la *chiave di casa*? | Hast du den Hausschlüssel?
+il cane | der Hund | m | 🐕 | CANE – Kaninchen? Nein! Canis = Hund → „Cave canem“. | lat. canis | Il *cane* abbaia. | Der Hund bellt.
+il gatto | die Katze; der Kater | m | 🐈 | GATTO – „Kater“ → Gatto. | engl. cat | Il *gatto* dorme sul divano. | Die Katze schläft auf dem Sofa.
+l'uccello | der Vogel | m | 🐦 | UCCELLO – „Uh-Tschello“: Vogel singt Cello. | | Un *uccello* canta. | Ein Vogel singt.
+il cavallo | das Pferd | m | 🐎 | CAVALLO – Kavallerie, Kavalier. | | Andare a *cavallo*. | Reiten.

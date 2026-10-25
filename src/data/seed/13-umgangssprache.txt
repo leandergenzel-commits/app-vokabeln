@@ -1,0 +1,54 @@
+# Umgangssprache
+boh | keine Ahnung (Achselzucken) | int;ugs | 🤷 | BOH – mit Schulterzucken und vorgeschobener Unterlippe. | | – Dov'è Marco? – *Boh*! | – Wo ist Marco? – Keine Ahnung!
+mah | tja; naja | int;ugs | 😕 | MAH – zweifelndes „Mah…“ wie „Mäh“. | | *Mah*, non so. | Tja, weiß nicht.
+figurati | keine Ursache; ach was | expr;ugs | 🙅 | FIGURATI – „Stell dir vor (das wäre nötig)!“ Auf Danke: Figurati! | | – Grazie! – *Figurati*! | – Danke! – Keine Ursache!
+ci sta | passt schon; ist okay | expr;ugs | 👍 | CI STA – „Das steht da gut“: passt! | | Una pizza stasera? *Ci sta*! | Pizza heute Abend? Passt!
+fico/figo | cool; geil | adj;ugs | 😎 | FIGO – „Fig“ (Feige) – reif und lecker: cool! Che figata! | | Che macchina *figa*! | Was für ein cooles Auto!
+che figata! | wie geil!; wie cool! | expr;ugs | 🤩 | FIGATA – von figo: das Coole. | | *Che figata*! | Wie geil!
+la figuraccia | die Blamage | f;ugs | 🙈 | FIGURA-CCIA = schlechte Figur machen. | | Ho fatto una *figuraccia*! | Ich habe mich blamiert!
+mi raccomando | bitte denk dran!; pass auf! | expr;ugs | ☝️ | „Ich empfehle mich“ → Sei so gut und denk dran! | | Chiamami, *mi raccomando*! | Ruf mich an, denk dran!
+che casino! | was für ein Chaos! | expr;ugs | 🌪️ | CASINO = Chaos (Achtung: Spielbank = casinò mit Akzent!). | | In casa c'è un *casino*! | Zu Hause herrscht Chaos!
+un casino di | total viele; ein Haufen | expr;ugs | 📦 | Casino = Chaos → „eine Unmenge“. | | Ho *un casino di* lavoro. | Ich habe total viel Arbeit.
+un sacco | viel; sehr | expr;ugs | 🎒 | SACCO – „ein Sack voll“: Mi piace un sacco = gefällt mir total. | | Mi piace *un sacco*! | Gefällt mir total!
+tipo | so wie; zum Beispiel | adv;ugs | 🙄 | TIPO – wie dt. „so“: „Tipo… cioè…“ – Füllwort der Jugend. | | Era, *tipo*, enorme! | Es war, so, riesig!
+cioè | das heißt; also | adv;ugs | 💬 | CIOÈ – „ciò è“ = das ist. Füllwort: Cioè … | | *Cioè*, non lo so. | Also, ich weiß es nicht.
+vabbè | na gut; was soll's | int;ugs | 🤷‍♀️ | VABBÈ = va bene, schnell gesagt. | | *Vabbè*, andiamo. | Na gut, gehen wir.
+ok, perfetto | okay, perfekt | expr;ugs | 👌 | Italiener sagen gern „perfetto!“. | | – Alle otto? – *Ok, perfetto*! | – Um acht? – Okay, perfekt!
+che palle! | wie nervig! (derb) | expr;ugs | 😤 | PALLE = Bälle/Eier – derb wie „Das nervt!“. Nur unter Freunden! | | Ancora pioggia? *Che palle*! | Schon wieder Regen? Wie nervig!
+rompere le scatole | nerven; auf den Keks gehen | expr;ugs | 📦 | „Die Schachteln zerbrechen“ – harmlose Version. | | Non *rompere le scatole*! | Geh mir nicht auf den Keks!
+essere al verde | pleite sein | expr;ugs | 💸 | VERDE – früher war der Boden der Kerze grün: Kerze runtergebrannt = nichts mehr übrig. | | Sono *al verde*. | Ich bin pleite.
+in gamba | fit; tüchtig | expr;ugs | 💪 | GAMBA = Bein: „gut auf den Beinen“. | | Tua nonna è ancora *in gamba*! | Deine Oma ist noch fit!
+avere fifa | Schiss haben | expr;ugs | 😨 | FIFA – „Fi-fa“: Angst vor dem WM-Finale. | | *Ho fifa* dell'esame. | Ich hab Schiss vor der Prüfung.
+la fregatura | die Abzocke; der Reinfall | f;ugs | 🤑 | FREGARE = reinlegen. | | Quel ristorante è una *fregatura*. | Das Restaurant ist Abzocke.
+fregarsene | auf etwas pfeifen | expr;ugs | 🫠 | „Me ne frego!“ = Ist mir egal! | | *Me ne frego*! | Ist mir doch egal!
+non me ne frega niente | das ist mir völlig egal | expr;ugs | 🙄 | FREGARE: „Es reibt mich nicht“ – egal! | | *Non me ne frega niente*! | Das ist mir völlig egal!
+non vedo l'ora | ich kann es kaum erwarten | expr;ugs | 🤩 | „Ich sehe die Stunde nicht“ – vor Ungeduld! | | *Non vedo l'ora* di vederti! | Ich kann es kaum erwarten, dich zu sehen!
+dai, su! | los, komm! | expr;ugs | ⬆️ | SU = hoch: „Auf geht's!“ | | *Dai, su*, andiamo! | Los komm, gehen wir!
+mamma mia! | meine Güte!; oh je! | int;ugs | 😱 | Wörtlich: „Meine Mama!“ – Ausruf des Staunens. | | *Mamma mia*, che caldo! | Meine Güte, ist das heiß!
+accidenti! | Mist!; Verflixt! | int;ugs | 😖 | ACCIDENTI – Accident: so ein Unglück! | | *Accidenti*, ho perso il treno! | Mist, ich habe den Zug verpasst!
+cavolo! | Mist!; Mann! | int;ugs | 🥬 | CAVOLO = Kohl: harmloser Fluch, „Kohl!“. Che cavolo fai? = Was zum Teufel machst du? | | *Cavolo*, è tardi! | Mist, es ist spät!
+che schifo! | wie eklig! | expr;ugs | 🤢 | SCHIFO – „Schiff voller Fisch-Gestank“: eklig! | | Il caffè freddo? *Che schifo*! | Kalter Kaffee? Igitt!
+fa schifo | ist mies; ist eklig | expr;ugs | 👎 | SCHIFO = Ekel. | | Questo film *fa schifo*. | Dieser Film ist mies.
+sono fuori | ich bin raus; bin unterwegs | expr;ugs | 🚶 | FUORI = draußen. | | Adesso *sono fuori*, ti chiamo dopo. | Ich bin gerade unterwegs, ich ruf dich später an.
+stare fuori di testa | durchgeknallt sein | expr;ugs | 🤪 | „Außerhalb des Kopfes stehen“. | | Ma *sei fuori di testa*? | Bist du verrückt?
+ci vediamo | wir sehen uns | expr;ugs | 👋 | CI = uns, VEDIAMO = wir sehen. | | *Ci vediamo* dopo! | Wir sehen uns später!
+ci sentiamo | wir hören voneinander | expr;ugs | 📞 | „Wir hören uns“ – Abschied am Telefon. | | *Ci sentiamo* domani! | Wir hören uns morgen!
+tanto | sowieso; ohnehin | adv;ugs | 🤷 | TANTO – „So viel“ → sowieso. | | *Tanto* non viene. | Er kommt sowieso nicht.
+mica | gar nicht; etwa | adv;ugs | 🤏 | MICA – „Krümel“: nicht mal ein Krümel! Non è mica male = gar nicht schlecht. | | Non è *mica* male! | Gar nicht schlecht!
+un attimo | einen Moment | expr;ugs | ⏱️ | ATTIMO – „Atem-zug“: ein Moment. | | *Un attimo*, arrivo! | Einen Moment, ich komme!
+il tizio | der Typ | m;ugs | 🧔 | TIZIO – „Tizio, Caio e Sempronio“ = Hinz und Kunz. | | Chi è quel *tizio*? | Wer ist der Typ?
+la roba | das Zeug; die Sachen | f;ugs | 🧺 | ROBA – „Robe“: Kram, Zeug. | | Prendi la tua *roba*! | Nimm dein Zeug!
+il casino | das Chaos; der Lärm | m;ugs | 🎢 | Achtung: casinò (Akzent) = Spielbank. | | Che *casino* in strada! | Was für ein Chaos auf der Straße!
+beccare | erwischen | v;ugs | 🪤 | BECCARE – picken (becco = Schnabel): wie ein Vogel schnappen. | | Ti ho *beccato*! | Erwischt!
+sbrigarsi | sich beeilen | v;ugs | 🏃 | SBRIGARSI – „Brigade, los!“ Sbrigati! = Beeil dich! | | *Sbrigati*, è tardi! | Beeil dich, es ist spät!
+mollare | aufgeben; sitzen lassen | v;ugs | 🏳️ | MOLLARE – „Moll“: traurig loslassen. Non mollare! = Gib nicht auf! | | Non *mollare*! | Gib nicht auf!
+chiacchierare | quatschen; plaudern | v;ugs | 🗣️ | CHIACCHIERARE – lautmalerisch: Tschakka-tschakka – Geplapper. | | *Chiacchieriamo* un po'? | Quatschen wir ein bisschen?
+le chiacchiere | das Geplauder | f;pl;ugs | 💬 | Auch ein Karnevalsgebäck! | | Basta con le *chiacchiere*! | Genug geredet!
+il bimbo | das Kind (Koseform) | m;ugs | 👶 | BIMBO – Kurzform für bambino. | | Il *bimbo* dorme. | Das Kleine schläft.
+il prof | der Lehrer (Schülersprache) | m;ugs | 👨‍🏫 | Kurz für professore. | | Il *prof* è simpatico. | Der Lehrer ist nett.
+la bici | das Rad | f;ugs | 🚲 | Kurz für bicicletta. | | Vado in *bici*. | Ich fahre mit dem Rad.
+il frigo | der Kühlschrank | m;ugs | 🧊 | Kurz für frigorifero. | | La birra è in *frigo*. | Das Bier ist im Kühlschrank.
+la tele | der Fernseher | f;ugs | 📺 | Kurz für televisione. | | Cosa c'è alla *tele*? | Was kommt im Fernsehen?
+tranqui | ganz ruhig; locker | adj;ugs | 😎 | Kurz für tranquillo. | | Stai *tranqui*! | Bleib locker!
+troppo forte! | voll stark!; super! | expr;ugs | 🔥 | FORTE = stark → super! | | Il concerto era *troppo forte*! | Das Konzert war der Hammer!
+ammazza! | Wahnsinn! (römisch) | int;ugs | 😮 | AMMAZZA – „Bring (mich) um!“ – römisches Staunen. | | *Ammazza*, che bello! | Wahnsinn, wie schön!

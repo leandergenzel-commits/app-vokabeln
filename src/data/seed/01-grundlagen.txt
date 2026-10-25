@@ -1,0 +1,78 @@
+// Format: italienisch | deutsch | grammatik | emoji | eselsbrücke | verwandt | beispiel_it | beispiel_de
+
+# Grundlagen & Begrüßung
+ciao | hallo; tschüss | int | 👋 | CIAO kommt von venezianisch „s'ciavo“ = „(Ihr) Sklave“ – ein sehr höflicher Diener verbeugt sich und winkt. | dt. „Tschau“ | *Ciao*, come stai? | Hallo, wie geht's?
+buongiorno | guten Morgen; guten Tag | int | 🌅 | BUON = gut, GIORNO = Tag. Die Sonne geht auf über einem „guten Journal“ (giorno ≈ Journal). | frz. bonjour | *Buongiorno*, signora! | Guten Tag, meine Dame!
+buonasera | guten Abend | int | 🌆 | SERA = Abend: Bei der SERenade am Abend singt jemand unter dem Balkon. | Serenade | *Buonasera* a tutti! | Guten Abend allerseits!
+buonanotte | gute Nacht | int | 🌙 | NOTTE klingt wie „Nacht“ mit italienischem Akzent – Nottt-e. | engl. night, lat. nox | *Buonanotte*, dormi bene! | Gute Nacht, schlaf gut!
+arrivederci | auf Wiedersehen | int | 🚪 | A-RIVEDER-CI = auf das „Wieder-Sehen“ (rivedere = wiedersehen). | | *Arrivederci* e grazie! | Auf Wiedersehen und danke!
+salve | hallo (neutral-höflich) | int | 🏛️ | SALVE – schon die alten Römer grüßten so; denk an „Salut“ und eine Salve aus Kanonen zur Begrüßung. | lat. salve, frz. salut | *Salve*, posso entrare? | Hallo, darf ich reinkommen?
+a presto | bis bald | expr | ⏩ | PRESTO = schnell, wie beim Zauberer: „Hokuspokus PRESTO!“ – bald bin ich wieder da. | Musik: presto | Ci vediamo *a presto*! | Bis bald!
+a dopo | bis später | expr | ⏳ | DOPO = danach. „Do' po'“ – doppelt so spät. | | Ciao, *a dopo*! | Tschüss, bis später!
+a domani | bis morgen | expr | 📅 | DOMANI – „Doch Mañana“ (span. morgen) klingt fast gleich. | span. mañana | Grazie, *a domani*! | Danke, bis morgen!
+per favore | bitte (Bitte um etwas) | expr | 🙏 | Tu mir einen GEFALLEN = FAVORE (Favor). | engl. favour | Un caffè, *per favore*. | Einen Kaffee, bitte.
+per piacere | bitte | expr | 😊 | PIACERE = Vergnügen: Es wäre mir ein Vergnügen. | frz. s'il vous plaît | Mi passi il sale, *per piacere*? | Gibst du mir bitte das Salz?
+grazie | danke | int | 💐 | GRAZIE – mit Grazie und Anmut bedankt man sich. | Grazie, lat. gratia | *Grazie* mille! | Tausend Dank!
+grazie mille | vielen Dank | expr | 🎁 | MILLE = tausend → tausend Dank, wie ein Millefiori-Strauß mit tausend Blumen. | Millennium | *Grazie mille* per l'aiuto! | Vielen Dank für die Hilfe!
+prego | bitte (gern geschehen); bitte schön | int | 🤲 | PREGO – „Ich PREdige: Gern GEschehen!“ Auch beim Anbieten: Prego, si accomodi. | | – Grazie! – *Prego*! | – Danke! – Gern geschehen!
+di niente | keine Ursache | expr | 🤷 | NIENTE = nichts – „Nix, nichts, niente“. | | – Grazie! – *Di niente*! | – Danke! – Keine Ursache!
+scusa | Entschuldigung (du) | int | 😅 | SCUSA – eine Ausrede (excuse) für den Fehler. | engl. excuse | *Scusa*, non ho capito. | Entschuldige, ich habe nicht verstanden.
+mi scusi | Entschuldigen Sie | expr | 🙇 | Die höfliche Form endet auf -I wie „Sie“. | engl. excuse me | *Mi scusi*, dov'è la stazione? | Entschuldigen Sie, wo ist der Bahnhof?
+permesso | Darf ich? (durchgehen/eintreten) | int | 🚶 | PERMESSO = Erlaubnis (Permission). In vollen Bussen hörst du es ständig. | engl. permission | *Permesso*, devo scendere! | Darf ich mal durch, ich muss aussteigen!
+sì | ja | adv | ✅ | SÌ mit Akzent – ohne Akzent wäre es „sich“. Sì, sì! | span. sí | *Sì*, certo! | Ja, sicher!
+no | nein | adv | ❌ | Wie im Deutschen „no“ – ganz leicht! | engl. no | *No*, grazie. | Nein, danke.
+va bene | okay; in Ordnung | expr | 👌 | „Geht gut“ – VA (geht) BENE (gut). | | *Va bene*, ci vediamo alle otto. | Okay, wir sehen uns um acht.
+d'accordo | einverstanden | expr | 🤝 | D'ACCORDO – im Akkord, also im Einklang. | Akkord, frz. d'accord | Sono *d'accordo* con te. | Ich bin mit dir einverstanden.
+certo | sicher; natürlich | adv | 💯 | CERTO = Zertifikat → zertifiziert sicher. | engl. certain | – Vieni? – *Certo*! | – Kommst du? – Klar!
+benvenuto/benvenuta | willkommen | adj | 🎉 | BEN-VENUTO = gut angekommen. | frz. bienvenue | *Benvenuti* in Italia! | Willkommen in Italien!
+piacere | freut mich; das Vergnügen | m | 🤝 | Beim Kennenlernen: „PIACERE!“ – es ist mir ein Vergnügen (Plaisir). | frz. plaisir | *Piacere*, sono Marco. | Freut mich, ich bin Marco.
+come stai? | wie geht es dir? | expr | 🙂 | COME = wie, STAI von stare (sich befinden). | | Ciao Anna, *come stai*? | Hallo Anna, wie geht's dir?
+come sta? | wie geht es Ihnen? | expr | 🎩 | Höflich: STA statt STAI – das „i“ (du) fällt weg. | | Buongiorno, signore, *come sta*? | Guten Tag, mein Herr, wie geht es Ihnen?
+bene | gut (Adverb) | adv | 👍 | BENE – Benefiz = etwas Gutes tun. | Benefiz, lat. bene | Sto *bene*, grazie. | Mir geht's gut, danke.
+male | schlecht (Adverb) | adv | 👎 | MALE – Malheur, Malaria (schlechte Luft). | frz. mal | Oggi sto un po' *male*. | Heute geht's mir etwas schlecht.
+così così | so lala | expr | 🤏 | COSÌ = so → „so-so“. | | – Come va? – *Così così*. | – Wie läuft's? – So lala.
+mi chiamo | ich heiße | expr | 📛 | CHIAMARE = rufen: „Man ruft mich …“ | engl. claim | *Mi chiamo* Lea. | Ich heiße Lea.
+come ti chiami? | wie heißt du? | expr | 🏷️ | Wie rufst du dich? – COME TI CHIAMI? | | Ciao! *Come ti chiami*? | Hallo! Wie heißt du?
+di dove sei? | woher kommst du? | expr | 🌍 | DOVE = wo – „Do-ve“, wo bist du hergekommen? | | *Di dove sei*? Sono tedesco. | Woher kommst du? Ich bin Deutscher.
+sono tedesco/tedesca | ich bin Deutscher/Deutsche | expr | 🇩🇪 | TEDESCO – „Teutsch“ → teutonisch. | | *Sono tedesca*, di Berlino. | Ich bin Deutsche, aus Berlin.
+la Germania | Deutschland | f | 🇩🇪 | GERMANIA – wie die Germanen. | engl. Germany | Abito in *Germania*. | Ich wohne in Deutschland.
+l'Italia | Italien | f | 🇮🇹 | Ganz einfach – mit Artikel: l'Italia. | | Amo *l'Italia*! | Ich liebe Italien!
+italiano/italiana | italienisch; Italiener(in) | adj | 🍕 | Wie im Deutschen, nur mit -o/-a. | | Parlo un po' d'*italiano*. | Ich spreche ein bisschen Italienisch.
+parlo | ich spreche | expr | 🗣️ | PARLARE → Parlament, wo alle reden. | Parlament | *Parlo* tedesco e inglese. | Ich spreche Deutsch und Englisch.
+non capisco | ich verstehe nicht | expr | 🤯 | CAPIRE – „Kapieren“! Non capisco = Ich kapier's nicht. | dt. kapieren | Scusi, *non capisco*. | Entschuldigung, ich verstehe nicht.
+può ripetere? | können Sie das wiederholen? | expr | 🔁 | RIPETERE – repetieren, wiederholen. | engl. repeat | *Può ripetere*, per favore? | Können Sie das bitte wiederholen?
+più lentamente | langsamer | expr | 🐢 | LENTO = langsam – wie das Lento in der Musik. | Musik: lento | Parli *più lentamente*, per favore. | Sprechen Sie bitte langsamer.
+come si dice …? | wie sagt man …? | expr | 💭 | DIRE = sagen → Diktat. | | *Come si dice* „Gabel“ in italiano? | Wie sagt man „Gabel“ auf Italienisch?
+auguri | Glückwünsche; alles Gute | m;pl | 🎂 | AUGURI – ein Augur sagt die Zukunft vorher und wünscht Glück. | lat. augurium | Tanti *auguri* di buon compleanno! | Alles Gute zum Geburtstag!
+buon appetito | guten Appetit | expr | 🍝 | Wie deutsch „Appetit“ mit BUON davor. | | *Buon appetito* a tutti! | Guten Appetit allerseits!
+salute | Gesundheit (beim Niesen); Prost | int | 🤧 | SALUTE – Salut! Gesundheit beim Niesen UND beim Anstoßen. | frz. salut | – Etciù! – *Salute*! | – Hatschi! – Gesundheit!
+cin cin | prost | int | 🥂 | CIN CIN – das Klirren der Gläser: tschin-tschin! | | *Cin cin*, alla nostra! | Prost, auf uns!
+in bocca al lupo | viel Glück (wörtl. ins Maul des Wolfes) | expr | 🐺 | Man antwortet „crepi!“ (er soll krepieren) – der Wolf stirbt, du überlebst. | | Domani hai l'esame? *In bocca al lupo*! | Morgen hast du die Prüfung? Viel Glück!
+crepi! | danke (Antwort auf „in bocca al lupo“) | int;ugs | 💀 | CREPI – „Krepier!“ – der Wolf soll krepieren. | dt. krepieren | – In bocca al lupo! – *Crepi*! | – Viel Glück! – Danke!
+buona giornata | einen schönen Tag | expr | ☀️ | GIORNATA = der ganze Tag (lang), wie Journée. | frz. bonne journée | Grazie e *buona giornata*! | Danke und einen schönen Tag!
+buona serata | einen schönen Abend | expr | 🌇 | SERATA = der ganze Abend. | frz. bonne soirée | *Buona serata*, ragazzi! | Schönen Abend, Leute!
+buon viaggio | gute Reise | expr | ✈️ | VIAGGIO – die Voyage, Reise. | frz. voyage | *Buon viaggio* e scrivimi! | Gute Reise und schreib mir!
+buon fine settimana | schönes Wochenende | expr | 🏖️ | FINE (Ende) der SETTIMANA (Woche, sieben Tage). | | *Buon fine settimana*! | Schönes Wochenende!
+benissimo | sehr gut; super | adv | 🌟 | -ISSIMO = super-: bene → benissimo. | | – Come va? – *Benissimo*! | – Wie läuft's? – Super!
+peccato | schade | int | 😞 | PECCATO = Sünde – „Es ist eine Sünde, wie schade!“ | | Non vieni? Che *peccato*! | Du kommst nicht? Wie schade!
+magari | schön wär's; vielleicht | adv;ugs | 🌈 | MAGARI – „Mag' er i(rgendwann)?“ – Wunschdenken: Schön wär's! | | – Vinci la lotteria? – *Magari*! | – Gewinnst du im Lotto? – Schön wär's!
+dai! | los!; komm schon! | int;ugs | 💪 | DAI – „Dalli dalli!“ – los jetzt! | | *Dai*, andiamo! | Komm schon, gehen wir!
+basta | genug; Schluss | int | ✋ | BASTA – kennen wir: „Und damit basta!“ | dt. basta | *Basta* così, grazie. | Das reicht so, danke.
+attenzione | Achtung; Vorsicht | f | ⚠️ | ATTENZIONE – Attention! | engl. attention | *Attenzione* al gradino! | Vorsicht, Stufe!
+aiuto! | Hilfe! | m | 🆘 | AIUTO – „Ai! U-to!“ – jemand ruft verzweifelt. | | *Aiuto*! Chiamate un medico! | Hilfe! Ruft einen Arzt!
+ecco | hier ist; da ist; schau | adv | 👉 | ECCO – „Ecke! Da ist es!“ – man zeigt um die Ecke. | lat. ecce | *Ecco* il tuo caffè. | Hier ist dein Kaffee.
+
+# Fragen
+che cosa? | was? | pron | ❓ | CHE COSA = welche Sache (Causa). | | *Che cosa* fai stasera? | Was machst du heute Abend?
+chi? | wer? | pron | 🕵️ | CHI spricht man „ki“ – wie „Kiii-ste da?“ | lat. quis | *Chi* è quella ragazza? | Wer ist das Mädchen?
+dove? | wo?; wohin? | adv | 📍 | DOVE – „Do ve(rsteckt)?“ Wo ist es versteckt? | | *Dove* abiti? | Wo wohnst du?
+quando? | wann? | adv | ⏰ | QUANDO – wie engl. when → „qu-ando“, lat. quando. | lat. quando | *Quando* parte il treno? | Wann fährt der Zug ab?
+perché? | warum?; weil | adv | 🤔 | PERCHÉ – „Per che?“ = für was? Gleichzeitig auch „weil“. | frz. pourquoi | *Perché* ridi? | Warum lachst du?
+come? | wie? | adv | 🔧 | COME – „Komme wie?“ | lat. quomodo | *Come* si chiama questo? | Wie heißt das?
+quanto/quanta? | wie viel? | adv | 🔢 | QUANTO – Quantität! | Quantität | *Quanto* costa? | Wie viel kostet das?
+quale? | welche(r/s)? | pron | 👈 | QUALE – Qualität: welche Qualität? | lat. qualis | *Quale* preferisci? | Welchen bevorzugst du?
+da dove? | woher? | adv | 🧭 | DA = von, DOVE = wo. | | *Da dove* vieni? | Woher kommst du?
+quanti anni hai? | wie alt bist du? | expr | 🎂 | Wörtlich: „Wie viele Jahre HAST du?“ – im Italienischen hat man sein Alter. | | *Quanti anni hai*? Ne ho trenta. | Wie alt bist du? Ich bin dreißig.
+che ore sono? | wie spät ist es? | expr | 🕰️ | Wörtlich: „Welche Stunden sind es?“ – ORE wie engl. hours. | engl. hour | Scusi, *che ore sono*? | Entschuldigung, wie spät ist es?
+cosa c'è? | was ist los? | expr | 😟 | C'È = es gibt/da ist. „Was gibt's?“ | | Sei triste? *Cosa c'è*? | Bist du traurig? Was ist los?
+come mai? | wieso denn? | expr | 🧐 | COME MAI – „Wie denn bloß?“ – überraschtes Warum. | | *Come mai* sei qui? | Wieso bist du denn hier?

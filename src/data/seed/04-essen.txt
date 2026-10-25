@@ -1,0 +1,112 @@
+# Essen & Trinken
+il cibo | das Essen; die Nahrung | m | 🍲 | CIBO – „Tschibo“ verkauft auch Essen. | | Il *cibo* italiano è il migliore. | Das italienische Essen ist das beste.
+mangiare | essen | v | 🍝 | MANGIARE – „Mampfen, manschen“: Mangiare! | frz. manger | Cosa vuoi *mangiare*? | Was willst du essen?
+bere | trinken | v;conj=bevo,bevi,beve,beviamo,bevete,bevono | 🍷 | BERE – „Beere“: Aus Beeren macht man Wein zum Trinken. Formen mit BEV-: bevo, bevi … (Beverage!) | engl. beverage | Cosa vuoi *bere*? | Was möchtest du trinken?
+la colazione | das Frühstück | f | 🥐 | COLAZIONE – „Kollation“: kleine Mahlzeit. Fare colazione = frühstücken. | | Facciamo *colazione* al bar. | Wir frühstücken in der Bar.
+il pranzo | das Mittagessen | m | 🍽️ | PRANZO – „Prunk-so“: Mittags wird prunkvoll gegessen. | | Il *pranzo* è all'una. | Das Mittagessen ist um eins.
+la cena | das Abendessen | f | 🕯️ | CENA – Szene: das Abendmahl als Szene (Ultima Cena von Leonardo). | | Ti invito a *cena*. | Ich lade dich zum Abendessen ein.
+la merenda | der Snack; die Zwischenmahlzeit | f | 🧁 | MERENDA – „Meh rennen“: nach dem Rennen ein Snack. | | Per *merenda* una mela. | Als Snack einen Apfel.
+il pane | das Brot | m | 🍞 | PANE – Panini, Paniermehl! | frz. pain | Un po' di *pane*, per favore. | Etwas Brot, bitte.
+il panino | das belegte Brötchen | m | 🥪 | PANINO – kleines Brot (-ino = klein). | | Un *panino* al prosciutto. | Ein Schinkenbrötchen.
+la pasta | die Nudeln; das Gebäckstück | f | 🍝 | PASTA – wie im Deutschen. Achtung: in der Bar ist „una pasta“ ein süßes Teilchen! | | Stasera mangiamo la *pasta*. | Heute Abend essen wir Nudeln.
+il riso | der Reis | m | 🍚 | RISO – Risotto! Achtung: riso heißt auch „das Lachen“. | Risotto | Il *riso* per il risotto. | Der Reis für das Risotto.
+la pizza | die Pizza | f | 🍕 | Pizza! Plural: le pizze. | | Una *pizza* margherita, per favore. | Eine Pizza Margherita, bitte.
+la carne | das Fleisch | f | 🥩 | CARNE – Chili con carne, Karneval (= Abschied vom Fleisch). | | Non mangio *carne*. | Ich esse kein Fleisch.
+il pollo | das Hähnchen | m | 🍗 | POLLO – „Pollo“: Polly das Hühnchen. | span. pollo | *Pollo* arrosto con patate. | Brathähnchen mit Kartoffeln.
+il manzo | das Rindfleisch | m | 🐄 | MANZO – ein „Mann-so“ stark wie ein Rind. | | Una bistecca di *manzo*. | Ein Rindersteak.
+il maiale | das Schwein; Schweinefleisch | m | 🐖 | MAIALE – „Mai-ale“: Im Mai wird das Schwein gegrillt. | | Le salsicce sono di *maiale*. | Die Würstchen sind aus Schweinefleisch.
+il prosciutto | der Schinken | m | 🥓 | Prosciutto crudo (roh) oder cotto (gekocht). | | *Prosciutto* e melone. | Schinken und Melone.
+il salame | die Salami | m | 🍖 | SALAME – Salami; Achtung: maskulin! | | Un panino col *salame*. | Ein Brötchen mit Salami.
+il pesce | der Fisch | m | 🐟 | PESCE – „Pesce“ → Pisces (Sternzeichen Fische). | lat. piscis | Il *pesce* è freschissimo. | Der Fisch ist ganz frisch.
+i frutti di mare | die Meeresfrüchte | m;pl | 🦐 | Wörtlich: Früchte des Meeres. | | Spaghetti ai *frutti di mare*. | Spaghetti mit Meeresfrüchten.
+l'uovo | das Ei | m;pl=le uova | 🥚 | UOVO – Oval wie ein Ei. Plural: LE uova (feminin!). | lat. ovum | Un *uovo* sodo. | Ein hartgekochtes Ei.
+il formaggio | der Käse | m | 🧀 | FORMAGGIO – Käse in Form gepresst (frz. fromage). | frz. fromage | Il *formaggio* sulla pasta. | Der Käse auf die Nudeln.
+il burro | die Butter | m | 🧈 | BURRO – „Butter“ → „Burro“; Achtung: maskulin! | frz. beurre | Pane, *burro* e marmellata. | Brot, Butter und Marmelade.
+il latte | die Milch | m | 🥛 | LATTE – Latte macchiato = „befleckte Milch“. | lat. lac | Un caffè con un po' di *latte*. | Ein Kaffee mit etwas Milch.
+lo zucchero | der Zucker | m | 🍬 | ZUCCHERO – Zucker. Lo vor z! | | Senza *zucchero*, grazie. | Ohne Zucker, danke.
+il sale | das Salz | m | 🧂 | SALE – Salz, Salär (Römer wurden in Salz bezahlt). | lat. sal | Manca il *sale*. | Es fehlt Salz.
+il pepe | der Pfeffer | m | 🌶️ | PEPE – Pfeffer, Peperoni. | engl. pepper | Sale e *pepe*. | Salz und Pfeffer.
+l'olio | das Öl | m | 🫒 | OLIO – Öl, Olive. | | *Olio* extravergine d'oliva. | Natives Olivenöl extra.
+l'aceto | der Essig | m | 🍶 | ACETO – Aceto balsamico, Azeton (sauer). | | *Aceto* balsamico di Modena. | Balsamico-Essig aus Modena.
+la frutta | das Obst | f | 🍎 | FRUTTA – Früchte. Singular für „Obst“! | engl. fruit | Mangio tanta *frutta*. | Ich esse viel Obst.
+la verdura | das Gemüse | f | 🥦 | VERDURA – verde = grün → das Grüne. | | Compro la *verdura* al mercato. | Ich kaufe das Gemüse auf dem Markt.
+la mela | der Apfel | f | 🍎 | MELA – „Me(h)l-a“: Apfel im Mehl → Apfelkuchen. | Melone (verwandt) | Una *mela* al giorno … | Ein Apfel am Tag …
+la pera | die Birne | f | 🍐 | PERA – „Pear“. | engl. pear | Una *pera* matura. | Eine reife Birne.
+l'arancia | die Orange | f | 🍊 | ARANCIA – Orange. „Aranciata“ = Orangenlimo. | | Una spremuta d'*arancia*. | Ein frisch gepresster Orangensaft.
+il limone | die Zitrone | m | 🍋 | LIMONE – Limone; Limoncello! Achtung: IL limone. | Limonade | Tè al *limone*. | Zitronentee.
+la banana | die Banane | f | 🍌 | Wie Banane. | | Una *banana* per merenda. | Eine Banane als Snack.
+l'uva | die Trauben | f | 🍇 | UVA – „U-va“: Rund wie eine Traube. Singular! | | Un grappolo d'*uva*. | Eine Weintraube.
+la fragola | die Erdbeere | f | 🍓 | FRAGOLA – „Fragrance“: Erdbeeren duften so schön. | frz. fraise | Gelato alla *fragola*. | Erdbeereis.
+la pesca | der Pfirsich | f | 🍑 | PESCA – Pfirsich (Pesca → Persica). Auch „das Angeln“! | | Una *pesca* succosa. | Ein saftiger Pfirsich.
+il pomodoro | die Tomate | m | 🍅 | POMO D'ORO = goldener Apfel. | | Sugo di *pomodoro*. | Tomatensoße.
+la patata | die Kartoffel | f | 🥔 | PATATA – Potato. | engl. potato | *Patate* al forno. | Ofenkartoffeln.
+la cipolla | die Zwiebel | f | 🧅 | CIPOLLA – „Zippolla“: Zwiebel → Cipollini. | | Senza *cipolla*, per favore. | Ohne Zwiebeln, bitte.
+l'aglio | der Knoblauch | m | 🧄 | AGLIO – Aglio e olio: Spaghetti mit Knoblauch und Öl. | | Spaghetti *aglio*, olio e peperoncino. | Spaghetti mit Knoblauch, Öl und Chili.
+l'insalata | der Salat | f | 🥗 | INSALATA – Salat mit „in“ davor. | | Un'*insalata* mista. | Ein gemischter Salat.
+la carota | die Karotte | f | 🥕 | Wie Karotte. | | Le *carote* crude. | Rohe Karotten.
+i funghi | die Pilze | m;pl | 🍄 | FUNGHI – Fungizid gegen Pilze; Pizza funghi. | lat. fungus | Risotto ai *funghi*. | Pilzrisotto.
+le zucchine | die Zucchini | f;pl | 🥒 | Zucchine – auf Italienisch meist feminin. | | *Zucchine* grigliate. | Gegrillte Zucchini.
+la melanzana | die Aubergine | f | 🍆 | MELANZANA – „Mela insana“, ungesunder Apfel. Parmigiana di melanzane! | | Parmigiana di *melanzane*. | Auberginenauflauf.
+il peperoncino | die Chilischote | m | 🌶️ | Kleiner Pfeffer (pepe + -oncino). | | Un po' di *peperoncino*. | Ein bisschen Chili.
+il dolce | die Süßspeise; der Nachtisch | m | 🍮 | DOLCE – Dolce Vita = süßes Leben. | | Cosa c'è per *dolce*? | Was gibt es zum Nachtisch?
+la torta | der Kuchen; die Torte | f | 🎂 | TORTA – Torte. | | Una fetta di *torta*. | Ein Stück Kuchen.
+il gelato | das Eis (Speiseeis) | m | 🍨 | GELATO – gelieren, gefroren. | engl. gelatin | Un *gelato* al cioccolato. | Ein Schokoladeneis.
+il cioccolato | die Schokolade | m | 🍫 | CIOCCOLATO – „Tschokolato“. | | Mi piace il *cioccolato*. | Ich mag Schokolade.
+il biscotto | der Keks | m | 🍪 | BIS-COTTO = zweimal gebacken → Biskuit. | | *Biscotti* per colazione. | Kekse zum Frühstück.
+il cornetto | das Hörnchen; das Croissant | m | 🥐 | CORNETTO – kleines Horn (corno). | | Un cappuccino e un *cornetto*. | Ein Cappuccino und ein Hörnchen.
+la marmellata | die Marmelade | f | 🍯 | Wie Marmelade. | | Pane e *marmellata*. | Brot und Marmelade.
+il miele | der Honig | m | 🍯 | MIELE – „Miele“-Biene summt (lat. mel → Melisse). | lat. mel | Tè con il *miele*. | Tee mit Honig.
+l'acqua | das Wasser | f | 💧 | ACQUA – Aquarium, Aqua. | lat. aqua | Un bicchiere d'*acqua*. | Ein Glas Wasser.
+l'acqua frizzante | das Sprudelwasser | f | 🫧 | FRIZZANTE – es „frizzelt“ (prickelt). Ohne: naturale. | | Una bottiglia d'*acqua frizzante*. | Eine Flasche Sprudelwasser.
+il caffè | der Kaffee; der Espresso | m | ☕ | In Italien ist „un caffè“ immer ein Espresso! | | Un *caffè*, per favore. | Einen Espresso, bitte.
+il tè | der Tee | m | 🍵 | TÈ – „Tee“ mit Akzent. | | Un *tè* freddo alla pesca. | Einen Pfirsich-Eistee.
+il succo | der Saft | m | 🧃 | SUCCO – „Succo“ → saugen (suck). | engl. succulent | Un *succo* d'arancia. | Einen Orangensaft.
+il vino | der Wein | m | 🍷 | VINO – Wein, Vinothek. | | Un bicchiere di *vino* rosso. | Ein Glas Rotwein.
+la birra | das Bier | f | 🍺 | BIRRA – Bier. | | Una *birra* alla spina. | Ein Bier vom Fass.
+lo spumante | der Sekt | m | 🍾 | SPUMANTE – schäumend (spuma = Schaum). | | Brindiamo con lo *spumante*! | Stoßen wir mit Sekt an!
+la ricetta | das Rezept | f | 📜 | RICETTA – Rezept (recipe). Auch das ärztliche Rezept! | engl. recipe | La *ricetta* della nonna. | Omas Rezept.
+cucinare | kochen | v | 👨‍🍳 | CUCINARE – Cuisine, Küche! | engl. cuisine | Mi piace *cucinare*. | Ich koche gern.
+buono/buona | gut; lecker | adj | 😋 | BUONO – „Bon!“ – lecker. | frz. bon | Questa pasta è *buonissima*! | Diese Pasta ist super lecker!
+delizioso/deliziosa | köstlich | adj | 🤤 | DELIZIOSO – delicious. | engl. delicious | Il dolce è *delizioso*. | Der Nachtisch ist köstlich.
+piccante | scharf | adj | 🔥 | PICCANTE – pikant. | | È troppo *piccante* per me. | Das ist zu scharf für mich.
+fresco/fresca | frisch; kühl | adj | ❄️ | FRESCO – fresh; Fresko wird auf frischen Putz gemalt. | engl. fresh | Il pane è *fresco*. | Das Brot ist frisch.
+crudo/cruda | roh | adj | 🥩 | CRUDO – crude, roh. | engl. crude | Prosciutto *crudo*. | Rohschinken.
+cotto/cotta | gekocht; gegart | adj | 🍳 | COTTO – Panna cotta = gekochte Sahne. | | Prosciutto *cotto*. | Kochschinken.
+vegetariano/vegetariana | vegetarisch | adj | 🥬 | Wie vegetarisch. | | Sono *vegetariana*. | Ich bin Vegetarierin.
+
+# Restaurant & Bar
+il ristorante | das Restaurant | m | 🍽️ | Wie Restaurant. | | Conosci un buon *ristorante*? | Kennst du ein gutes Restaurant?
+la trattoria | das einfache Gasthaus | f | 🏠 | Familiär, günstig, Hausmannskost. | | Mangiamo in *trattoria*. | Wir essen in einer Trattoria.
+la pizzeria | die Pizzeria | f | 🍕 | Wie im Deutschen – nur mit italienischem Charme. | | Andiamo in *pizzeria*? | Gehen wir in die Pizzeria?
+il bar | die Bar; das Café | m | ☕ | In Italien: Café für Espresso und Cornetto am Tresen. | | Ci vediamo al *bar*. | Wir sehen uns in der Bar.
+il cameriere | der Kellner | m | 🤵 | CAMERIERE – der „Kammerdiener“ (camera = Zimmer). | | Il *cameriere* porta il menù. | Der Kellner bringt die Karte.
+la cameriera | die Kellnerin | f | 💁‍♀️ | Feminin zu cameriere. | | La *cameriera* è molto gentile. | Die Kellnerin ist sehr nett.
+il cuoco | der Koch | m | 👨‍🍳 | CUOCO – „Kuh-Koch“: der Koch brät eine Kuh. | lat. coquus | Il *cuoco* è siciliano. | Der Koch ist Sizilianer.
+il menù | die Speisekarte | m | 📋 | MENÙ – Betonung hinten. | | Posso vedere il *menù*? | Kann ich die Karte sehen?
+il tavolo | der Tisch | m | 🪑 | TAVOLO – Tafel. | lat. tabula | Un *tavolo* per quattro. | Ein Tisch für vier.
+la sedia | der Stuhl | f | 🪑 | SEDIA – sedere = sitzen; Sediment setzt sich. | | Manca una *sedia*. | Es fehlt ein Stuhl.
+il conto | die Rechnung | m | 🧾 | CONTO – Konto! Il conto, per favore. | | Il *conto*, per favore! | Die Rechnung, bitte!
+la mancia | das Trinkgeld | f | 💶 | MANCIA – „Man(n) tschau“ – ein Mann gibt was „zum Tschüss“. | | Lasciamo la *mancia*? | Lassen wir Trinkgeld da?
+il coperto | das Gedeck (Gebühr) | m | 🍴 | COPERTO – „gedeckt“: Brot und Gedeck kosten extra! | engl. cover charge | Il *coperto* costa due euro. | Das Gedeck kostet zwei Euro.
+l'antipasto | die Vorspeise | m | 🫒 | ANTI-PASTO = vor (ante) der Mahlzeit. | | Per *antipasto* bruschetta. | Als Vorspeise Bruschetta.
+il primo (piatto) | der erste Gang (Pasta, Risotto) | m | 🍝 | PRIMO = erster Gang: Pasta oder Risotto. | | Come *primo* prendo le lasagne. | Als ersten Gang nehme ich Lasagne.
+il secondo (piatto) | der Hauptgang (Fleisch, Fisch) | m | 🍖 | SECONDO = zweiter Gang: Fleisch oder Fisch. | | Per *secondo* il pesce. | Als Hauptgang den Fisch.
+il contorno | die Beilage | m | 🥗 | CONTORNO – Kontur: was den Teller umrandet. | | Di *contorno* patate fritte. | Als Beilage Pommes.
+il piatto | der Teller; das Gericht | m | 🍽️ | PIATTO – Platte. Piatto del giorno = Tagesgericht. | engl. plate | Il *piatto* del giorno. | Das Tagesgericht.
+la forchetta | die Gabel | f | 🍴 | FORCHETTA – Forke = Mistgabel. | engl. fork | Mi manca la *forchetta*. | Mir fehlt die Gabel.
+il coltello | das Messer | m | 🔪 | COLTELLO – „Colt“: bewaffnet mit Messer. | lat. culter | Il *coltello* non taglia. | Das Messer schneidet nicht.
+il cucchiaio | der Löffel | m | 🥄 | CUCCHIAIO – „Kuckuck-Löffel“: kuk-kia-io. Cucchiaino = Teelöffel. | | Un *cucchiaio* per la zuppa. | Einen Löffel für die Suppe.
+il tovagliolo | die Serviette | m | 🧻 | TOVAGLIOLO – tovaglia (Tischdecke) + -olo. | | Mi porta un *tovagliolo*? | Bringen Sie mir eine Serviette?
+la prenotazione | die Reservierung | f | 📞 | PRENOTAZIONE – vorher notiert (pre-notare). | | Ho una *prenotazione* per le otto. | Ich habe eine Reservierung für acht.
+prenotare | reservieren | v | 📝 | PRE-NOTARE: vorher notieren. | | Vorrei *prenotare* un tavolo. | Ich würde gern einen Tisch reservieren.
+ordinare | bestellen | v | 🗒️ | ORDINARE – order! | engl. order | Possiamo *ordinare*? | Können wir bestellen?
+la bistecca | das Steak | f | 🥩 | BISTECCA – Beefsteak. Bistecca alla fiorentina! | | Una *bistecca* al sangue. | Ein blutiges Steak.
+la zuppa | die Suppe | f | 🍲 | ZUPPA – Suppe. | | *Zuppa* di verdure. | Gemüsesuppe.
+il sugo | die Soße (zur Pasta) | m | 🥫 | SUGO – „Sugo“ → Saft, Soße. | | Il *sugo* della nonna. | Omas Soße.
+la spremuta | der frisch gepresste Saft | f | 🍊 | SPREMUTA – ausgepresst (spremere). | | Una *spremuta* d'arancia. | Ein frisch gepresster O-Saft.
+il cappuccino | der Cappuccino | m | ☕ | Nur morgens! Nach dem Essen bestellt man keinen Cappuccino. | | Un *cappuccino*, per favore. | Einen Cappuccino, bitte.
+l'aperitivo | der Aperitif | m | 🍹 | APERITIVO – öffnet (aprire) den Appetit. Mit Snacks am frühen Abend! | | Facciamo un *aperitivo*? | Trinken wir einen Aperitif?
+lo scontrino | der Kassenbon | m | 🧾 | SCONTRINO – Kontrolle! Den Bon muss man mitnehmen. | | Ecco lo *scontrino*. | Hier ist der Kassenbon.
+la cassa | die Kasse | f | 💰 | CASSA – Kasse. | | Si paga alla *cassa*. | Man zahlt an der Kasse.
+al banco | am Tresen | expr | 🧍 | BANCO – Bank, Tresen. Am Tresen ist der Kaffee billiger! | | Prendo il caffè *al banco*. | Ich trinke den Kaffee am Tresen.
+da portare via | zum Mitnehmen | expr | 🥡 | PORTARE VIA = wegtragen. | | Una pizza *da portare via*. | Eine Pizza zum Mitnehmen.

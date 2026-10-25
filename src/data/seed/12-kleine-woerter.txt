@@ -1,0 +1,82 @@
+# Kleine Wörter
+io | ich | pron | 🙋 | IO – „I-O“: ich, wie engl. I. | lat. ego | *Io* sono Lea. | Ich bin Lea.
+tu | du | pron | 👉 | TU – „du“ mit T. | frz. tu | *Tu* di dove sei? | Und du, woher kommst du?
+lui | er | pron | 👨 | LUI – „Louis“ ist ein Er. | frz. lui | *Lui* è mio fratello. | Er ist mein Bruder.
+lei | sie (Sg.); Sie (höflich) | pron | 👩 | LEI – „Lady“: sie. Groß geschrieben: Lei = Sie (höflich)! | | *Lei* è italiana? | Sind Sie Italienerin?
+noi | wir | pron | 👫 | NOI – „Neu-wir“: nous (frz.). | frz. nous | *Noi* andiamo al mare. | Wir fahren ans Meer.
+voi | ihr | pron | 👥 | VOI – vous (frz.). | frz. vous | *Voi* venite stasera? | Kommt ihr heute Abend?
+loro | sie (Pl.) | pron | 👨‍👩‍👧 | LORO – „Lori und Loro“: die beiden da. | | *Loro* sono di Roma. | Sie sind aus Rom.
+mi | mir; mich | pron | 🫵 | MI – wie engl. me. | engl. me | *Mi* piace. | Es gefällt mir.
+ti | dir; dich | pron | 🫴 | TI – „dich“ mit T. | | *Ti* amo. | Ich liebe dich.
+ci | uns; dort/hin | pron | 📍 | CI – „uns“ und „da“: Ci vediamo! = Wir sehen uns! Ci vado = ich gehe hin. | | *Ci* vediamo domani! | Wir sehen uns morgen!
+mio/mia | mein(e) | pron | 🙋‍♂️ | MIO – „Mi-o“: mir gehört's. La mia famiglia. | | La *mia* casa è qui. | Mein Haus ist hier.
+tuo/tua | dein(e) | pron | 🫵 | TUO – „Tu-o“: dir gehört's. | | È la *tua* borsa? | Ist das deine Tasche?
+suo/sua | sein(e); ihr(e); Ihr(e) | pron | 👤 | SUO – „seins und ihres“: richtet sich nach dem Besitz, nicht nach dem Besitzer! | | Marco e la *sua* ragazza. | Marco und seine Freundin.
+nostro/nostra | unser(e) | pron | 🏡 | NOSTRO – „Cosa Nostra“ = unsere Sache. | | La *nostra* casa. | Unser Haus.
+vostro/vostra | euer/eure | pron | 🏘️ | VOSTRO – votre (frz.). | | Il *vostro* albergo è bello. | Euer Hotel ist schön.
+questo/questa | diese(r/s) (hier) | pron | 👇 | QUESTO – „Quest“: dieses hier. | | *Questo* è buono. | Das hier ist gut.
+quello/quella | jene(r/s) (dort) | pron | 👉 | QUELLO – „Quelle dort drüben“. | | Vorrei *quello* lì. | Ich hätte gern das dort.
+qualcosa | etwas | pron | ❔ | QUALCOSA – irgendeine Sache (cosa). | | Vuoi *qualcosa* da bere? | Möchtest du etwas trinken?
+niente | nichts | pron | 🫙 | NIENTE – „nichts, niente!“ – Nix! | | Non ho *niente*. | Ich habe nichts.
+qualcuno | jemand | pron | 🧍 | QUALCUNO – irgend-einer (uno). | | C'è *qualcuno*? | Ist da jemand?
+nessuno | niemand; kein | pron | 👻 | NESSUNO – „Nemo“ = niemand. | | Non c'è *nessuno*. | Es ist niemand da.
+tutti | alle | pron | 👨‍👩‍👧‍👦 | TUTTI – Tutti Frutti = alle Früchte. | | Ciao a *tutti*! | Hallo zusammen!
+di | von; aus | prep | 🔗 | DI – „di“ = von (de). Sono di Berlino. | frz. de | Sono *di* Monaco. | Ich bin aus München.
+a | in; nach; zu; an | prep | 🎯 | A – Richtung und Ort bei Städten: a Roma. | | Vado *a* Roma. | Ich fahre nach Rom.
+da | von; seit; bei | prep | 🏠 | DA – „da“ bei Leuten: dal medico = beim Arzt. Seit: da due anni. | | Studio italiano *da* due anni. | Ich lerne seit zwei Jahren Italienisch.
+in | in; nach (Länder) | prep | 📦 | IN – bei Ländern und Verkehrsmitteln: in Italia, in treno. | | Vado *in* Italia. | Ich fahre nach Italien.
+con | mit | prep | 🤝 | CON – Chili con carne = Chili mit Fleisch. | | Un caffè *con* latte. | Ein Kaffee mit Milch.
+su | auf; über | prep | ⬆️ | SU – „Suuuper oben“: Sul tavolo = auf dem Tisch. | | Il libro è *sul* tavolo. | Das Buch liegt auf dem Tisch.
+per | für; durch; um zu | prep | 🎁 | PER – per favore = für den Gefallen. | | Questo è *per* te. | Das ist für dich.
+tra | zwischen; in (Zeit) | prep | ↔️ | TRA – Trans-: zwischen. Tra un'ora = in einer Stunde. Auch: fra. | | Arrivo *tra* dieci minuti. | Ich komme in zehn Minuten.
+senza | ohne | prep | 🚫 | SENZA – „sans“ (frz.). Senza glutine = glutenfrei. | frz. sans | Un caffè *senza* zucchero. | Ein Kaffee ohne Zucker.
+sopra | oben; über | adv | 🔝 | SOPRA – Sopran = die obere Stimme. | | Il bagno è di *sopra*. | Das Bad ist oben.
+sotto | unten; unter | adv | 🔽 | SOTTO – „Sottosuolo“, Untergrund. | | Il gatto è *sotto* il letto. | Die Katze ist unter dem Bett.
+davanti | vorne; vor | adv | ⏫ | DAVANTI – „Avantgarde“: die vorne. | frz. avant | Ci vediamo *davanti* al cinema. | Wir treffen uns vor dem Kino.
+dietro | hinten; hinter | adv | ⏬ | DIETRO – „Dietrich“ steht hinten. | | Il parcheggio è *dietro* l'albergo. | Der Parkplatz ist hinter dem Hotel.
+dentro | drinnen; innen | adv | 📥 | DENTRO – „Den-Tro(g)“: drinnen im Trog. | | Aspetto *dentro*. | Ich warte drinnen.
+fuori | draußen | adv | 📤 | FUORI – „Forum“ war draußen; „fuori“ = raus! | | Mangiamo *fuori*. | Wir essen draußen.
+qui | hier | adv | 📍 | QUI – „Kiii“ – genau hier. Auch: qua. | | Abito *qui*. | Ich wohne hier.
+lì | dort | adv | 👉 | LÌ – „Lie dort“: da liegt es. Auch: là. | | Il bar è *lì*. | Die Bar ist dort.
+e | und | konj | ➕ | E – „et“ (lat.) ohne t. Vor Vokal oft: ed. | lat. et | Pane *e* burro. | Brot und Butter.
+o | oder | konj | 🔀 | O – „oder“ ganz kurz. | | Caffè *o* tè? | Kaffee oder Tee?
+ma | aber | konj | ↩️ | MA – „Ma che dici?“ – Aber was sagst du da? | | È caro, *ma* buono. | Es ist teuer, aber gut.
+anche | auch | adv | ➕ | ANCHE – „Anke auch!“ | | Vengo *anche* io! | Ich komme auch!
+neanche | auch nicht | adv | ➖ | NE-ANCHE = nicht auch. | | – Non ho fame. – *Neanche* io. | – Ich habe keinen Hunger. – Ich auch nicht.
+se | wenn; falls; ob | konj | 🤔 | SE – „si“ (frz.): wenn. | frz. si | *Se* piove, restiamo a casa. | Wenn es regnet, bleiben wir zu Hause.
+mentre | während | konj | ⏳ | MENTRE – „Mentre“: während der Mentor spricht. | | *Mentre* cucino, ascolto la radio. | Während ich koche, höre ich Radio.
+quindi | also; deshalb | adv | ➡️ | QUINDI – „Kind, die“: also! Folgerung. | | Piove, *quindi* resto a casa. | Es regnet, also bleibe ich zu Hause.
+allora | also; dann; na dann | adv | 🗣️ | ALLORA – DAS Füllwort der Italiener: „Allora …“ = Also … | frz. alors | *Allora*, cosa facciamo? | Also, was machen wir?
+però | aber; jedoch | konj | ⚖️ | PERÒ – „Pero“ mit Akzent: aber doch. | | Mi piace, *però* è caro. | Es gefällt mir, aber es ist teuer.
+comunque | jedenfalls; trotzdem | adv | 🤷 | COMUNQUE – „Komme, was wolle“: jedenfalls. | | *Comunque* grazie! | Trotzdem danke!
+infatti | tatsächlich; in der Tat | adv | 🎯 | IN-FATTI = in Fakten: tatsächlich. | | *Infatti*! | Genau!
+forse | vielleicht | adv | 🤷‍♂️ | FORSE – „Forse“ – fors(ch)e Vermutung: vielleicht. | | *Forse* domani. | Vielleicht morgen.
+proprio | wirklich; genau; eben | adv | 🎯 | PROPRIO – „proper“: eigens, wirklich. | | È *proprio* bello! | Es ist wirklich schön!
+davvero | wirklich | adv | 😮 | DAVVERO – „da vero“: aus Wahrheit. Davvero? = Echt? | | *Davvero*? Non ci credo! | Echt? Glaub ich nicht!
+molto | sehr | adv | ➕ | MOLTO – „multi“: sehr viel. | | Grazie *molto* gentile! | Danke, sehr nett!
+abbastanza | ziemlich; genug | adv | 👌 | ABBASTANZA – von basta: genug. | | Parlo *abbastanza* bene. | Ich spreche ziemlich gut.
+quasi | fast; beinahe | adv | 🔜 | QUASI – „quasi“ kennen wir: beinahe. | | Sono *quasi* pronto. | Ich bin fast fertig.
+solo | nur | adv | ☝️ | SOLO – nur einer, allein. | | *Solo* un momento! | Nur einen Moment!
+insieme | zusammen | adv | 🫂 | INSIEME – Ensemble! | frz. ensemble | Andiamo *insieme*? | Gehen wir zusammen?
+così | so | adv | 👌 | COSÌ – Così fan tutte (Mozart): so machen's alle. | | Va bene *così*. | Es ist gut so.
+più | mehr; plus | adv | ➕ | PIÙ – plus, Pi-u: mehr. | | Vorrei un po' di *più*. | Ich hätte gern ein bisschen mehr.
+meno | weniger; minus | adv | ➖ | MENO – minus, „Meno male!“ = Zum Glück! | | *Meno* male! | Zum Glück!
+un po' | ein bisschen | expr | 🤏 | PO' = poco (wenig) gekürzt. | | Parlo *un po'* d'italiano. | Ich spreche ein bisschen Italienisch.
+piano | leise; langsam | adv | 🎹 | PIANO – Musik: piano = leise. Piano piano = langsam, Schritt für Schritt. | | Parla *piano*, il bimbo dorme. | Sprich leise, das Kind schläft.
+appena | gerade erst; sobald | adv | ⏱️ | APPENA – „a pena“: kaum. Sono appena arrivato = bin gerade angekommen. | | Sono *appena* arrivato. | Ich bin gerade angekommen.
+finalmente | endlich | adv | 🎉 | FINAL-MENTE: endlich, final! | | *Finalmente* sei qui! | Endlich bist du da!
+purtroppo | leider | adv | 😔 | PUR-TROPPO = „nur zu sehr“ → leider. | | *Purtroppo* non posso. | Leider kann ich nicht.
+naturalmente | natürlich | adv | 🌿 | Wie natürlich. -mente = -lich. | | *Naturalmente*! | Natürlich!
+veramente | wirklich | adv | 💯 | VERA-MENTE = wahr-lich. | | È *veramente* buono. | Es ist wirklich gut.
+velocemente | schnell (Adverb) | adv | 🏃‍♀️ | VELOCE + -mente. | | Parla troppo *velocemente*. | Er spricht zu schnell.
+insomma | kurz gesagt; na ja | adv | 🫤 | IN-SOMMA = in Summe: kurz gesagt. Auch: „Naja…“ | | – Ti piace? – *Insomma*… | – Gefällt's dir? – Naja …
+non | nicht | adv | 🚫 | NON – vor das Verb: Non capisco. | | *Non* lo so. | Ich weiß es nicht.
+nemmeno | nicht einmal | adv | 🙅 | NEMMENO – „nemo“: nicht mal. | | Non ho *nemmeno* un euro. | Ich habe nicht mal einen Euro.
+ancora una volta | noch einmal | expr | 🔁 | ANCORA = noch, VOLTA = Mal. | | *Ancora una volta*, per favore. | Noch einmal, bitte.
+almeno | wenigstens; mindestens | adv | 🔻 | AL-MENO = am wenigsten: wenigstens. | | Prendi *almeno* un caffè! | Nimm wenigstens einen Kaffee!
+circa | ungefähr; circa | adv | ≈ | Wie circa. | | Costa *circa* venti euro. | Es kostet circa zwanzig Euro.
+secondo me | meiner Meinung nach | expr | 💭 | SECONDO = gemäß: „gemäß mir“. | | *Secondo me* hai ragione. | Meiner Meinung nach hast du recht.
+per esempio | zum Beispiel | expr | 📌 | Exempel. | | *Per esempio* la pizza. | Zum Beispiel die Pizza.
+invece | stattdessen; dagegen | adv | 🔄 | INVECE – „in Wechsel“: stattdessen. | | Io *invece* resto. | Ich dagegen bleibe.
+oppure | oder (auch) | konj | ↔️ | OPPURE – „O pure“: oder aber. | | Andiamo al mare *oppure* in montagna? | Fahren wir ans Meer oder in die Berge?
+perciò | deshalb | konj | ➡️ | PER-CIÒ = dafür: deshalb. | | Sono stanco, *perciò* vado a letto. | Ich bin müde, deshalb gehe ich ins Bett.

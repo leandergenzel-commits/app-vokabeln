@@ -1,0 +1,75 @@
+# Verben
+preferire | lieber mögen; bevorzugen | v;isc | ⭐ | PREFERIRE – prefer. preferisco! | engl. prefer | *Preferisco* il vino rosso. | Ich mag lieber Rotwein.
+pulire | putzen; sauber machen | v;isc | 🧽 | PULIRE – polieren! pulisco. | engl. polish | *Pulisco* la cucina. | Ich putze die Küche.
+costruire | bauen | v;isc | 🏗️ | COSTRUIRE – konstruieren. costruisco. | engl. construct | *Costruiscono* una casa. | Sie bauen ein Haus.
+seguire | folgen | v | 👣 | SEGUIRE – Sequenz, „Segue“ (Überleitung). | engl. follow | *Seguimi*! | Folge mir!
+offrire | anbieten; spendieren | v | 🍻 | OFFRIRE – offer. Offro io! = Ich lade ein! | engl. offer | *Offro* io! | Ich lade ein!
+tenere | halten; behalten | v;conj=tengo,tieni,tiene,teniamo,tenete,tengono | ✊ | TENERE – Tenor hält den Ton; „Tenga il resto!“ = Behalten Sie den Rest! | lat. tenere | *Tieni*, è per te! | Hier, das ist für dich!
+riuscire | schaffen; gelingen | v;conj=riesco,riesci,riesce,riusciamo,riuscite,riescono | 🎯 | RI-USCIRE: wieder herauskommen = es schaffen. | | Non *riesco* a dormire. | Ich kann nicht schlafen.
+tradurre | übersetzen | v;conj=traduco,traduci,traduce,traduciamo,traducete,traducono | 🔤 | TRADURRE – translate, Tradition (Weitergabe). | | Puoi *tradurre* questa frase? | Kannst du diesen Satz übersetzen?
+spegnere | ausschalten; löschen | v;conj=spengo,spegni,spegne,spegniamo,spegnete,spengono | 📴 | SPEGNERE – „Spengler“ → das Feuer löschen. | | *Spegni* la luce! | Mach das Licht aus!
+accendere | einschalten; anzünden | v | 💡 | ACCENDERE – „Akzent setzen“: Licht an! | | *Accendi* la TV? | Machst du den Fernseher an?
+togliere | wegnehmen; ausziehen | v;conj=tolgo,togli,toglie,togliamo,togliete,tolgono | 🧤 | TOGLIERE – „Toll, weg!“ | | *Togli* le scarpe! | Zieh die Schuhe aus!
+sciare | Ski fahren | v;conj=scio,scii,scia,sciamo,sciate,sciano | ⛷️ | SCIARE – Ski! (sci = Ski). | | D'inverno *scio* sulle Dolomiti. | Im Winter fahre ich in den Dolomiten Ski.
+viaggiare in treno | mit dem Zug reisen | expr | 🚆 | IN TRENO – mit „in“ wie in macchina, in bici. | | Preferisco *viaggiare in treno*. | Ich reise lieber mit dem Zug.
+guidare | (Auto) fahren; lenken | v | 🚘 | GUIDARE – Guide, Führer: das Auto führen. | engl. guide | Sai *guidare*? | Kannst du Auto fahren?
+attraversare | überqueren | v | 🚸 | ATTRAVERSARE – traverse, Traverse. | engl. traverse | *Attraversa* la strada! | Überquer die Straße!
+girare | abbiegen; drehen | v | ↪️ | GIRARE – Gyros (dreht sich), Giro d'Italia. | | *Giri* a sinistra. | Biegen Sie links ab.
+fermare | anhalten; stoppen | v | ✋ | FERMARE – Fermate (Musik): Halt! | | *Fermati*! | Halt an!
+correre via | weglaufen | expr | 🏃‍♂️ | VIA = weg. | | Il cane è *corso via*. | Der Hund ist weggelaufen.
+cadere | fallen; hinfallen | v | 🤕 | CADERE – Kadenz (fallende Tonfolge), Kaskade. | lat. cadere | Attento, *cadi*! | Vorsicht, du fällst!
+rompere | zerbrechen; kaputt machen | v | 💔 | ROMPERE – „rupture“. Rompere le scatole = auf die Nerven gehen! | engl. rupture | Ho *rotto* il bicchiere. | Ich habe das Glas zerbrochen.
+funzionare | funktionieren | v | ⚙️ | Wie funktionieren. | | Il wifi non *funziona*. | Das WLAN funktioniert nicht.
+succedere | passieren; geschehen | v | 💥 | SUCCEDERE – succeed: was folgt, passiert. Cosa succede? | | Cosa è *successo*? | Was ist passiert?
+mancare | fehlen | v | 🫥 | MANCARE – Manko! Mi manchi = Du fehlst mir. | dt. Manko | Mi *manchi*. | Ich vermisse dich.
+bastare | reichen; genügen | v | ✋ | BASTARE – Basta! = es reicht. | | *Basta* così, grazie. | Das reicht so, danke.
+servire | brauchen (unpersönlich); dienen | v | 🧑‍🍳 | SERVIRE – Service. Ti serve aiuto? = Brauchst du Hilfe? | engl. serve | Mi *serve* una penna. | Ich brauche einen Stift.
+avere bisogno di | brauchen | expr | 🙏 | BISOGNO = Bedürfnis. „Ho bisogno di te.“ | | *Ho bisogno di* aiuto. | Ich brauche Hilfe.
+bisogna | man muss | expr | ❗ | BISOGNA – unpersönlich: es ist nötig. | | *Bisogna* prenotare. | Man muss reservieren.
+c'è | es gibt (Singular); da ist | expr | 👉 | C'È = ci è – da ist. | | *C'è* un bar qui vicino? | Gibt es hier in der Nähe eine Bar?
+ci sono | es gibt (Plural) | expr | 👥 | CI SONO = da sind. | | *Ci sono* tanti turisti. | Es gibt viele Touristen.
+pagare il conto | die Rechnung bezahlen | expr | 🧾 | CONTO – wie Konto: vom Konto bezahlen. | | Posso *pagare il conto*? | Kann ich die Rechnung bezahlen?
+fare la spesa | einkaufen (Lebensmittel) | expr | 🛒 | SPESA = Ausgabe → „die Ausgabe machen“. | | Il sabato *faccio la spesa*. | Samstags kaufe ich ein.
+fare due passi | ein paar Schritte gehen | expr;ugs | 🚶‍♀️ | „Zwei Schritte machen“ = kurzer Spaziergang. | | Facciamo *due passi*? | Gehen wir ein paar Schritte?
+fare un giro | eine Runde drehen | expr | 🔄 | GIRO – Giro d'Italia: eine Runde. | | Facciamo *un giro* in centro. | Drehen wir eine Runde im Zentrum.
+riposare | sich ausruhen | v | 😌 | RIPOSARE – „Re-Pause“. | | Oggi *riposo*. | Heute ruhe ich mich aus.
+fumare | rauchen | v | 🚭 | FUMARE – Fumes, Rauch. Vietato fumare! | | Qui non si può *fumare*. | Hier darf man nicht rauchen.
+lavare | waschen | v | 🧼 | LAVARE – Lavabo, Lava? Lavendel! | | *Lavo* i piatti. | Ich spüle das Geschirr.
+stirare | bügeln | v | 👔 | STIRARE – „Stier-are“: den Stoff glatt-stieren; stretch. | engl. stretch | Odio *stirare*. | Ich hasse Bügeln.
+sorridere | lächeln | v | 😊 | SORRIDERE – unter (sub) Lachen (ridere) → lächeln. | | *Sorridi*! | Lächle!
+ridere | lachen | v | 😂 | RIDERE – ridiculous: lächerlich. | engl. ridiculous | Perché *ridi*? | Warum lachst du?
+piangere | weinen | v | 😭 | PIANGERE – „Piano-Klage“: leise weinen. | | Non *piangere*! | Weine nicht!
+baciare | küssen | v | 😘 | BACIARE – „Baci“ = Küsse. | | Mi *baci*? | Küsst du mich?
+abbracciare | umarmen | v | 🤗 | AB-BRACCIARE: in die Arme (braccia) nehmen. | | Ti *abbraccio* forte. | Ich umarme dich fest.
+sognare | träumen | v | 💭 | SOGNARE – „So nah“ im Traum. Sogno = Traum. | | *Sogno* una casa al mare. | Ich träume von einem Haus am Meer.
+raccontare | erzählen | v | 📚 | RACCONTARE – „recount“: nacherzählen. | engl. recount | *Raccontami* tutto! | Erzähl mir alles!
+spiegare | erklären | v | 🧑‍🏫 | SPIEGARE – Spiegel: es spiegelt die Lösung wider; explain. spiego, spieghi! | | Mi puoi *spiegare*? | Kannst du mir das erklären?
+ripetere | wiederholen | v | 🔁 | RIPETERE – repetieren. | | *Ripeti*, per favore. | Wiederhol bitte.
+sbagliare | sich irren; Fehler machen | v | 🙈 | SBAGLIARE – „S-Balken“: daneben treffen. Ho sbagliato! | | Scusa, ho *sbagliato*. | Entschuldige, ich habe mich geirrt.
+preoccuparsi | sich Sorgen machen | v | 😟 | PRE-OCCUPARSI – preoccupied. | engl. preoccupied | Non *preoccuparti*! | Mach dir keine Sorgen!
+annoiarsi | sich langweilen | v | 🥱 | ANNOIARSI – annoyed. | engl. annoy | *Mi annoio*! | Mir ist langweilig!
+arrabbiarsi | sich ärgern; wütend werden | v | 😡 | ARRABBIARSI – arrabbiata! | | Non *arrabbiarti*! | Reg dich nicht auf!
+innamorarsi | sich verlieben | v | 💘 | IN-AMOR-ARSI – in Amor fallen. | | *Mi sono innamorato*. | Ich habe mich verliebt.
+trovarsi | sich befinden; sich wohlfühlen | v | 📍 | TROVARSI – „sich finden“. Mi trovo bene qui = ich fühle mich wohl hier. | | *Mi trovo* bene a Roma. | Ich fühle mich wohl in Rom.
+fermarsi | anhalten; stehen bleiben | v | 🛑 | FERMARSI – Fermate. | | *Ci fermiamo* a Firenze. | Wir halten in Florenz.
+iniziare | anfangen | v | ▶️ | INIZIARE – Initiative, initiate. | engl. initiate | Quando *inizia* il corso? | Wann beginnt der Kurs?
+continuare | weitermachen; fortsetzen | v | ⏩ | Wie kontinuierlich. | | *Continua* così! | Mach weiter so!
+smettere | aufhören | v | 🛑 | S-METTERE: das Hinstellen sein lassen. | | *Smetti* di fumare! | Hör auf zu rauchen!
+crescere | wachsen; aufwachsen | v | 🌱 | CRESCERE – Crescendo! | engl. crescendo | Sono *cresciuto* a Napoli. | Ich bin in Neapel aufgewachsen.
+diventare | werden | v | 🦋 | DIVENTARE – „di-venture“: auf dem Weg zu etwas werden. | | Voglio *diventare* medico. | Ich will Arzt werden.
+sembrare | scheinen; aussehen wie | v | 🪞 | SEMBRARE – „semblance“: Anschein. Mi sembra … | engl. seem | *Sembra* facile. | Es sieht einfach aus.
+mostrare | zeigen | v | 👉 | MOSTRARE – Monstranz, demonstrate. | engl. show | Ti *mostro* la città. | Ich zeige dir die Stadt.
+visitare | besichtigen; besuchen | v | 🏛️ | VISITARE – visit. | engl. visit | *Visitiamo* il Colosseo. | Wir besichtigen das Kolosseum.
+invitare | einladen | v | 💌 | INVITARE – invite. | engl. invite | Ti *invito* a cena. | Ich lade dich zum Abendessen ein.
+accettare | annehmen; akzeptieren | v | ✅ | Wie akzeptieren. | | *Accettate* carte? | Nehmen Sie Karten?
+festeggiare | feiern | v | 🥳 | FESTEGGIARE – Fest, Fiesta. | | *Festeggiamo* il tuo compleanno! | Feiern wir deinen Geburtstag!
+regalare | schenken | v | 🎁 | REGALARE – königlich (regal) schenken. | | Cosa ti *regalo*? | Was schenke ich dir?
+prestare | leihen (jemandem) | v | 🤲 | PRESTARE – „Prestige“ leihen. | | Mi *presti* la bici? | Leihst du mir das Rad?
+affittare | vermieten; mieten | v | 🏘️ | AFFITTARE – Affitto (Miete). | | *Affittano* una casa al mare. | Sie mieten ein Haus am Meer.
+toccare | berühren; an der Reihe sein | v | 👆 | TOCCARE – Toccata (Klavier anschlagen). A chi tocca? = Wer ist dran? | | Non *toccare*! | Nicht anfassen!
+tirare | ziehen | v | 🚪 | TIRARE – „Tirare“ steht an Türen = ZIEHEN (Spinga = drücken). | | *Tirare* la porta. | Die Tür ziehen.
+spingere | drücken; schieben | v | 🫸 | SPINGERE – „Spring!“ – Schub nach vorne. Spingere = drücken an der Tür. | | *Spingere* per aprire. | Zum Öffnen drücken.
+salutare | grüßen; sich verabschieden | v | 👋 | SALUTARE – salutieren. | | *Saluta* tua madre! | Grüß deine Mutter!
+ringraziare | sich bedanken | v | 🙏 | RIN-GRAZIARE – „grazie“ sagen. | | Ti *ringrazio*! | Ich danke dir!
+scusarsi | sich entschuldigen | v | 🙇 | SCUSARSI – excuse. | | *Mi scuso* per il ritardo. | Ich entschuldige mich für die Verspätung.
+promettere | versprechen | v | 🤞 | PRO-METTERE – promise. | engl. promise | Te lo *prometto*. | Ich verspreche es dir.

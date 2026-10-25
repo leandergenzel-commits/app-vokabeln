@@ -1,0 +1,72 @@
+# Eigenschaften
+bello/bella | schön | adj | 🌹 | BELLO – Bella Italia! Belle (frz.), Belladonna = schöne Frau. | frz. belle | Che *bella* giornata! | Was für ein schöner Tag!
+brutto/brutta | hässlich; schlecht | adj | 👹 | BRUTTO – brutal hässlich. Brutto tempo = schlechtes Wetter. | engl. brutal | Che tempo *brutto*! | Was für ein mieses Wetter!
+grande | groß | adj | 🐘 | GRANDE – grandios, Grand Canyon. | frz. grand | Una casa *grande*. | Ein großes Haus.
+piccolo/piccola | klein | adj | 🐭 | PICCOLO – Piccoloflöte = die kleinste Flöte. | | Un *piccolo* problema. | Ein kleines Problem.
+nuovo/nuova | neu | adj | ✨ | NUOVO – Novum, Nova, Art Nouveau. | lat. novus | Ho una macchina *nuova*. | Ich habe ein neues Auto.
+vecchio/vecchia | alt | adj | 👴 | VECCHIO – „Ponte Vecchio“ = die alte Brücke. | | Un amico *vecchio*. | Ein alter Freund.
+giovane | jung | adj | 🧒 | GIOVANE – „Juvenil“, junior. | lat. iuvenis | È ancora *giovane*. | Er/Sie ist noch jung.
+lungo/lunga | lang | adj | 📏 | LUNGO – Longe, long. | engl. long | Un viaggio *lungo*. | Eine lange Reise.
+corto/corta | kurz | adj | ✂️ | CORTO – kurz, „Corto Maltese“. | engl. short | I capelli *corti*. | Kurze Haare.
+alto/alta | hoch; groß (Person) | adj | 🦒 | ALTO – Altitude, Alt (hohe Stimme). | | Mio fratello è molto *alto*. | Mein Bruder ist sehr groß.
+basso/bassa | niedrig; klein (Person) | adj | 🐕 | BASSO – Bass = tiefe Stimme. | | Il tavolo è *basso*. | Der Tisch ist niedrig.
+largo/larga | breit; weit | adj | ↔️ | LARGO – „large“, aber Achtung: largo = BREIT, nicht groß! | | La strada è *larga*. | Die Straße ist breit.
+stretto/stretta | eng; schmal | adj | 🤏 | STRETTO – Straße von Messina (Stretto) = Meerenge. | engl. strait | Questi pantaloni sono *stretti*. | Diese Hose ist eng.
+facile | leicht; einfach | adj | 🍰 | FACILE – facil, facility. | engl. facile | L'esercizio è *facile*. | Die Übung ist leicht.
+difficile | schwierig | adj | 🧗 | DIFFICILE – difficult. | engl. difficult | L'italiano non è *difficile*. | Italienisch ist nicht schwer.
+importante | wichtig | adj | ❗ | Wie important. | | È molto *importante*. | Das ist sehr wichtig.
+possibile | möglich | adj | ✅ | Wie possible. | | È *possibile* pagare con la carta? | Kann man mit Karte zahlen?
+impossibile | unmöglich | adj | 🚫 | IM-POSSIBILE. | | Niente è *impossibile*! | Nichts ist unmöglich!
+giusto/giusta | richtig; gerecht | adj | ✔️ | GIUSTO – Justiz, just. Giusto! = Genau! | engl. just | La risposta è *giusta*. | Die Antwort ist richtig.
+sbagliato/sbagliata | falsch | adj | ✖️ | SBAGLIATO – Negroni sbagliato = „falscher“ Negroni (mit Sekt). | | Hai il numero *sbagliato*. | Du hast die falsche Nummer.
+vero/vera | wahr; echt | adj | 💯 | VERO – Verität, „Very“ (wahrhaftig). | lat. verus | È *vero*? | Ist das wahr?
+falso/falsa | falsch; unecht | adj | 🎭 | FALSO – falsch, Fälschung. | | Una notizia *falsa*. | Eine Falschmeldung.
+pieno/piena | voll | adj | 🈵 | PIENO – Plenum, Plenarsaal = voll besetzt. | lat. plenus | Il ristorante è *pieno*. | Das Restaurant ist voll.
+vuoto/vuota | leer | adj | 🫙 | VUOTO – „void“: Leere. | engl. void | Il bicchiere è *vuoto*. | Das Glas ist leer.
+pulito/pulita | sauber | adj | ✨ | PULITO – poliert! | engl. polished | La camera è *pulita*. | Das Zimmer ist sauber.
+sporco/sporca | schmutzig | adj | 💩 | SPORCO – „Spor-co“: Sporen und Dreck. | | Le scarpe sono *sporche*. | Die Schuhe sind schmutzig.
+veloce | schnell | adj | 🏎️ | VELOCE – Velociraptor, Velo (Fahrrad). | engl. velocity | Un treno *veloce*. | Ein schneller Zug.
+lento/lenta | langsam | adj | 🐌 | LENTO – Musik: lento = langsam. | | Internet è *lento*. | Das Internet ist langsam.
+forte | stark; laut; super | adj | 💪 | FORTE – Fort (Festung), Musik: forte = laut. Che forte! = Wie cool! | | Sei *forte*! | Du bist super!
+debole | schwach | adj | 🪶 | DEBOLE – „debil“. | | Mi sento *debole*. | Ich fühle mich schwach.
+ricco/ricca | reich | adj | 🤑 | RICCO – „Reich“, Richie Rich. | engl. rich | Una persona *ricca*. | Eine reiche Person.
+povero/povera | arm | adj | 🥺 | POVERO – poverty. Poverino! = Du Armer! | engl. poor | *Povero* gatto! | Arme Katze!
+gratuito/gratuita | kostenlos | adj | 🆓 | GRATUITO – gratis. | | L'ingresso è *gratuito*. | Der Eintritt ist kostenlos.
+libero/libera | frei | adj | 🕊️ | LIBERO – Liberty, liberal. È libero? = Ist hier frei? | engl. liberty | Questo posto è *libero*? | Ist dieser Platz frei?
+occupato/occupata | besetzt; beschäftigt | adj | 🚻 | OCCUPATO – occupied. | engl. occupied | Il bagno è *occupato*. | Die Toilette ist besetzt.
+pronto/pronta | bereit; fertig | adj | 🏁 | PRONTO – prompt; am Telefon: „Pronto?“ = Hallo? | engl. prompt | La cena è *pronta*! | Das Essen ist fertig!
+comodo/comoda | bequem | adj | 🛋️ | COMODO – Kommode, komfortabel. | | Il letto è *comodo*. | Das Bett ist bequem.
+tranquillo/tranquilla | ruhig; entspannt | adj | 😌 | TRANQUILLO – Tranquilizer. Tranquillo! = Keine Sorge! | engl. tranquil | Stai *tranquillo*! | Bleib ruhig!
+rumoroso/rumorosa | laut (Lärm) | adj | 🔊 | RUMOROSO – Rumoren, Rummel. | | Una strada *rumorosa*. | Eine laute Straße.
+famoso/famosa | berühmt | adj | 🌟 | FAMOSO – famous. | engl. famous | Un attore *famoso*. | Ein berühmter Schauspieler.
+stesso/stessa | selbe(r); gleich | adj | 🟰 | STESSO – „derselbe Stress“: lo stesso = egal/dasselbe. | | Abbiamo la *stessa* età. | Wir sind gleich alt.
+diverso/diversa | anders; verschieden | adj | 🔀 | DIVERSO – divers. | engl. diverse | È tutto *diverso*. | Alles ist anders.
+altro/altra | andere(r) | adj | ➕ | ALTRO – Alternative, Altruismus (für den anderen). | | Un *altro* caffè, per favore. | Noch einen Kaffee, bitte.
+prossimo/prossima | nächste(r) | adj | ⏭️ | PROSSIMO – proximity: in der Nähe. | engl. proximity | La *prossima* fermata. | Die nächste Haltestelle.
+solo/sola | allein; nur | adj | 🧍 | SOLO – Solo, Solist. | | Vivo da *solo*. | Ich lebe allein.
+tutto/tutta | ganz; alles | adj | 🌐 | TUTTO – Tutti Frutti = alle Früchte. | | *Tutto* bene? | Alles gut?
+molto/molta | viel | adj | 📈 | MOLTO – „Multi“: viel. Als Adverb: sehr. | lat. multus | Grazie *molte*! | Vielen Dank!
+poco/poca | wenig | adj | 📉 | POCO – „Poco a poco“: nach und nach. Un po' = ein bisschen. | | Ho *poco* tempo. | Ich habe wenig Zeit.
+troppo/troppa | zu viel | adj | 🫨 | TROPPO – „Troppo!“: Tropfen, der das Fass überlaufen lässt. | | È *troppo* caro. | Das ist zu teuer.
+ogni | jede(r/s) | adj | 🔁 | OGNI – unveränderlich: ogni giorno = jeden Tag. | lat. omnis | *Ogni* giorno bevo un caffè. | Jeden Tag trinke ich einen Kaffee.
+qualche | einige; ein paar | adj | 🫘 | QUALCHE + Singular! Qualche giorno = ein paar Tage. | | Resto *qualche* giorno. | Ich bleibe ein paar Tage.
+migliore | besser; der/die beste | adj | 🏅 | MIGLIORE – „Meliorisation“ → Verbesserung. | engl. ameliorate | Il mio *migliore* amico. | Mein bester Freund.
+peggiore | schlechter; der/die schlechteste | adj | 👎 | PEGGIORE – pejorativ (abwertend). | | Il giorno *peggiore* della mia vita. | Der schlimmste Tag meines Lebens.
+meglio | besser (Adverb) | adv | 📈 | MEGLIO – „Meglio tardi che mai“ = besser spät als nie. | | Sto *meglio*, grazie. | Mir geht's besser, danke.
+peggio | schlechter (Adverb) | adv | 📉 | PEGGIO – pejorativ. | | Oggi va *peggio*. | Heute läuft's schlechter.
+bellissimo/bellissima | wunderschön | adj | 😍 | -ISSIMO = super-: bello → bellissimo! | | Firenze è *bellissima*. | Florenz ist wunderschön.
+buonissimo/buonissima | super lecker | adj | 🤤 | -ISSIMO: buono → buonissimo! | | Il tiramisù è *buonissimo*. | Das Tiramisu ist super lecker.
+straordinario/straordinaria | außergewöhnlich | adj | 🌠 | STRA-ORDINARIO = extra-ordinary. | | Un panorama *straordinario*. | Ein außergewöhnlicher Ausblick.
+magnifico/magnifica | großartig | adj | 🏆 | MAGNIFICO – magnificent. | | Una giornata *magnifica*. | Ein großartiger Tag.
+incredibile | unglaublich | adj | 😲 | INCREDIBILE – incredible. | | È *incredibile*! | Das ist unglaublich!
+strano/strana | seltsam | adj | 🤨 | STRANO – strange. | engl. strange | Che *strano*! | Wie seltsam!
+normale | normal | adj | 😐 | Wie normal. | | È *normale*. | Das ist normal.
+pericoloso/pericolosa | gefährlich | adj | ☠️ | PERICOLOSO – perilous. | engl. perilous | La strada è *pericolosa*. | Die Straße ist gefährlich.
+sicuro/sicura | sicher | adj | 🛡️ | SICURO – secure. Sei sicuro? = Bist du sicher? | engl. secure | Sei *sicuro*? | Bist du sicher?
+utile | nützlich | adj | 🧰 | UTILE – Utensil, utility. | engl. useful | Un'app molto *utile*. | Eine sehr nützliche App.
+inutile | nutzlos; sinnlos | adj | 🗑️ | IN-UTILE. | | È *inutile* aspettare. | Es ist sinnlos zu warten.
+pesante | schwer (Gewicht); anstrengend | adj | 🏋️ | PESANTE – „pesare“ = wiegen; Pesante → die Last. | | La valigia è *pesante*. | Der Koffer ist schwer.
+leggero/leggera | leicht (Gewicht) | adj | 🪶 | LEGGERO – „leger“: locker und leicht. | frz. léger | Un pranzo *leggero*. | Ein leichtes Mittagessen.
+dolce | süß | adj | 🍭 | DOLCE – Dolce Vita. | | Il caffè è troppo *dolce*. | Der Kaffee ist zu süß.
+amaro/amara | bitter | adj | 🍋 | AMARO – Amaro = Kräuterbitter nach dem Essen. | | Il caffè *amaro*. | Der Kaffee ohne Zucker.
+salato/salata | salzig | adj | 🧂 | SALATO – sale (Salz). | | La pasta è troppo *salata*. | Die Nudeln sind zu salzig.

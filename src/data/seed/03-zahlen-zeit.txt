@@ -1,0 +1,120 @@
+# Zahlen & Mengen
+zero | null | num | 0️⃣ | ZERO – wie engl. zero. | engl. zero | Fa *zero* gradi. | Es hat null Grad.
+uno | eins | num | 1️⃣ | UNO – das Kartenspiel UNO: eine Karte übrig! | lat. unus | Ho *uno* zaino. | Ich habe einen Rucksack.
+due | zwei | num | 2️⃣ | DUE – Duett, Duo: zu zweit. | Duo | Un tavolo per *due*. | Ein Tisch für zwei.
+tre | drei | num | 3️⃣ | TRE – Trio, drei. | Trio | Abbiamo *tre* figli. | Wir haben drei Kinder.
+quattro | vier | num | 4️⃣ | QUATTRO – Quattro Stagioni (Pizza der vier Jahreszeiten). | Pizza quattro stagioni | Le *quattro* stagioni. | Die vier Jahreszeiten.
+cinque | fünf | num | 5️⃣ | CINQUE – „Tschinkwe“: fünf Finger klatschen zum High Five. | frz. cinq | Arrivo tra *cinque* minuti. | Ich komme in fünf Minuten.
+sei | sechs | num | 6️⃣ | SEI – „sechs“ und zugleich „du bist“ (tu sei). | lat. sex | Ci vediamo alle *sei*. | Wir sehen uns um sechs.
+sette | sieben | num | 7️⃣ | SETTE – Sette = Sieben-Tage-Woche (settimana). | engl. seven | *Sette* giorni alla settimana. | Sieben Tage die Woche.
+otto | acht | num | 8️⃣ | OTTO – der Name Otto, von allen Seiten gleich, wie eine 8. | lat. octo | Il negozio apre alle *otto*. | Der Laden öffnet um acht.
+nove | neun | num | 9️⃣ | NOVE – November war der neunte Monat. | lat. novem | Sono le *nove*. | Es ist neun Uhr.
+dieci | zehn | num | 🔟 | DIECI – Dezimal, zehn. | lat. decem | *Dieci* euro, per favore. | Zehn Euro, bitte.
+undici | elf | num | 🔢 | UN-DICI: eins + zehn. | | Sono le *undici*. | Es ist elf Uhr.
+dodici | zwölf | num | 🕛 | DO-DICI: zwei + zehn → Dutzend (dozen). | engl. dozen | Una dozzina = *dodici*. | Ein Dutzend = zwölf.
+tredici | dreizehn | num | 🔢 | TRE-DICI. | | Il *tredici* porta fortuna in Italia. | Die Dreizehn bringt in Italien Glück.
+quindici | fünfzehn | num | 🔢 | QUIN-DICI: fünf + zehn. | | Mancano *quindici* minuti. | Es fehlen fünfzehn Minuten.
+sedici | sechzehn | num | 🔢 | SE-DICI. | | Ha *sedici* anni. | Er/Sie ist sechzehn.
+diciassette | siebzehn | num | 🔢 | Ab 17 umgekehrt: DICI-ASSETTE = zehn-und-sieben. | | Il *diciassette* porta sfortuna. | Die Siebzehn bringt Unglück.
+venti | zwanzig | num | 🔢 | VENTI – „Twenty“ mit V. | lat. viginti | Ho *venti* anni. | Ich bin zwanzig.
+trenta | dreißig | num | 🔢 | TRENTA – Tren-ta = drei-ßig. | | Il treno parte tra *trenta* minuti. | Der Zug fährt in dreißig Minuten.
+quaranta | vierzig | num | 🔢 | QUARANTA – Quarantäne dauerte 40 Tage! | Quarantäne | Mio padre ha *quaranta* anni. | Mein Vater ist vierzig.
+cinquanta | fünfzig | num | 🔢 | CINQUANTA – cinque → cinquanta. | | Costa *cinquanta* euro. | Es kostet fünfzig Euro.
+cento | hundert | num | 💯 | CENTO – Cent, Prozent (per cento). | | *Cento* per cento! | Hundert Prozent!
+mille | tausend | num | 🔢 | MILLE – Millennium, Milli-. | | Grazie *mille*! | Tausend Dank!
+il milione | die Million | m | 💰 | Wie Million. | | Un *milione* di euro. | Eine Million Euro.
+il numero | die Nummer; die Zahl | m | #️⃣ | NUMERO – Nummer. | | Qual è il tuo *numero* di telefono? | Was ist deine Telefonnummer?
+primo/prima | erste(r) | adj | 🥇 | PRIMO – prima! Primzahl, Primus. | | È la *prima* volta in Italia. | Es ist das erste Mal in Italien.
+secondo/seconda | zweite(r); laut (Präp.) | adj | 🥈 | SECONDO – die Sekunde ist die zweite Unterteilung. Auch: secondo me = meiner Meinung nach. | engl. second | Il *secondo* piatto è carne. | Der zweite Gang ist Fleisch.
+terzo/terza | dritte(r) | adj | 🥉 | TERZO – Terz in der Musik. | | Abito al *terzo* piano. | Ich wohne im dritten Stock.
+ultimo/ultima | letzte(r) | adj | 🔚 | ULTIMO – Ultimatum: die letzte Frist. | Ultimatum | L'*ultimo* treno parte alle dieci. | Der letzte Zug fährt um zehn.
+la metà | die Hälfte | f | ½ | METÀ – „Mitte“: genau in der Mitte geteilt. | | La *metà* della torta. | Die Hälfte des Kuchens.
+mezzo/mezza | halb | adj | 🌓 | MEZZO – Mezzosopran (halb hoch), Mezzanin. | | *Mezzo* litro di vino. | Ein halber Liter Wein.
+il paio | das Paar | m;pl=le paia | 👟 | PAIO – „Pai-o“ → Pair. Plural: le paia! | engl. pair | Un *paio* di scarpe. | Ein Paar Schuhe.
+la coppia | das Paar (Menschen) | f | 💑 | COPPIA – couple. | engl. couple | Sono una bella *coppia*. | Sie sind ein schönes Paar.
+il chilo | das Kilo | m | ⚖️ | CHILO – „Kilo“, nur mit ch. | | Un *chilo* di pomodori. | Ein Kilo Tomaten.
+l'etto | 100 Gramm | m | 🧀 | ETTO – von „ettogrammo“ = Hektogramm. Beim Metzger: due etti! | Hekto- | Due *etti* di prosciutto. | 200 Gramm Schinken.
+il litro | der Liter | m | 🧴 | LITRO – Liter. | | Un *litro* d'acqua. | Ein Liter Wasser.
+il metro | der Meter | m | 📏 | METRO – Meter (und die U-Bahn!). | | È a cento *metri*. | Es ist hundert Meter entfernt.
+il chilometro | der Kilometer | m | 🛣️ | Wie Kilometer. | | Mancano dieci *chilometri*. | Es fehlen zehn Kilometer.
+il pezzo | das Stück | m | 🍰 | PEZZO – Pizza ist in Stücke (pezzi) geschnitten. | engl. piece | Un *pezzo* di pane. | Ein Stück Brot.
+la fetta | die Scheibe | f | 🍞 | FETTA – eine fette Scheibe! | | Una *fetta* di torta. | Ein Stück Kuchen.
+la bottiglia | die Flasche | f | 🍾 | BOTTIGLIA – bottle. | engl. bottle | Una *bottiglia* di vino rosso. | Eine Flasche Rotwein.
+il bicchiere | das Glas (zum Trinken) | m | 🥛 | BICCHIERE – „Bitte, Kiere!“ – ein Becher (Bicher). | dt. Becher | Un *bicchiere* d'acqua, per favore. | Ein Glas Wasser, bitte.
+la tazza | die Tasse | f | ☕ | TAZZA – Tasse. | | Una *tazza* di tè. | Eine Tasse Tee.
+la scatola | die Schachtel; die Dose | f | 📦 | SCATOLA – Schatulle. | dt. Schatulle | Una *scatola* di biscotti. | Eine Schachtel Kekse.
+il pacco | das Paket | m | 📦 | PACCO – Pack, Paket. | engl. pack | È arrivato un *pacco*. | Ein Paket ist angekommen.
+
+# Zeit & Kalender
+il tempo | die Zeit; das Wetter | m | ⏱️ | TEMPO – Tempo! Keine Zeit! Und: Che tempo fa? = Wie ist das Wetter? | | Non ho *tempo*. | Ich habe keine Zeit.
+l'ora | die Stunde; die Uhrzeit | f | 🕐 | ORA – Hour; ora heißt auch „jetzt“. | engl. hour | Il film dura due *ore*. | Der Film dauert zwei Stunden.
+il minuto | die Minute | m | ⏲️ | Wie Minute. | | Un *minuto*, per favore! | Eine Minute, bitte!
+il secondo | die Sekunde | m | ⏱️ | Wie Sekunde. | | Aspetta un *secondo*! | Warte eine Sekunde!
+il giorno | der Tag | m | 📆 | GIORNO – Journal = Tagebuch. | frz. jour | Che *giorno* è oggi? | Welcher Tag ist heute?
+la settimana | die Woche | f | 🗓️ | SETTIMANA – sette (sieben) Tage. | | La prossima *settimana* vado a Roma. | Nächste Woche fahre ich nach Rom.
+il mese | der Monat | m | 📅 | MESE – „Mensis“ → Menstruation (monatlich). | lat. mensis | Tra un *mese* è Natale. | In einem Monat ist Weihnachten.
+l'anno | das Jahr | m | 🎆 | ANNO – Anno Domini, Annual. Achtung: ANNO (Jahr) vs. ANO (Po)! | lat. annus | Buon *anno*! | Frohes neues Jahr!
+oggi | heute | adv | 📍 | OGGI – „Oh, gij!“: Heute ist der Tag! | | *Oggi* fa caldo. | Heute ist es heiß.
+domani | morgen | adv | ➡️ | DOMANI – span. mañana. | | *Domani* lavoro. | Morgen arbeite ich.
+ieri | gestern | adv | ⬅️ | IERI – „I(h)r-i“: Gestern war's – „Yester-day“. | lat. heri | *Ieri* sono andato al mare. | Gestern bin ich ans Meer gefahren.
+dopodomani | übermorgen | adv | ⏭️ | DOPO (nach) + DOMANI (morgen). | | Parto *dopodomani*. | Ich reise übermorgen ab.
+la mattina | der Morgen; der Vormittag | f | 🌄 | MATTINA – Matinée, die Vorstellung am Vormittag. | frz. matin | Di *mattina* bevo un caffè. | Morgens trinke ich einen Kaffee.
+il pomeriggio | der Nachmittag | m | 🌤️ | POMERIGGIO – „post meridiem“ (p.m.) → pomeriggio. | engl. p.m. | Ci vediamo nel *pomeriggio*. | Wir sehen uns am Nachmittag.
+la sera | der Abend | f | 🌆 | SERA – Serenade am Abend. | | Stasera = questa *sera*. | Heute Abend = diesen Abend.
+la notte | die Nacht | f | 🌌 | NOTTE – Nocturne, night. | lat. nox | Buona *notte*! | Gute Nacht!
+il mezzogiorno | der Mittag | m | 🕛 | MEZZO-GIORNO = halber Tag. Auch: Süditalien! | | Pranziamo a *mezzogiorno*. | Wir essen mittags.
+la mezzanotte | die Mitternacht | f | 🕛 | MEZZA-NOTTE = halbe Nacht. | | La festa finisce a *mezzanotte*. | Das Fest endet um Mitternacht.
+stamattina | heute Morgen | adv | ☕ | STA = questa (diese) + MATTINA. | | *Stamattina* ho fatto colazione al bar. | Heute Morgen habe ich in der Bar gefrühstückt.
+stasera | heute Abend | adv | 🍷 | STA + SERA = diesen Abend. | | Cosa fai *stasera*? | Was machst du heute Abend?
+stanotte | heute Nacht | adv | 🌙 | STA + NOTTE. | | *Stanotte* ho dormito male. | Heute Nacht habe ich schlecht geschlafen.
+adesso | jetzt | adv | ⏺️ | ADESSO – „Ad-esso“: Hier und jetzt, in diesem Moment. | | *Adesso* non posso. | Jetzt kann ich nicht.
+ora | jetzt | adv | ⌚ | ORA = Stunde → „zur Stunde“ = jetzt. | | Devo andare *ora*. | Ich muss jetzt gehen.
+subito | sofort | adv | ⚡ | SUBITO – subito! sofort! wie „sub-it“: plötzlich (sudden). | engl. sudden | Arrivo *subito*! | Ich komme sofort!
+presto | früh; bald | adv | 🐓 | PRESTO – presto in der Musik = schnell → früh. | | Domani mi alzo *presto*. | Morgen stehe ich früh auf.
+tardi | spät | adv | 🐌 | TARDI – „tardy“ = verspätet. | engl. tardy | È *tardi*, devo andare. | Es ist spät, ich muss gehen.
+in ritardo | zu spät; verspätet | expr | ⌛ | RITARDO – Retard → Verzögerung. | | Il treno è *in ritardo*. | Der Zug hat Verspätung.
+in anticipo | zu früh | expr | ⏩ | ANTICIPO – antizipieren: vorwegnehmen. | engl. anticipate | Sono arrivato *in anticipo*. | Ich bin zu früh angekommen.
+puntuale | pünktlich | adj | 🎯 | PUNTUALE – pünktlich, punctual. | | Sii *puntuale*! | Sei pünktlich!
+sempre | immer | adv | ♾️ | SEMPRE – Semper Fidelis = immer treu. | lat. semper | Arrivi *sempre* tardi! | Du kommst immer zu spät!
+mai | nie | adv | 🚫 | MAI – „Nie im MAI!“ | | Non bevo *mai* caffè. | Ich trinke nie Kaffee.
+spesso | oft | adv | 🔁 | SPESSO – „Spesen“ fallen oft an. | | Vado *spesso* al mare. | Ich fahre oft ans Meer.
+qualche volta | manchmal | expr | 🎲 | QUALCHE VOLTA = irgendein Mal. | | *Qualche volta* cucino io. | Manchmal koche ich.
+di solito | normalerweise | expr | 🔄 | SOLITO – „solid“: das Übliche. | | *Di solito* mi alzo alle sette. | Normalerweise stehe ich um sieben auf.
+la volta | das Mal | f | 🔂 | VOLTA – „Volte“ beim Reiten = Drehung, noch eine Runde, noch ein Mal. | | Ancora una *volta*! | Noch einmal!
+già | schon; ja klar | adv | ✔️ | GIÀ – „Ja!“ – schon erledigt. | | Hai *già* mangiato? | Hast du schon gegessen?
+ancora | noch; wieder | adv | ➕ | ANCORA – Anker: halt noch fest! Zugabe-Ruf: Ancora! | | Non è *ancora* pronto. | Es ist noch nicht fertig.
+poi | dann; danach | adv | ⤵️ | POI – „Po-i“: erst das eine, dann das andere. | | Prima mangiamo, *poi* usciamo. | Erst essen wir, dann gehen wir aus.
+prima | vorher; zuerst | adv | 1️⃣ | PRIMA – zuerst, wie primär. | | *Prima* la colazione! | Zuerst das Frühstück!
+dopo | nachher; danach | adv | 2️⃣ | DOPO – „doppelt so spät“. | | Ti chiamo *dopo*. | Ich ruf dich nachher an.
+fra poco | gleich; in Kürze | expr | 🔜 | FRA = in (zeitlich), POCO = wenig. | | Il film inizia *fra poco*. | Der Film fängt gleich an.
+lunedì | Montag | m | 🌙 | LUNEDÌ – Luna = Mond → Mon-tag! | frz. lundi | *Lunedì* ricomincia la scuola. | Am Montag fängt die Schule wieder an.
+martedì | Dienstag | m | 🔴 | MARTEDÌ – Tag des Mars. | frz. mardi | Ci vediamo *martedì*. | Wir sehen uns am Dienstag.
+mercoledì | Mittwoch | m | ☿️ | MERCOLEDÌ – Tag des Merkur. | frz. mercredi | Il *mercoledì* ho il corso d'italiano. | Mittwochs habe ich Italienischkurs.
+giovedì | Donnerstag | m | ⚡ | GIOVEDÌ – Tag des Jupiter (Giove), Donnergott = Donnerstag! | frz. jeudi | *Giovedì* sera vado al cinema. | Donnerstagabend gehe ich ins Kino.
+venerdì | Freitag | m | 💗 | VENERDÌ – Tag der Venus (Liebesgöttin → Frija → Freitag). | frz. vendredi | Finalmente è *venerdì*! | Endlich ist Freitag!
+sabato | Samstag | m | 🛍️ | SABATO – Sabbat. | | Il *sabato* faccio la spesa. | Samstags kaufe ich ein.
+domenica | Sonntag | f | ⛪ | DOMENICA – Tag des Herrn (Dominus). Achtung: feminin! | lat. dominus | La *domenica* pranziamo dalla nonna. | Sonntags essen wir bei Oma.
+il fine settimana | das Wochenende | m | 🏖️ | FINE (Ende) der SETTIMANA. Auch: il weekend. | | Cosa fai il *fine settimana*? | Was machst du am Wochenende?
+gennaio | Januar | m | ❄️ | GENNAIO – Janus, Gott der Türen und Anfänge. | | A *gennaio* fa freddo. | Im Januar ist es kalt.
+febbraio | Februar | m | 🎭 | Wie Februar – Karneval in Venedig! | | Il Carnevale è a *febbraio*. | Karneval ist im Februar.
+marzo | März | m | 🌱 | Wie März. | | A *marzo* arriva la primavera. | Im März kommt der Frühling.
+aprile | April | m | 🌷 | Wie April. | | *Aprile*, dolce dormire. | April, süßes Schlafen (Sprichwort).
+maggio | Mai | m | 🌼 | MAGGIO – Mai mit „Madsch“. | | Il primo *maggio* è festa. | Der erste Mai ist ein Feiertag.
+giugno | Juni | m | ☀️ | GIUGNO – Juno, Göttin der Ehe → Hochzeitsmonat. | | Ci sposiamo a *giugno*. | Wir heiraten im Juni.
+luglio | Juli | m | 🏖️ | LUGLIO – Julius Caesar. | | A *luglio* andiamo al mare. | Im Juli fahren wir ans Meer.
+agosto | August | m | 🎆 | AGOSTO – Augustus. Ferragosto = 15. August! | | A *agosto* l'Italia è in vacanza. | Im August ist Italien im Urlaub.
+settembre | September | m | 🍇 | Wie September. | | La scuola inizia a *settembre*. | Die Schule beginnt im September.
+ottobre | Oktober | m | 🍂 | Wie Oktober. | | A *ottobre* raccogliamo le olive. | Im Oktober ernten wir die Oliven.
+novembre | November | m | 🌧️ | Wie November. | | *Novembre* è piovoso. | Der November ist regnerisch.
+dicembre | Dezember | m | 🎄 | Wie Dezember. | | A *dicembre* è Natale. | Im Dezember ist Weihnachten.
+la primavera | der Frühling | f | 🌸 | PRIMA-VERA = der „erste Wahre“ – die erste echte Jahreszeit. | | In *primavera* fioriscono i fiori. | Im Frühling blühen die Blumen.
+l'estate | der Sommer | f | 🌞 | ESTATE – „Ist hate“ → heat: Hitze im Sommer. Feminin! | lat. aestas | D'*estate* vado in Sicilia. | Im Sommer fahre ich nach Sizilien.
+l'autunno | der Herbst | m | 🍁 | AUTUNNO – autumn. | engl. autumn | L'*autunno* è la stagione del vino. | Der Herbst ist die Weinsaison.
+l'inverno | der Winter | m | ☃️ | INVERNO – Inferno aus Eis: hibernation. | lat. hibernus | In *inverno* sciamo sulle Alpi. | Im Winter fahren wir in den Alpen Ski.
+la stagione | die Jahreszeit; die Saison | f | 🔄 | STAGIONE – Station im Jahr → Saison. | engl. season | Qual è la tua *stagione* preferita? | Was ist deine Lieblingsjahreszeit?
+il Natale | Weihnachten | m | 🎅 | NATALE – Geburt (natal) Christi. | | Buon *Natale*! | Frohe Weihnachten!
+la Pasqua | Ostern | f | 🐣 | PASQUA – Passah-Fest. | | Buona *Pasqua*! | Frohe Ostern!
+le vacanze | der Urlaub; die Ferien | f;pl | 🏝️ | VACANZE – vacation, die Vakanz: Plätze frei! | engl. vacation | Dove vai in *vacanza*? | Wohin fährst du in Urlaub?
+la festa | das Fest; die Party; der Feiertag | f | 🎉 | FESTA – Fest, Fiesta. | | Stasera c'è una *festa*. | Heute Abend gibt es eine Party.
+la data | das Datum | f | 📆 | DATA – Datum. | | Qual è la *data* di oggi? | Welches Datum ist heute?
+il calendario | der Kalender | m | 📅 | Wie Kalender. | | Segno la data sul *calendario*. | Ich trage das Datum im Kalender ein.
