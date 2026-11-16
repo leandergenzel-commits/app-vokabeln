@@ -18,6 +18,16 @@ export function inTopics(entry: Entry, topics: string[]): boolean {
   return !topics.length || topics.includes(entry.topic);
 }
 
+/** Filter "nur Unterricht" und Lektionsauswahl */
+export function inCourse(entry: Entry, courseOnly: boolean, lessons: string[] = []): boolean {
+  if (!courseOnly) return true;
+  return !!entry.course && (!lessons.length || lessons.includes(entry.lesson ?? ''));
+}
+
+export function inScope(entry: Entry, settings: Pick<Settings, 'topics' | 'courseOnly' | 'lessons'>): boolean {
+  return inTopics(entry, settings.topics) && inCourse(entry, settings.courseOnly, settings.lessons);
+}
+
 export interface DayCounts {
   newDone: number;
   reviewsDone: number;
@@ -38,8 +48,9 @@ export function todayCounts(reviews: ReviewLog[], today = dayKey()): DayCounts {
   return { newDone, reviewsDone, total };
 }
 
-/** Reihenfolge neuer Einträge: eigene/importierte zuerst, dann Startdaten nach Häufigkeit */
+/** Reihenfolge neuer Einträge: Unterricht und eigene/importierte zuerst, dann Startdaten nach Häufigkeit */
 export function newOrder(a: Entry, b: Entry): number {
+  if (!!a.course !== !!b.course) return a.course ? -1 : 1;
   const own = (e: Entry) => (e.source === 'seed' ? 1 : 0);
   if (own(a) !== own(b)) return own(a) - own(b);
   if (own(a) === 0) return a.createdAt - b.createdAt;
@@ -69,7 +80,7 @@ export function buildQueue(
   for (const c of cards) {
     if (c.phase === 'new' || !dirs.includes(c.direction)) continue;
     const entry = byId.get(c.entryId);
-    if (!entry || !inTopics(entry, settings.topics)) continue;
+    if (!entry || !inScope(entry, settings)) continue;
     const isLearning = c.phase === 'learning' || c.phase === 'relearning';
     if (isLearning ? c.due <= now + LEARN_AHEAD : c.due < dayEnd) due.push({ entry, direction: c.direction, card: c });
   }
@@ -84,7 +95,7 @@ export function buildQueue(
   const fresh: StudyItem[] = [];
   let budget = Math.max(0, settings.newPerDay - counts.newDone);
   if (budget > 0) {
-    const pool = [...byId.values()].filter((e) => inTopics(e, settings.topics)).sort(newOrder);
+    const pool = [...byId.values()].filter((e) => inScope(e, settings)).sort(newOrder);
     for (const entry of pool) {
       if (budget <= 0) break;
       if (used.has(entry.id)) continue;

@@ -14,6 +14,7 @@ Web-App (PWA) zum Lernen italienischer Vokabeln und Alltagssätze. Läuft im Bro
   4. 💬 Beispielsatz mit Lücke
 - **Freies Training** (verändert den Wiederholungsplan nicht): Artikel-Trainer (il/lo/la/l’), Konjugation im Präsens, Satzbau, Hörverstehen, Quiz
 - **Dashboard:** Tagesziel, Lernserie 🔥, Level und XP, Lernstand je Thema, Aktivitätskalender, Vorschau auf fällige Karten, „Knacknüsse“, 16 Abzeichen
+- **Unterricht:** Stoff aus dem eigenen Kurs ist mit „📘 Unterricht“ und Lektion markiert, kommt bei neuen Karten zuerst und lässt sich filtern (Lernen, Training, Vokabelliste, Dashboard)
 - **Startdaten:** 1097 wichtige Vokabeln mit Schwerpunkt Alltag und Umgangssprache, jede mit Emoji, Eselsbrücke und Beispielsatz, dazu 173 Alltagssätze (Restaurant, Bar, Einkaufen, unterwegs, Hotel, Smalltalk, Notfall, Umgangssprache)
 - **Eigene Vokabeln importieren:** unstrukturierte Notizen per KI in Lernkarten verwandeln (siehe unten), mit Vorschau und Erkennung von Doppelten
 - **Aussprache** über die italienische Sprachausgabe des Geräts

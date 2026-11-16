@@ -30,6 +30,8 @@ export const DEFAULT_SETTINGS: Settings = {
   maxReviewsPerDay: 200,
   dailyGoal: 30,
   topics: [],
+  courseOnly: false,
+  lessons: [],
   exercises: ['flip', 'type', 'choice', 'cloze', 'order', 'listen'],
   strictAccents: false,
   autoSpeak: true,
@@ -79,9 +81,14 @@ export async function ensureSeeded(): Promise<void> {
   if (version >= SEED_VERSION) return;
   const seeds = seedEntries();
   await db.transaction('rw', db.entries, db.meta, async () => {
-    const existing = new Set(await db.entries.toCollection().primaryKeys());
+    const existing = new Map((await db.entries.toArray()).map((e) => [e.id, e]));
     const missing = seeds.filter((e) => !existing.has(e.id));
     await db.entries.bulkAdd(missing);
+    // Vorhandene Einträge, die (neu) zum Unterricht gehören, markieren – eigene Änderungen bleiben
+    const marked = seeds
+      .filter((s) => s.course && existing.has(s.id) && !existing.get(s.id)!.course)
+      .map((s) => ({ ...existing.get(s.id)!, course: true, lesson: existing.get(s.id)!.lesson ?? s.lesson, updatedAt: Date.now() }));
+    if (marked.length) await db.entries.bulkPut(marked);
     await db.meta.put({ key: 'seedVersion', value: SEED_VERSION });
   });
   await deviceId();

@@ -1,9 +1,9 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Confetti, ProgressBar, Segmented, TopicPicker } from '../components/Controls';
+import { Confetti, CoursePicker, ProgressBar, Segmented, TopicPicker } from '../components/Controls';
 import { EXERCISE_LABEL, StudyCard } from '../components/StudyCard';
 import { db, getSettings, recordReview, saveSettings } from '../lib/db';
-import { useCards, useEntries, useReviews, useSettings, useTopics } from '../lib/hooks';
+import { useCards, useEntries, useLessons, useReviews, useSettings, useTopics } from '../lib/hooks';
 import { buildQueue, chooseExercise, interleave, LEARN_AHEAD, type StudyItem } from '../lib/session';
 import type { DirectionSetting, Entry, ExerciseType, Rating, Settings } from '../lib/types';
 
@@ -34,6 +34,7 @@ export function Learn() {
   const cards = useCards();
   const reviews = useReviews();
   const topics = useTopics(entries);
+  const lessons = useLessons(entries);
 
   const [mode, setMode] = useState<'setup' | 'session' | 'done'>('setup');
   const [queue, setQueue] = useState<StudyItem[]>([]);
@@ -196,6 +197,14 @@ export function Learn() {
           </p>
         )}
       </div>
+
+      {lessons.length > 0 && (
+        <div className="panel">
+          <h2>Mein Unterricht</h2>
+          <CoursePicker lessons={lessons} courseOnly={settings.courseOnly} selected={settings.lessons} onChange={(courseOnly, l) => update({ courseOnly, lessons: l })} />
+          <p className="muted small">Einträge aus deinem Unterricht kommen bei neuen Karten immer zuerst dran.</p>
+        </div>
+      )}
 
       <div className="panel">
         <h2>Lernrichtung</h2>

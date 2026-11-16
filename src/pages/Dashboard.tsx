@@ -4,6 +4,7 @@ import { ForecastBars, Heatmap, MasteryBar, MasteryLegend } from '../components/
 import { ProgressBar, Ring } from '../components/Controls';
 import { topicEmoji } from '../data/topics';
 import { computeBadges, levelInfo, streak } from '../lib/gamification';
+import { saveSettings } from '../lib/db';
 import { useCards, useEntries, useReviews, useSettings } from '../lib/hooks';
 import { buildQueue, todayCounts } from '../lib/session';
 import { MASTERY_LABEL, mastery } from '../lib/srs';
@@ -42,6 +43,9 @@ export function Dashboard() {
       const pb = (b.total - b.counts.new) / b.total;
       return pb - pa || b.total - a.total;
     });
+    const lessonMap = new Map<string, typeof entries>();
+    for (const e of entries) if (e.course) lessonMap.set(e.lesson ?? 'Unterricht', [...(lessonMap.get(e.lesson ?? 'Unterricht') ?? []), e]);
+    const lessons = [...lessonMap.entries()].map(([name, list]) => ({ name, total: list.length * 2, counts: masteryCounts(list, cards, dirs) }));
     const started = new Set(cards.filter((c) => c.phase !== 'new').map((c) => c.entryId)).size;
     return {
       activity,
@@ -53,6 +57,7 @@ export function Dashboard() {
       today,
       overall,
       topics,
+      lessons,
       started,
       forecast: forecast(cards),
       accDeIt: accuracy(reviews, 'de-it'),
@@ -144,6 +149,26 @@ export function Dashboard() {
           <ForecastBars data={data.forecast} />
         </section>
       </div>
+
+      {data.lessons.length > 0 && (
+        <section className="panel">
+          <div className="page-head">
+            <h2>📘 Mein Unterricht</h2>
+            <Link to="/lernen" className="btn btn-small" onClick={() => saveSettings({ courseOnly: true, lessons: [] })}>
+              Unterricht lernen →
+            </Link>
+          </div>
+          <div className="topic-list">
+            {data.lessons.map((l) => (
+              <div key={l.name} className="topic-row">
+                <span className="topic-name">{l.name}</span>
+                <MasteryBar counts={l.counts} total={l.total} compact />
+                <span className="topic-pct">{Math.round(((l.total - l.counts.new) / l.total) * 100)} %</span>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="panel">
         <h2>Themen</h2>

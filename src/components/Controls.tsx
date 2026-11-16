@@ -63,6 +63,50 @@ export function TopicPicker({
   );
 }
 
+/** Auswahl: alle Karten oder nur Unterricht (optional einzelne Lektionen) */
+export function CoursePicker({
+  lessons,
+  courseOnly,
+  selected,
+  onChange,
+}: {
+  lessons: { name: string; count: number }[];
+  courseOnly: boolean;
+  selected: string[];
+  onChange: (courseOnly: boolean, lessons: string[]) => void;
+}) {
+  if (!lessons.length) return null;
+  const total = lessons.reduce((a, l) => a + l.count, 0);
+  const toggle = (name: string) => onChange(true, selected.includes(name) ? selected.filter((l) => l !== name) : [...selected, name]);
+  return (
+    <div className="topic-picker">
+      <Segmented
+        value={courseOnly ? 'course' : 'all'}
+        onChange={(v) => onChange(v === 'course', [])}
+        options={[
+          { value: 'all', label: 'Alle Karten' },
+          { value: 'course', label: `📘 Nur Unterricht (${total})` },
+        ]}
+      />
+      {courseOnly && (
+        <>
+          <div className="topic-group-label">Lektionen</div>
+          <div className="chips">
+            <button className={`chip chip-toggle ${selected.length === 0 ? 'on' : ''}`} onClick={() => onChange(true, [])}>
+              Alle Lektionen
+            </button>
+            {lessons.map((l) => (
+              <button key={l.name} className={`chip chip-toggle ${selected.includes(l.name) ? 'on' : ''}`} onClick={() => toggle(l.name)}>
+                📘 {l.name} <span className="chip-count">{l.count}</span>
+              </button>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  );
+}
+
 export function ProgressBar({ value, label }: { value: number; label?: string }) {
   return (
     <div className="progress" role="progressbar" aria-valuenow={Math.round(value * 100)} aria-valuemin={0} aria-valuemax={100} aria-label={label}>

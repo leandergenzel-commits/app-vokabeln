@@ -24,6 +24,8 @@ export function ImportPage() {
   const [tab, setTab] = useState<Tab>('local');
   const [notes, setNotes] = useState('');
   const [fallbackTopic, setFallbackTopic] = useState('Mein Kurs');
+  const [asCourse, setAsCourse] = useState(true);
+  const [lesson, setLesson] = useState('');
   const [claudeAnswer, setClaudeAnswer] = useState('');
   const [drafts, setDrafts] = useState<Draft[]>([]);
   const [error, setError] = useState<string | null>(null);
@@ -85,7 +87,9 @@ export function ImportPage() {
   };
 
   const doImport = async () => {
-    const chosen = drafts.filter((d) => d.selected).map((d) => d.entry);
+    const chosen = drafts
+      .filter((d) => d.selected)
+      .map((d) => (asCourse ? { ...d.entry, course: true, lesson: lesson.trim() || 'Unterricht' } : d.entry));
     await db.entries.bulkPut(chosen);
     setDone(`${chosen.length} Einträge importiert. Sie kommen beim nächsten Lernen als neue Karten dran.`);
     setDrafts([]);
@@ -131,6 +135,21 @@ export function ImportPage() {
             ))}
           </datalist>
         </label>
+
+        <label className="check">
+          <input type="checkbox" checked={asCourse} onChange={(e) => setAsCourse(e.target.checked)} /> 📘 Als Stoff aus meinem Unterricht markieren
+        </label>
+        {asCourse && (
+          <label className="block-label">
+            Lektion
+            <input value={lesson} onChange={(e) => setLesson(e.target.value)} placeholder="z. B. Unterricht 7 · In città" list="import-lessons" />
+            <datalist id="import-lessons">
+              {[...new Set((entries ?? []).filter((e) => e.course && e.lesson).map((e) => e.lesson!))].map((l) => (
+                <option key={l} value={l} />
+              ))}
+            </datalist>
+          </label>
+        )}
 
         <label className="block-label">
           {tab === 'simple' ? 'Eine Zeile pro Eintrag: italienisch – deutsch' : 'Deine Notizen'}
