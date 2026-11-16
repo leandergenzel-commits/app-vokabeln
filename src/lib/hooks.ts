@@ -20,6 +20,14 @@ export function useReviews(): ReviewLog[] | undefined {
   return useLiveQuery(() => db.reviews.toArray(), []);
 }
 
+export function useLessons(entries: Entry[] | undefined) {
+  return useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const e of entries ?? []) if (e.course) counts.set(e.lesson ?? 'Unterricht', (counts.get(e.lesson ?? 'Unterricht') ?? 0) + 1);
+    return [...counts.entries()].map(([name, count]) => ({ name, count }));
+  }, [entries]);
+}
+
 export function useTopics(entries: Entry[] | undefined) {
   return useMemo(() => {
     const counts = new Map<string, number>();

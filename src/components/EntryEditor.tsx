@@ -139,6 +139,15 @@ export function EntryEditor({ entry, topics, onClose, isNew }: { entry: Entry; t
             <input value={e.notes ?? ''} onChange={(x) => set('notes', x.target.value || undefined)} />
           </label>
           <label className="check">
+            <input type="checkbox" checked={!!e.course} onChange={(x) => set('course', x.target.checked || undefined)} /> 📘 aus meinem Unterricht
+          </label>
+          {e.course && (
+            <label>
+              Lektion
+              <input value={e.lesson ?? ''} onChange={(x) => set('lesson', x.target.value || undefined)} placeholder="z. B. Unterricht 7 · In città" />
+            </label>
+          )}
+          <label className="check">
             <input type="checkbox" checked={!!e.colloquial} onChange={(x) => set('colloquial', x.target.checked || undefined)} /> umgangssprachlich
           </label>
           {e.pos === 'verb' && (

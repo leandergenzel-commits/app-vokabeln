@@ -1,12 +1,12 @@
 import { useMemo, useState } from 'react';
-import { Confetti, ProgressBar, Segmented, TopicPicker } from '../components/Controls';
+import { Confetti, CoursePicker, ProgressBar, Segmented, TopicPicker } from '../components/Controls';
 import { ArticleDrill, ConjugationDrill } from '../components/Drills';
 import { EXERCISE_LABEL, StudyCard } from '../components/StudyCard';
 import { splitArticle } from '../lib/check';
 import { presentTense } from '../lib/conjugate';
 import { recordReview } from '../lib/db';
-import { useCards, useEntries, useSettings, useTopics } from '../lib/hooks';
-import { chooseExercise, directionsFor, inTopics, type StudyItem } from '../lib/session';
+import { useCards, useEntries, useLessons, useSettings, useTopics } from '../lib/hooks';
+import { chooseExercise, directionsFor, inCourse, inTopics, type StudyItem } from '../lib/session';
 import { cardId, newCard } from '../lib/srs';
 import type { CardState, Entry, ExerciseType, Rating } from '../lib/types';
 import { pick, shuffle } from '../lib/util';
@@ -49,6 +49,9 @@ export function Training() {
   const entries = useEntries();
   const cards = useCards();
   const topics = useTopics(entries);
+  const lessons = useLessons(entries);
+  const [courseOnly, setCourseOnly] = useState(false);
+  const [chosenLessons, setChosenLessons] = useState<string[]>([]);
   const [mode, setMode] = useState<Mode>('article');
   const [source, setSource] = useState<Source>('all');
   const [chosenTopics, setChosenTopics] = useState<string[]>([]);
@@ -65,9 +68,10 @@ export function Training() {
       (e) =>
         eligible(mode, e) &&
         inTopics(e, chosenTopics) &&
+        inCourse(e, courseOnly, chosenLessons) &&
         (source === 'all' || (source === 'learned' && started.has(e.id)) || (source === 'hard' && hard.has(e.id))),
     );
-  }, [entries, cards, mode, source, chosenTopics]);
+  }, [entries, cards, mode, source, chosenTopics, courseOnly, chosenLessons]);
 
   const start = () => {
     const chosen = shuffle(pool).slice(0, length);
@@ -178,6 +182,15 @@ export function Training() {
           <input type="range" min={5} max={50} step={5} value={length} onChange={(e) => setLength(Number(e.target.value))} />
           <b>{length}</b>
         </div>
+        <CoursePicker
+          lessons={lessons}
+          courseOnly={courseOnly}
+          selected={chosenLessons}
+          onChange={(c, l) => {
+            setCourseOnly(c);
+            setChosenLessons(l);
+          }}
+        />
         <TopicPicker topics={topics} selected={chosenTopics} onChange={setChosenTopics} />
       </div>
 

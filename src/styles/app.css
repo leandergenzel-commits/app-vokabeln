@@ -442,6 +442,10 @@ textarea {
   background: color-mix(in srgb, var(--azzurro) 18%, transparent);
   color: var(--azzurro);
 }
+.chip-course {
+  background: color-mix(in srgb, var(--azzurro) 14%, transparent);
+  color: var(--ink);
+}
 .chip-warn {
   background: color-mix(in srgb, var(--oro) 20%, transparent);
   margin-left: 6px;
@@ -1344,7 +1348,7 @@ textarea {
 /* ---------- Library ---------- */
 .filters {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr));
   gap: 10px;
 }
 @media (max-width: 640px) {

@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import { blankEntry, EntryEditor, POS_LABEL } from '../components/EntryEditor';
 import { stripAccents } from '../lib/check';
-import { useCards, useEntries, useSettings, useTopics } from '../lib/hooks';
+import { useCards, useEntries, useLessons, useSettings, useTopics } from '../lib/hooks';
 import { MASTERY_LABEL, mastery, type Mastery } from '../lib/srs';
 import { speak } from '../lib/tts';
 import type { Entry } from '../lib/types';
@@ -13,6 +13,8 @@ export function Library() {
   const entries = useEntries();
   const cards = useCards();
   const topics = useTopics(entries);
+  const lessons = useLessons(entries);
+  const [origin, setOrigin] = useState('');
   const [q, setQ] = useState('');
   const [topic, setTopic] = useState('');
   const [status, setStatus] = useState<'' | Mastery>('');
@@ -27,6 +29,8 @@ export function Library() {
     return entries
       .filter((e) => {
         if (topic && e.topic !== topic) return false;
+        if (origin === 'course' && !e.course) return false;
+        if (origin.startsWith('lesson:') && (!e.course || e.lesson !== origin.slice(7))) return false;
         if (needle && !stripAccents(`${e.it} ${e.de}`.toLowerCase()).includes(needle)) return false;
         if (status) {
           const m1 = mastery(cardMap.get(`${e.id}|de-it`));
@@ -36,7 +40,7 @@ export function Library() {
         return true;
       })
       .sort((a, b) => (a.source === 'seed' ? 1 : 0) - (b.source === 'seed' ? 1 : 0) || (a.rank ?? 0) - (b.rank ?? 0) || b.createdAt - a.createdAt);
-  }, [entries, q, topic, status, cardMap]);
+  }, [entries, q, topic, status, origin, cardMap]);
 
   return (
     <div className="page">
@@ -57,6 +61,17 @@ export function Library() {
             </option>
           ))}
         </select>
+        {lessons.length > 0 && (
+          <select value={origin} onChange={(e) => { setOrigin(e.target.value); setLimit(PAGE); }}>
+            <option value="">Alle Herkünfte</option>
+            <option value="course">📘 Nur Unterricht</option>
+            {lessons.map((l) => (
+              <option key={l.name} value={`lesson:${l.name}`}>
+                📘 {l.name} ({l.count})
+              </option>
+            ))}
+          </select>
+        )}
         <select value={status} onChange={(e) => setStatus(e.target.value as '' | Mastery)}>
           <option value="">Jeder Lernstand</option>
           {(Object.keys(MASTERY_LABEL) as Mastery[]).map((m) => (
@@ -77,6 +92,7 @@ export function Library() {
               <span className="muted">{e.de}</span>
             </div>
             <div className="entry-side">
+              {e.course && <span className="chip chip-course" title={e.lesson}>📘</span>}
               {e.pos && e.pos !== 'phrase' && <span className="chip chip-soft">{POS_LABEL[e.pos]}{e.gender ? ` · ${e.gender}` : ''}</span>}
               <span className="dots" title="Lernstand je Richtung">
                 <i className={`dot m-${mastery(cardMap.get(`${e.id}|de-it`))}`} />

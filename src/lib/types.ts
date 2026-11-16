@@ -43,6 +43,10 @@ export interface Entry {
   conj?: string[];
   /** Verben mit -isc- (finire → finisco) */
   isc?: boolean;
+  /** Aus meinem Italienischunterricht */
+  course?: boolean;
+  /** Lektion/Einheit im Unterricht, z. B. "Akt 11 · Im Café" */
+  lesson?: string;
   /** Häufigkeitsrang innerhalb der Startdaten (kleiner = wichtiger) */
   rank?: number;
   source: 'seed' | 'user' | 'import';
@@ -108,6 +112,10 @@ export interface Settings {
   maxReviewsPerDay: number;
   dailyGoal: number;
   topics: string[];
+  /** Nur Einträge aus dem Unterricht lernen */
+  courseOnly: boolean;
+  /** Auswahl von Lektionen (leer = alle) */
+  lessons: string[];
   exercises: ExerciseType[];
   /** Antwort beim Eintippen: Akzente müssen stimmen */
   strictAccents: boolean;

@@ -15,11 +15,12 @@ import adjectives from './seed/11-adjektive.txt?raw';
 import small from './seed/12-kleine-woerter.txt?raw';
 import slang from './seed/13-umgangssprache.txt?raw';
 import phrases from './seed/20-saetze.txt?raw';
+import course from './seed/30-unterricht.txt?raw';
 
 /** Version der Startdaten – bei Erhöhung werden neue Einträge ergänzt (eigene Änderungen bleiben) */
-export const SEED_VERSION = 1;
+export const SEED_VERSION = 2;
 
-export const SEED_FILES = [basics, people, numbers, food, shopping, city, body, nature, verbs, verbs2, adjectives, small, slang, phrases];
+export const SEED_FILES = [basics, people, numbers, food, shopping, city, body, nature, verbs, verbs2, adjectives, small, slang, phrases, course];
 
 const POS_CODES: Record<string, Pos> = {
   v: 'verb',
@@ -38,16 +39,22 @@ const POS_CODES: Record<string, Pos> = {
  * Zeilenformat der Startdaten (Felder mit " | " getrennt):
  *   italienisch | deutsch | grammatik | emoji | eselsbrücke | verwandt | beispiel_it | beispiel_de
  * "# Thema" setzt das Thema der folgenden Zeilen, "//" sind Kommentare.
+ * "@ Lektion" markiert die folgenden Zeilen als Unterrichtsstoff dieser Lektion.
  * Grammatik: m / f / mf (Nomen), v, adj, adv, pron, prep, konj, num, int, expr, ph
  *   Zusätze mit ";": pl (nur Plural), pl=…, isc, conj=io,tu,…, ugs (umgangssprachlich)
  */
 export function parseSeed(text: string, startRank = 0, now = Date.now()): Entry[] {
   const out: Entry[] = [];
   let topic = 'Allgemein';
+  let lesson: string | null = null;
   let rank = startRank;
   for (const rawLine of text.split('\n')) {
     const line = rawLine.trim();
     if (!line || line.startsWith('//')) continue;
+    if (line.startsWith('@')) {
+      lesson = line.slice(1).trim();
+      continue;
+    }
     if (line.startsWith('#')) {
       topic = line.replace(/^#+/, '').trim();
       continue;
@@ -66,6 +73,10 @@ export function parseSeed(text: string, startRank = 0, now = Date.now()): Entry[
       createdAt: now,
       updatedAt: now,
     };
+    if (lesson) {
+      entry.course = true;
+      entry.lesson = lesson;
+    }
     applyGrammar(entry, gram);
     if (emoji) entry.emoji = emoji;
     if (mnemonic) entry.mnemonic = mnemonic;
@@ -101,12 +112,20 @@ let cache: Entry[] | null = null;
 
 export function seedEntries(): Entry[] {
   if (cache) return cache;
-  const seen = new Set<string>();
+  const byId = new Map<string, Entry>();
   const all: Entry[] = [];
   for (const file of SEED_FILES) {
     for (const e of parseSeed(file, all.length)) {
-      if (seen.has(e.id)) continue;
-      seen.add(e.id);
+      const existing = byId.get(e.id);
+      if (existing) {
+        // Unterrichtsstoff, den es schon gibt: vorhandenen Eintrag markieren statt doppelt anlegen
+        if (e.course && !existing.course) {
+          existing.course = true;
+          existing.lesson = e.lesson;
+        }
+        continue;
+      }
+      byId.set(e.id, e);
       all.push(e);
     }
   }

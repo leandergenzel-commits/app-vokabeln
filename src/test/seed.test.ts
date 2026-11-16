@@ -14,12 +14,12 @@ describe('Startdaten', () => {
     expect(phrases.length).toBeGreaterThanOrEqual(150);
   });
 
-  it('hat keine doppelten IDs in den Dateien', () => {
+  it('hat keine doppelten IDs in den Dateien (außer Unterrichts-Markierungen)', () => {
     const seen = new Map<string, string>();
     const dups: string[] = [];
     for (const file of SEED_FILES) {
       for (const e of parseSeed(file)) {
-        if (seen.has(e.id)) dups.push(`${e.it} (schon: ${seen.get(e.id)})`);
+        if (seen.has(e.id) && !e.course) dups.push(`${e.it} (schon: ${seen.get(e.id)})`);
         seen.set(e.id, e.it);
       }
     }
@@ -57,6 +57,22 @@ describe('Startdaten', () => {
     const verbs = all.filter((e) => e.pos === 'verb');
     const ok = verbs.filter((v) => presentTense(v));
     expect(ok.length / verbs.length).toBeGreaterThan(0.95);
+  });
+
+  it('jede Vokabel hat Eselsbrücke und Beispielsatz', () => {
+    const bad = all.filter((e) => e.kind === 'word' && (!e.mnemonic || !e.exampleIt));
+    expect(bad.map((e) => e.it)).toEqual([]);
+  });
+
+  it('Unterrichtsstoff ist markiert und hat eine Lektion', () => {
+    const course = all.filter((e) => e.course);
+    expect(course.length).toBeGreaterThan(100);
+    expect(course.every((e) => e.lesson)).toBe(true);
+    // Bereits vorhandene Einträge werden markiert statt doppelt angelegt
+    const cappuccino = all.filter((e) => e.it === 'il cappuccino');
+    expect(cappuccino).toHaveLength(1);
+    expect(cappuccino[0].course).toBe(true);
+    expect(cappuccino[0].topic).toBe('Restaurant & Bar');
   });
 
   it('IDs sind stabil (aus dem italienischen Text abgeleitet)', () => {

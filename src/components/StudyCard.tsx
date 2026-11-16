@@ -147,6 +147,7 @@ export function StudyCard({ item, exercise, pool, settings, srs, onDone }: Props
           {EXERCISE_LABEL[exercise].icon} {EXERCISE_LABEL[exercise].label}
         </span>
         <span className="chip chip-soft">{dirLabel}</span>
+        {entry.course && <span className="chip chip-course">📘 {entry.lesson ?? 'Unterricht'}</span>}
         {item.card.phase === 'new' && <span className="chip chip-new">Neu</span>}
         {entry.colloquial && <span className="chip chip-soft">🤌 umgangssprachlich</span>}
       </div>

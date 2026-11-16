@@ -1,0 +1,175 @@
+// Stoff aus meinem Italienischunterricht.
+// "@ Lektion" markiert alle folgenden Zeilen als Unterricht. Gibt es einen Eintrag schon
+// (gleicher italienischer Text), wird der vorhandene nur als Unterricht markiert.
+
+@ Akt 11 · Im Café
+
+# Restaurant & Bar
+il barista | der Barmann; die Barfrau | mf | 🧑‍🍳 | BARISTA – wer an der BAR steht. Die Endung -ista gilt für Mann und Frau: il/la barista. | engl. barista | Il *barista* porta i cornetti. | Der Barmann bringt die Hörnchen.
+il listino prezzi | die Preisliste | m | 📋 | LISTINO = kleine Liste, PREZZI = Preise. | | Guardo il *listino prezzi* sopra il bar. | Ich schaue auf die Preisliste über der Theke.
+il caffè macchiato | der Espresso mit einem Schuss Milch | m | ☕ | MACCHIATO = befleckt: ein Fleck Milch im Espresso. | | Un *caffè macchiato*, per favore. | Einen Espresso mit etwas Milch, bitte.
+il caffellatte | der Milchkaffee | m | 🥛 | CAFFÈ + LATTE in einem Wort = viel Milch mit Kaffee. Nur „latte“ bestellt = ein Glas Milch! | | Allora un *caffellatte*, per favore. | Also einen Milchkaffee, bitte.
+il caffè lungo | der verlängerte Espresso | m | ☕ | LUNGO = lang: mit mehr Wasser gestreckt. | | E per me un *caffè lungo*. | Und für mich einen verlängerten Espresso.
+il cappuccino | der Cappuccino | m
+il cornetto | das Hörnchen; das Croissant | m
+lo scontrino | der Kassenbon | m
+la pasta | die Nudeln; das Gebäckstück | f
+il profumo | der Duft | m | 👃 | PROFUMO – Parfüm: Che buon profumo! = Wie gut das riecht! | frz. parfum | Che buon *profumo*! | Wie gut das riecht!
+gli arancini | die Arancini (frittierte, gefüllte Reisbällchen) | m;pl | 🍙 | ARANCINI = „kleine Orangen“ (arancia): rund und goldorange frittiert. | | Prendo due *arancini*! | Ich nehme zwei Reisbällchen!
+la pizzetta | die Minipizza | f | 🍕 | -ETTA macht klein: pizza → pizzetta. | | Vorrei una *pizzetta* al pomodoro. | Ich hätte gern eine Minipizza mit Tomate.
+il tramezzino | das belegte Toastbrot-Dreieck | m | 🥪 | TRA-MEZZ-INO: „dazwischen“ (tra, mezzo) – der Belag liegt zwischen zwei Toastscheiben. | | Un *tramezzino* con prosciutto e mozzarella. | Ein Tramezzino mit Schinken und Mozzarella.
+
+# Essen & Trinken
+il gelato | das Eis (Speiseeis) | m
+il cono | die Waffel (Eis) | m | 🍦 | CONO = Kegel – wie ein Verkehrshütchen (engl. cone). | engl. cone | Un *cono* da due gusti. | Eine Waffel mit zwei Sorten.
+la coppetta | der Becher (Eis) | f | 🍨 | COPPETTA = kleiner Pokal (coppa = Cup). | engl. cup | Una *coppetta*, per favore! | Einen Becher, bitte!
+il gusto | die Sorte; der Geschmack | m | 😋 | GUSTO – „Gusto auf etwas haben“: Geschmack. Beim Eis: Che gusti? = Welche Sorten? | | Che *gusti* vuoi? | Welche Sorten willst du?
+la fragola | die Erdbeere | f
+la vaniglia | die Vanille | f | 🍦 | VANIGLIA – Vanille mit italienischem -glia. | | Un gelato alla *vaniglia*. | Ein Vanilleeis.
+il pistacchio | die Pistazie | m | 🟢 | PISTACCHIO – Pistazie; aus Bronte (Sizilien) die berühmtesten. | | Un gelato al *pistacchio*. | Ein Pistazieneis.
+il cioccolato | die Schokolade | m
+la granita | die Granita (zerstoßenes Eis) | f | 🍧 | GRANITA – körnig wie GRANIT: fein gehacktes, gefrorenes Eis. | | Prendo una *granita* al limone. | Ich nehme eine Zitronen-Granita.
+la mandorla | die Mandel | f | 🌰 | MANDORLA – „Mandel“ mit -orla; die Mandorla-Form in der Kunst ist mandelförmig. | | Una granita alla *mandorla*. | Eine Granita mit Mandelaroma.
+il limone | die Zitrone | m
+la pesca | der Pfirsich | f
+la menta | die Pfefferminze | f | 🌿 | MENTA – Minze, Menthol. | | Un gelato alla *menta*. | Ein Minzeis.
+
+# Sätze: Bar & Café
+Che cosa volete bere? | Was möchtet ihr trinken? / Was möchten Sie trinken? | ph | 🍹 | VOLETE = ihr wollt (volere); auch die Höflichkeitsform an mehrere Personen.
+Offro io! | Ich lade ein! | ph
+Prendo un cappuccino. | Ich nehme einen Cappuccino. | ph | ☕ | PRENDO = ich nehme – die einfachste Art zu bestellen.
+Allora un caffellatte, per favore. | Also einen Milchkaffee, bitte. | ph | 🥛
+E per me un caffè lungo. | Und für mich einen verlängerten Espresso. | ph | ☕ | PER ME = für mich.
+Che buon profumo! | Wie gut das riecht! | ph | 👃
+Volete mangiare qualcosa? | Wollt ihr etwas essen? | ph | 🥐
+Scusi, che cosa sono? | Entschuldigung, was ist das? (Plural) | ph | 🤔 | SONO = sie sind: man fragt nach mehreren Dingen.
+Sono arancini. | Das sind Arancini (Reisbällchen). | ph | 🍙
+Prendo due arancini! | Ich nehme zwei Reisbällchen! | ph | 🍙
+Prendo un gelato! | Ich nehme ein Eis! | ph | 🍨
+Un cono o una coppetta? | Eine Waffel oder einen Becher? | ph | 🍦 | Die erste Frage in jeder Gelateria!
+Una coppetta, per favore! | Einen Becher, bitte! | ph | 🍨
+Che gusti? | Welche Sorten? | ph | 😋
+Alla fragola, alla vaniglia, al pistacchio e al cioccolato. | Erdbeere, Vanille, Pistazie und Schokolade. | ph | 🍨 | ALLA/AL = „nach Art von“: so nennt man Eissorten.
+Prendo una granita alla mandorla. | Ich nehme eine Granita mit Mandelaroma. | ph | 🍧
+Quant'è? | Wie viel macht das? | ph | 💶 | QUANT'È = quanto è: wie viel ist (es)?
+Sono quindici euro. | Das macht 15 Euro. | ph | 💶 | Beim Preis: SONO + Betrag.
+
+@ Unterricht 6 · Ordinare al bar / ristorante
+
+# Restaurant & Bar
+la spremuta | der frisch gepresste Saft | f
+le arance rosse | die Blutorangen | f;pl | 🍊 | Rote Orangen = Blutorangen, typisch für Sizilien. | | Una spremuta di *arance rosse*. | Ein Saft aus Blutorangen.
+il cucchiaino | der Teelöffel | m | 🥄 | CUCCHIA-INO = kleiner Löffel (cucchiaio + -ino). | | Con due *cucchiaini* di zucchero. | Mit zwei Teelöffeln Zucker.
+il tiramisù | das Tiramisu | m | 🍰 | TIRA-MI-SÙ = „zieh mich hoch“: ein Muntermacher mit Espresso. | | Avete il *tiramisù* fatto in casa? | Haben Sie hausgemachtes Tiramisu?
+la panna cotta | die Panna cotta | f | 🍮 | PANNA = Sahne, COTTA = gekocht. | | Anche la *panna cotta* è buona. | Die Panna cotta ist auch gut.
+fatto in casa | hausgemacht | expr | 🏠 | Wörtlich „im Haus gemacht“. | | Il tiramisù è *fatto in casa*. | Das Tiramisu ist hausgemacht.
+il caffè decaffeinato | der entkoffeinierte Kaffee | m | 😴 | DE-CAFFEINATO = ohne Koffein. Kurz bestellt man „un deca“. | | Per me un *caffè decaffeinato*. | Für mich einen Entkoffeinierten.
+il tavolo | der Tisch | m
+la birra | das Bier | f
+lo zucchero | der Zucker | m
+
+# Kleine Wörter
+dunque | also; nun | adv | 🗣️ | DUNQUE – „Dun-kwe“: Nun denn … So beginnt man eine Bestellung. | | *Dunque*, io prendo un tramezzino. | Also, ich nehme ein Tramezzino.
+anzi | vielmehr; besser gesagt | adv | 🔄 | ANZI – man korrigiert sich: „Nein, besser …“ | | Prima. *Anzi*, dopo. | Vorher. Nein, besser danach.
+prima | vorher; zuerst | adv
+dopo | nachher; danach | adv
+invece | stattdessen; dagegen | adv
+comunque | jedenfalls; trotzdem | adv
+allora | also; dann; na dann | adv
+
+# Gefühle & Charakter
+la confusione | das Durcheinander | f | 🌀 | CONFUSIONE – Konfusion. | | Che *confusione*! | Was für ein Durcheinander!
+
+# Verben
+ordinare | bestellen | v
+prendere | nehmen; bestellen | v
+smettere | aufhören | v
+salutare | grüßen; sich verabschieden | v
+
+# Sätze: Restaurant
+Allora? Cosa prendiamo? | Also? Was nehmen wir? | ph | 🤔 | PRENDIAMO = wir nehmen.
+Non ho fame, ho mangiato troppo a pranzo. | Ich habe keinen Hunger, ich habe mittags zu viel gegessen. | ph | 😮‍💨 | HO FAME = ich habe Hunger – im Italienischen „hat“ man Hunger.
+Prendo solo una spremuta d'arancia. | Ich nehme nur einen frisch gepressten Orangensaft. | ph | 🍊
+Vorrei una spremuta d'arancia con due cucchiaini di zucchero. | Ich hätte gern einen O-Saft mit zwei Teelöffeln Zucker. | ph | 🥄
+Per me un tramezzino con prosciutto crudo e mozzarella. | Für mich ein Tramezzino mit Rohschinken und Mozzarella. | ph | 🥪
+Una birra piccola, per favore. | Ein kleines Bier, bitte. | ph | 🍺
+Avete il tiramisù fatto in casa? | Haben Sie hausgemachtes Tiramisu? | ph | 🍰
+Questo mi va! | Darauf habe ich Lust! | ph | 😋 | MI VA = es passt mir / ich habe Lust darauf.
+Prima o dopo il tramezzino? | Vor oder nach dem Tramezzino? | ph | ⏳
+Ho capito, allora ripeto. | Verstanden, dann wiederhole ich. | ph | 🔁
+La birra è per Lei? | Ist das Bier für Sie? | ph | 🍺 | LEI groß = Sie (höflich).
+Io ho ordinato il tè, non la spremuta. | Ich habe den Tee bestellt, nicht den Saft. | ph | 🍵
+Veramente avevo detto dopo il tramezzino. | Eigentlich hatte ich gesagt: nach dem Tramezzino. | ph | ☝️ | VERAMENTE = eigentlich; so widerspricht man höflich.
+Che confusione! | Was für ein Durcheinander! | ph | 🌀
+Ti saluta. | Er/Sie lässt dich grüßen. | ph | 👋
+Smettila! | Hör auf damit! | ph | ✋ | SMETTILA = smetti + la: hör auf damit.
+
+@ Unterricht 6 · Cibo e bevande al bar
+
+# Restaurant & Bar
+il cappuccio | der Cappuccino (umgangssprachlich) | m;ugs | ☕ | CAPPUCCIO = Kapuze – Kurzform von cappuccino, so bestellen ihn viele Italiener. | | Un *cappuccio* e una brioche. | Einen Cappuccino und ein Hörnchen.
+la brioche | das süße Hörnchen (Norditalien) | f | 🥐 | BRIOCHE – französisch; im Norden sagt man so statt cornetto. | frz. brioche | Cappuccio e *brioche*, per favore. | Cappuccino und Hörnchen, bitte.
+il cornetto integrale | das Vollkornhörnchen | m | 🌾 | INTEGRALE = Vollkorn: das „ganze“ (integrale) Korn. | | Un *cornetto integrale* al miele. | Ein Vollkornhörnchen mit Honig.
+il cornetto vuoto | das Hörnchen ohne Füllung | m | 🥐 | VUOTO = leer: ohne Füllung. | | Per me un *cornetto vuoto*. | Für mich ein Hörnchen ohne Füllung.
+il cornetto alla crema | das Hörnchen mit Vanillecreme | m | 🍮 | CREMA = Konditorcreme (Vanillepudding). | | Un *cornetto alla crema*, per favore. | Ein Hörnchen mit Creme, bitte.
+il cornetto al cioccolato | das Schokohörnchen | m | 🍫 | AL CIOCCOLATO = mit Schokolade. | | Un *cornetto al cioccolato*. | Ein Schokohörnchen.
+il cornetto alla marmellata | das Marmeladenhörnchen | m | 🍑 | MARMELLATA = Marmelade, meist Aprikose. | | Un *cornetto alla marmellata*. | Ein Marmeladenhörnchen.
+il cornetto al pistacchio | das Pistazienhörnchen | m | 🟢 | Mit Pistaziencreme gefüllt. | | Un *cornetto al pistacchio*! | Ein Pistazienhörnchen!
+il cornetto allo zabaione | das Hörnchen mit Zabaione | m | 🥚 | ZABAIONE = Weinschaumcreme aus Eigelb, Zucker und Marsala. | | Un *cornetto allo zabaione*. | Ein Hörnchen mit Zabaione.
+il toast | der Toast (meist Schinken-Käse) | m | 🥪 | Wie Toast – in der Bar warm mit Schinken und Käse. | | Un *toast* prosciutto e formaggio. | Einen Schinken-Käse-Toast.
+il panino | das belegte Brötchen | m
+l'insalata | der Salat | f
+la pasta fredda | der Nudelsalat | f | 🥗 | Kalte Pasta = Nudelsalat, beliebt im Sommer. | | Una *pasta fredda* con le verdure. | Ein Nudelsalat mit Gemüse.
+il riso freddo | der Reissalat | m | 🍚 | Kalter Reis = Reissalat. | | Il *riso freddo* è perfetto d'estate. | Reissalat ist perfekt im Sommer.
+l'espresso | der Espresso | m | ☕ | Wie Espresso – in der Bar sagt man meist einfach „un caffè“. | | Un *espresso*, per favore. | Einen Espresso, bitte.
+il caffè ristretto | der extra kurze, starke Espresso | m | ⚡ | RISTRETTO = eingeschränkt: nur der starke erste Schluck. | | Per me un *caffè ristretto*. | Für mich einen Ristretto.
+il caffè corretto | der Espresso mit Schuss (Grappa, Sambuca …) | m | 🥃 | CORRETTO = „korrigiert“ – mit einem Schuss Schnaps. | | Un *caffè corretto* con la grappa. | Einen Espresso mit Grappa.
+il caffè al vetro | der Espresso im Glas | m | 🥃 | VETRO = Glas: serviert im kleinen Glas statt in der Tasse. | | Un *caffè al vetro*, per favore. | Einen Espresso im Glas, bitte.
+il caffè americano | der amerikanische Kaffee (verlängert) | m | 🇺🇸 | Espresso mit viel heißem Wasser. | | Un *caffè americano* grande. | Einen großen amerikanischen Kaffee.
+il latte macchiato | der Latte macchiato | m | 🥛 | MACCHIATO = befleckt: Milch, „befleckt“ mit Espresso. | | Un *latte macchiato*, per favore. | Einen Latte macchiato, bitte.
+la cioccolata calda | die heiße Schokolade | f | ☕ | CIOCCOLATA (Getränk) vs. cioccolato (Tafel). CALDA = heiß! | | Una *cioccolata calda* con panna. | Eine heiße Schokolade mit Sahne.
+il succo di frutta | der Fruchtsaft | m | 🧃 | SUCCO = Saft, FRUTTA = Obst. | | Un *succo di frutta* alla pera. | Einen Birnensaft.
+le bibite | die Getränke (Erfrischungsgetränke) | f;pl | 🥤 | BIBITE – von bere (trinken): alles zum Trinken. | | Le *bibite* sono in frigo. | Die Getränke sind im Kühlschrank.
+il bancone | die Theke | m | 🧍 | BANCONE = große Bank (banco): der Tresen. | | Prendo il caffè al *bancone*. | Ich trinke den Kaffee an der Theke.
+l'aperitivo | der Aperitif | m
+il tè | der Tee | m
+la cassa | die Kasse | f
+
+# Essen & Trinken
+caldo/calda | warm; heiß | adj
+freddo/fredda | kalt | adj
+bere | trinken | v
+
+# Verben
+potere | können; dürfen | v
+volere | wollen | v
+
+# Grundlagen & Begrüßung
+grazie mille | vielen Dank | expr
+grazie molte | vielen Dank | expr | 🙏 | MOLTE = viele: „viele Danke“. | | *Grazie molte*, signora! | Vielen Dank, meine Dame!
+prego | bitte (gern geschehen); bitte schön | int
+si figuri | keine Ursache (höflich) | expr | 🎩 | Höfliche Form von „figurati“: „Stellen Sie sich vor!“ – das war doch selbstverständlich. | | – Grazie! – *Si figuri*! | – Danke! – Keine Ursache!
+non c'è di che | nichts zu danken | expr | 🤲 | Wörtlich: „Es gibt nichts, wofür.“ | | – Grazie mille! – *Non c'è di che*. | – Vielen Dank! – Nichts zu danken.
+di niente | keine Ursache | expr
+di nulla | gern geschehen; keine Ursache | expr | 🤷 | NULLA = nichts – wie die Null. | | – Grazie! – *Di nulla*! | – Danke! – Gern geschehen!
+
+# Sätze: Bar & Café
+Vorrei un caffè, per favore. | Ich möchte einen Kaffee, bitte. | ph | ☕ | VORREI = ich hätte gern – höflicher als „voglio“.
+Un caffè, per favore. | Einen Espresso, bitte. | ph
+Cappuccio e brioche, per favore. | Cappuccino und Hörnchen, bitte. | ph | 🥐 | Das klassische italienische Frühstück in der Bar.
+Mi fa un caffè, per favore? | Machen Sie mir bitte einen Kaffee? | ph | ☕ | MI FA = Sie machen mir (höflich, fare).
+Ci fa un caffè, per favore? | Machen Sie uns bitte einen Kaffee? | ph | ☕ | CI = uns.
+Mi fa un cappuccino, per favore? | Machen Sie mir bitte einen Cappuccino? | ph | ☕
+Bevo un caffè. | Ich trinke einen Kaffee. | ph | ☕ | BEVO von bere.
+Cosa prendi? | Was nimmst du? | ph | 🙋
+Cosa prendete? | Was nehmt ihr? | ph | 🙋‍♀️
+Prendo un caffè. | Ich nehme einen Kaffee. | ph | ☕
+Posso ordinare? | Darf ich bestellen? | ph | 🗒️ | POSSO = ich kann/darf (potere).
+Vuole ordinare? | Möchten Sie bestellen? | ph | 🤵 | VUOLE = Sie wollen (höflich, volere).
+Il caffè lo prende al banco o al tavolo? | Trinken Sie den Kaffee an der Theke oder am Tisch? | ph | 🪑 | Am Tisch kostet es oft mehr!
+Un caffè corretto con la grappa, per favore. | Einen Espresso mit Grappa, bitte. | ph | 🥃
+Quant'è in tutto? | Wie viel ist es insgesamt? | ph | 💶 | IN TUTTO = insgesamt.
+Quanto viene in tutto? | Wie viel macht es insgesamt? | ph | 💶 | VIENE = es kommt (venire) – „auf wie viel kommt es“.
+Quanto fa? | Wie viel macht das? | ph | 💶 | FA = es macht (fare).
+Pago io! | Ich zahle! | ph | 💳
+Si ordina dopo aver pagato e ricevuto lo scontrino. | Man bestellt, nachdem man bezahlt und den Kassenbon bekommen hat. | ph | 🧾 | Typisch in italienischen Bars: erst an der Kasse zahlen, dann mit Bon am Tresen bestellen.
